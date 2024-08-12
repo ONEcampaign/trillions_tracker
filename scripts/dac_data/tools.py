@@ -101,16 +101,6 @@ def group_donors(df: pd.DataFrame) -> pd.DataFrame:
     ].sum()
 
 
-def group_indicators(df: pd.DataFrame) -> pd.DataFrame:
-    """Group the data by indicator"""
-
-    grouper = [c for c in df.columns if c not in ["indicator", "value"]]
-
-    return df.groupby(grouper, as_index=False, dropna=False, observed=True)[
-        "value"
-    ].sum()
-
-
 def group_recipients(df: pd.DataFrame) -> pd.DataFrame:
     grouper = [
         c for c in df.columns if c not in ["recipient_code", "recipient_name", "value"]
