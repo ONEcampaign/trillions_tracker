@@ -11,6 +11,7 @@ class Paths:
     output = project / "output"
     scripts = project / "scripts"
 
+
 REFERENCE_YEAR: int = 2019
 
 EXCLUDE_CHINA = True
