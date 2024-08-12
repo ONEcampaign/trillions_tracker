@@ -33,6 +33,7 @@ def bilateral_oda(indicator: str):
 
     df = get_oda_data(
         indicator=INDICATORS[indicator],
+        donors=config.BILATERAL,
         start_year=START_YEAR,
         end_year=END_YEAR,
     )

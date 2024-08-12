@@ -18,6 +18,7 @@ set_pydeflate_path(config.Paths.raw_data)
 
 def get_oda_data(
     indicator: str,
+    donors: list[str],
     start_year: int = 2019,
     end_year: int = 2023,
     prices: str = "constant",
@@ -30,7 +31,7 @@ def get_oda_data(
     # Create ODA object
     oda = ODAData(
         years=range(start_year, end_year + 1),
-        donors=list(BILATERAL.keys()),
+        donors=donors,
         prices=prices,
         base_year=base_year,
     )
@@ -63,4 +64,5 @@ if __name__ == "__main__":
         indicator="bilateral_commitments",
         start_year=2017,
         end_year=2023,
+        donors=list(BILATERAL),
     )
