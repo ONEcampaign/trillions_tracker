@@ -8,3 +8,8 @@ class Paths:
     raw_data = project / "raw_data"
     output = project / "output"
     scripts = project / "scripts"
+
+
+EXCLUDE_CHINA = True
+
+DRM_INDICATOR: str = "revenue"
