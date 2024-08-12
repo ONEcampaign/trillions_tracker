@@ -51,6 +51,7 @@ def keep_oda_only(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def get_commitments_data(
+    donors: list[int | str],
     start_year: int = 2019,
     end_year: int = 2023,
     oda_only: bool = True,
@@ -68,7 +69,9 @@ def get_commitments_data(
         "modality",
     ]
 
-    df = read_crs(years=range(start_year, end_year + 1))
+    df = read_crs(years=range(start_year, end_year + 1)).loc[
+        lambda d: d.donor_code.isin(donors)
+    ]
 
     if oda_only:
         df = keep_oda_only(df)
@@ -112,7 +115,7 @@ def group_recipients(df: pd.DataFrame) -> pd.DataFrame:
 
 def add_donor_name(df: pd.DataFrame) -> pd.DataFrame:
     df["donor_name"] = (
-        df["donor_code"].map(donor_groupings["all_official"]).fillna("donor_code")
+        df["donor_code"].map(donor_groupings()["all_official"]).fillna("donor_code")
     )
 
     return df
