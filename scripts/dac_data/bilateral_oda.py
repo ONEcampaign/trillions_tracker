@@ -2,30 +2,11 @@ import pandas as pd
 
 from scripts import config
 from scripts.dac_data.oda import get_oda_data
-from scripts.dac_data.tools import INDICATORS
+from scripts.dac_data.tools import INDICATORS, key_statistics
 from scripts.tools import export_json
 
 START_YEAR: int = 2017
 END_YEAR: int = 2023
-
-REFERENCE_YEAR: int = 2019
-
-
-def key_statistics(df: pd.DataFrame, indicator: str):
-
-    total_latest = df.loc[lambda d: d.year == d.year.max()].value.sum()
-    total_baseline = df.loc[lambda d: d.year == REFERENCE_YEAR].value.sum()
-    change_usd = total_latest - total_baseline
-    change_pct = change_usd / total_baseline
-
-    return {
-        indicator: {
-            "total_latest": f"{total_latest/1e3:.1f} billion",
-            "total_baseline": f"{total_baseline/1e3:.1f} billion",
-            "change_usd": f"{change_usd/1e3:.1f} billion",
-            "change_pct": f"{change_pct:.1%}",
-        }
-    }
 
 
 def bilateral_oda(indicator: str):

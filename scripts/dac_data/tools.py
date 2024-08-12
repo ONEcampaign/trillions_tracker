@@ -1,8 +1,8 @@
 import pandas as pd
-from oda_data import read_crs
+from oda_data import read_crs, donor_groupings
 from pydeflate import deflate
 
-from scripts.config import EXCLUDE_IDRC, EXCLUDE_CHINA, BILATERAL, DEV_COUNTRIES
+from scripts.config import EXCLUDE_IDRC, EXCLUDE_CHINA, DEV_COUNTRIES, REFERENCE_YEAR
 
 INDICATORS: dict[str, str] = {
     "official_oda": "total_oda_official_definition",
@@ -19,7 +19,6 @@ INDICATORS: dict[str, str] = {
     "bilateral_recipient_loans_net": "recipient_loans_flow_net",
     "bilateral_commitments": "bilateral_commitments",
 }
-
 
 REFUGEE_MODS: list[str] = ["H02", "H03", "H04", "H05", "H06"]
 
@@ -112,7 +111,9 @@ def group_recipients(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def add_donor_name(df: pd.DataFrame) -> pd.DataFrame:
-    df["donor_name"] = df["donor_code"].map(BILATERAL).fillna("donor_code")
+    df["donor_name"] = (
+        df["donor_code"].map(donor_groupings["all_official"]).fillna("donor_code")
+    )
 
     return df
 
@@ -122,3 +123,20 @@ def filter_dev_countries(df: pd.DataFrame) -> pd.DataFrame:
         df = df.loc[lambda d: d["recipient_code"].isin(DEV_COUNTRIES.keys())]
 
     return df
+
+
+def key_statistics(df: pd.DataFrame, indicator: str):
+
+    total_latest = df.loc[lambda d: d.year == d.year.max()].value.sum()
+    total_baseline = df.loc[lambda d: d.year == REFERENCE_YEAR].value.sum()
+    change_usd = total_latest - total_baseline
+    change_pct = change_usd / total_baseline
+
+    return {
+        indicator: {
+            "total_latest": f"{total_latest/1e3:.1f} billion",
+            "total_baseline": f"{total_baseline/1e3:.1f} billion",
+            "change_usd": f"{change_usd/1e3:.1f} billion",
+            "change_pct": f"{change_pct:.1%}",
+        }
+    }
