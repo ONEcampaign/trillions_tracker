@@ -50,11 +50,19 @@ def keep_oda_only(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def keep_non_oda_only(df: pd.DataFrame) -> pd.DataFrame:
+    """Filter the data to only include ODA"""
+    df = df.loc[lambda d: ~d["flow_code"].isin([11, 13, 19])]
+
+    return df
+
+
 def get_commitments_data(
     donors: list[int | str],
     start_year: int = 2019,
     end_year: int = 2023,
     oda_only: bool = True,
+    non_oda_only: bool = False,
     prices: str = "constant",
     base_year: int = 2019,
 ):
@@ -69,12 +77,18 @@ def get_commitments_data(
         "modality",
     ]
 
-    df = read_crs(years=range(start_year, end_year + 1)).loc[
-        lambda d: d.donor_code.isin(donors)
-    ]
+    df = read_crs(years=range(start_year, end_year + 1))
+
+    df = df.loc[lambda d: d["donor_code"].isin(donors)]
+
+    if oda_only and non_oda_only:
+        raise ValueError("Cannot have both oda_only and non_oda_only as True")
 
     if oda_only:
         df = keep_oda_only(df)
+
+    if non_oda_only:
+        df = keep_non_oda_only(df)
 
     if EXCLUDE_IDRC:
         df = df.loc[lambda d: ~d["modality"].isin(REFUGEE_MODS)]
