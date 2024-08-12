@@ -17,6 +17,8 @@ REFERENCE_YEAR: int = 2019
 EXCLUDE_CHINA = True
 EXCLUDE_IDRC = True
 
+DRM_INDICATOR: str = "revenue"
+
 BILATERAL = donor_groupings()["all_bilateral"]
 
 DEV_COUNTRIES = {
