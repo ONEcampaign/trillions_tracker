@@ -38,6 +38,7 @@ def get_oda_data(
 
     if indicator == "bilateral_commitments":
         df = get_commitments_data(
+            donors=donors,
             start_year=start_year,
             end_year=end_year,
             prices=prices,
