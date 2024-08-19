@@ -95,6 +95,28 @@ def export_bilateral_commitments_versions():
     )
 
 
+def export_multilateral():
+    indicator = "multilateral_commitments"
+    data_comm_total = bilateral_oda(
+        indicator=indicator,
+        exclude_china=True,
+        exclude_idrc=False,
+        exclude_awareness=False,
+        exclude_students=False,
+    )
+    stats_comm_total = key_statistics(data_comm_total, indicator=indicator)
+
+    data_comm_total.to_csv(
+        config.Paths.output / "core_multilateral_commitments_oda.csv",
+        index=False,
+    )
+
+    export_json(
+        config.Paths.output / "key_stats_core_multilateral_commitments_oda.json",
+        stats_comm_total,
+    )
+
+
 def export_oof_bilateral_versions():
     data_oof_total = bilateral_non_concessional(
         exclude_china=True,
@@ -141,3 +163,6 @@ if __name__ == "__main__":
 
     # Non-concessional
     export_oof_bilateral_versions()
+
+    # Multi
+    export_multilateral()

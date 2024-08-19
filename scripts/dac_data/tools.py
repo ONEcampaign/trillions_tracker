@@ -1,5 +1,5 @@
 import pandas as pd
-from oda_data import read_crs, donor_groupings
+from oda_data import read_crs, donor_groupings, read_dac1
 from pydeflate import deflate
 
 from scripts.config import (
@@ -14,6 +14,7 @@ from scripts.config import (
 INDICATORS: dict[str, str] = {
     "official_oda": "total_oda_official_definition",
     "core_oda": "total_oda_core",
+    "multilateral_commitments": "multilateral_commitments",
     "total_net": "total_oda_bilateral_flow_net",
     "total_gross": "total_oda_flow_gross",
     "total_grants": "total_oda_grants_flow",
@@ -65,6 +66,41 @@ def keep_non_oda_only(df: pd.DataFrame) -> pd.DataFrame:
     df = df.loc[lambda d: ~d["flow_code"].isin([11, 13, 19])]
 
     return df
+
+
+def get_multilateral_commitments(
+    donors: list[int | str],
+    start_year: int = 2019,
+    end_year: int = 2023,
+    prices: str = "constant",
+    base_year: int = 2019,
+):
+    """Get the total ODA for the given years"""
+
+    grouper = [
+        "year",
+        "donor_code",
+        "donor_name",
+    ]
+
+    df = read_dac1(years=range(start_year, end_year + 1))
+
+    df = df.loc[lambda d: d["donor_code"].isin(donors)]
+
+    df = df.query(
+        "aidtype_code == 2000 and flows_code == 1150 and amounttype_code=='A'"
+    )
+
+    df = (
+        df.groupby(grouper, as_index=False, dropna=False, observed=True)[["value"]]
+        .sum()
+        .rename(columns={"value": "usd_commitment"})
+    )
+
+    if prices == "constant":
+        df = to_constant(df, base_year=base_year)
+
+    return df.rename(columns={"usd_commitment": "value"})
 
 
 def get_commitments_data(
@@ -165,7 +201,6 @@ def filter_dev_countries(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def key_statistics(df: pd.DataFrame, indicator: str):
-
     total_latest = df.loc[lambda d: d.year == d.year.max()].value.sum()
     total_baseline = df.loc[lambda d: d.year == REFERENCE_YEAR].value.sum()
     change_usd = total_latest - total_baseline
@@ -173,9 +208,9 @@ def key_statistics(df: pd.DataFrame, indicator: str):
 
     return {
         indicator: {
-            "total_latest": f"{total_latest/1e3:.1f} billion",
-            "total_baseline": f"{total_baseline/1e3:.1f} billion",
-            "change_usd": f"{change_usd/1e3:.1f} billion",
+            "total_latest": f"{total_latest / 1e3:.1f} billion",
+            "total_baseline": f"{total_baseline / 1e3:.1f} billion",
+            "change_usd": f"{change_usd / 1e3:.1f} billion",
             "change_pct": f"{change_pct:.1%}",
         }
     }

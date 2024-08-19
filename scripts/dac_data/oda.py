@@ -10,6 +10,7 @@ from scripts.dac_data.tools import (
     group_recipients,
     add_donor_name,
     filter_dev_countries,
+    get_multilateral_commitments,
 )
 
 set_data_path(config.Paths.raw_data)
@@ -52,6 +53,14 @@ def get_oda_data(
             exclude_idrc=exclude_idrc,
             exclude_students=exclude_students,
             exclude_awareness=exclude_awareness,
+        )
+    elif indicator == "multilateral_commitments":
+        df = get_multilateral_commitments(
+            donors=donors,
+            start_year=start_year,
+            end_year=end_year,
+            prices=prices,
+            base_year=base_year,
         )
     else:
         # Load the indicator
