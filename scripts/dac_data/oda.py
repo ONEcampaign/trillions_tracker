@@ -25,6 +25,10 @@ def get_oda_data(
     base_year: int = 2019,
     by_donor: bool = False,
     by_recipient: bool = False,
+    exclude_china: bool = True,
+    exclude_idrc: bool = True,
+    exclude_students: bool = True,
+    exclude_awareness: bool = True,
 ) -> pd.DataFrame:
     """Get the total ODA for the given years"""
 
@@ -44,6 +48,10 @@ def get_oda_data(
             prices=prices,
             base_year=base_year,
             oda_only=True,
+            exclude_china=exclude_china,
+            exclude_idrc=exclude_idrc,
+            exclude_students=exclude_students,
+            exclude_awareness=exclude_awareness,
         )
     else:
         # Load the indicator
