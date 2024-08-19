@@ -8,7 +8,13 @@ START_YEAR: int = 2017
 END_YEAR: int = 2023
 
 
-def bilateral_oda(indicator: str):
+def bilateral_oda(
+    indicator: str,
+    exclude_china: bool = True,
+    exclude_idrc: bool = True,
+    exclude_students: bool = True,
+    exclude_awareness: bool = True,
+):
     """Get the bilateral ODA data"""
 
     df = get_oda_data(
@@ -16,60 +22,122 @@ def bilateral_oda(indicator: str):
         donors=list(config.BILATERAL),
         start_year=START_YEAR,
         end_year=END_YEAR,
+        exclude_china=exclude_china,
+        exclude_idrc=exclude_idrc,
+        exclude_students=exclude_students,
+        exclude_awareness=exclude_awareness,
     )
 
     return df
 
 
-def bilateral_non_concessional():
+def bilateral_non_concessional(
+    exclude_china=True,
+    exclude_idrc=True,
+    exclude_awareness=True,
+    exclude_students=True,
+):
     """Get the bilateral non-concessional ODA data"""
 
     df = get_oof_data(
         donors=list(config.BILATERAL),
         start_year=START_YEAR,
         end_year=END_YEAR,
+        exclude_china=exclude_china,
+        exclude_idrc=exclude_idrc,
+        exclude_awareness=exclude_awareness,
+        exclude_students=exclude_students,
     )
 
     return df
 
 
-if __name__ == "__main__":
-    # Concessional
-    indicator_disb = "bilateral_recipient_total_gross"
+def export_bilateral_commitments_versions():
     indicator_comm = "bilateral_commitments"
-    data_disb = bilateral_oda(indicator=indicator_disb)
-    data_comm = bilateral_oda(indicator=indicator_comm)
-    stats_disb = key_statistics(data_disb, indicator=indicator_disb)
-    stats_comm = key_statistics(data_comm, indicator=indicator_comm)
+
+    data_comm_total = bilateral_oda(
+        indicator=indicator_comm,
+        exclude_china=True,
+        exclude_idrc=False,
+        exclude_awareness=False,
+        exclude_students=False,
+    )
+    stats_comm_total = key_statistics(data_comm_total, indicator=indicator_comm)
+
+    data_comm_core = bilateral_oda(
+        indicator=indicator_comm,
+        exclude_china=True,
+        exclude_idrc=True,
+        exclude_awareness=True,
+        exclude_students=True,
+    )
+
+    stats_comm_core = key_statistics(data_comm_core, indicator=indicator_comm)
+
+    data_comm_total.to_csv(
+        config.Paths.output / "total_bilateral_commitments_oda_constant_excl_China.csv",
+        index=False,
+    )
+
+    export_json(
+        config.Paths.output / "total_key_stats_bilateral_commitments_oda.json",
+        stats_comm_total,
+    )
+
+    data_comm_core.to_csv(
+        config.Paths.output / "core_bilateral_commitments_oda_constant_excl_China.csv",
+        index=False,
+    )
+
+    export_json(
+        config.Paths.output / "core_key_stats_bilateral_commitments_oda.json",
+        stats_comm_core,
+    )
+
+
+def export_oof_bilateral_versions():
+    data_oof_total = bilateral_non_concessional(
+        exclude_china=True,
+        exclude_idrc=False,
+        exclude_awareness=False,
+        exclude_students=False,
+    )
+    stats_oof_total = key_statistics(data_oof_total, indicator="non_concessional")
+
+    data_oof_core = bilateral_non_concessional(
+        exclude_china=True,
+        exclude_idrc=True,
+        exclude_awareness=True,
+        exclude_students=True,
+    )
+    stats_oof_core = key_statistics(data_oof_core, indicator="non_concessional")
+
+    data_oof_total.to_csv(
+        config.Paths.output
+        / "total_bilateral_non_concessional_constant_excl_China.csv",
+        index=False,
+    )
+
+    export_json(
+        config.Paths.output / "total_key_stats_bilateral_non_concessional.json",
+        stats_oof_total,
+    )
+
+    data_oof_core.to_csv(
+        config.Paths.output / "core_bilateral_non_concessional_constant_excl_China.csv",
+        index=False,
+    )
+
+    export_json(
+        config.Paths.output / "core_key_stats_bilateral_non_concessional.json",
+        stats_oof_core,
+    )
+
+
+if __name__ == "__main__":
+
+    # Concessional
+    export_bilateral_commitments_versions()
 
     # Non-concessional
-    data_oof = bilateral_non_concessional()
-    stats_oof = key_statistics(data_oof, indicator="non_concessional")
-
-    # Save the data
-    data_disb.to_csv(
-        config.Paths.output / "bilateral_disbursements_oda_constant_excl_China.csv",
-        index=False,
-    )
-
-    data_comm.to_csv(
-        config.Paths.output / "bilateral_commitments_oda_constant_excl_China.csv",
-        index=False,
-    )
-
-    data_oof.to_csv(
-        config.Paths.output / "bilateral_non_concessional_constant_excl_China.csv",
-        index=False,
-    )
-
-    export_json(
-        config.Paths.output / "key_stats_bilateral_disbursements_oda.json", stats_disb
-    )
-
-    export_json(
-        config.Paths.output / "key_stats_bilateral_commitments_oda.json", stats_comm
-    )
-
-    export_json(
-        config.Paths.output / "key_stats_bilateral_non_concessional.json", stats_oof
-    )
+    export_oof_bilateral_versions()

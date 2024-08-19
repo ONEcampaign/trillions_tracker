@@ -2,10 +2,18 @@ import pandas as pd
 from oda_data import read_crs, donor_groupings
 from pydeflate import deflate
 
-from scripts.config import EXCLUDE_IDRC, EXCLUDE_CHINA, DEV_COUNTRIES, REFERENCE_YEAR
+from scripts.config import (
+    EXCLUDE_IDRC,
+    EXCLUDE_CHINA,
+    DEV_COUNTRIES,
+    REFERENCE_YEAR,
+    EXCLUDE_STUDENTS,
+    EXCLUDE_AWARENESS,
+)
 
 INDICATORS: dict[str, str] = {
     "official_oda": "total_oda_official_definition",
+    "core_oda": "total_oda_core",
     "total_net": "total_oda_bilateral_flow_net",
     "total_gross": "total_oda_flow_gross",
     "total_grants": "total_oda_grants_flow",
@@ -21,6 +29,8 @@ INDICATORS: dict[str, str] = {
 }
 
 REFUGEE_MODS: list[str] = ["H02", "H03", "H04", "H05", "H06"]
+STUDENT_MODS: list[str] = ["E01", "E02"]
+AWARENESS_MODS: list[str] = ["H01"]
 
 
 def to_constant(df: pd.DataFrame, base_year: int = 2019) -> pd.DataFrame:
@@ -65,6 +75,10 @@ def get_commitments_data(
     non_oda_only: bool = False,
     prices: str = "constant",
     base_year: int = 2019,
+    exclude_china: bool = EXCLUDE_CHINA,
+    exclude_idrc: bool = EXCLUDE_IDRC,
+    exclude_students: bool = EXCLUDE_STUDENTS,
+    exclude_awareness: bool = EXCLUDE_AWARENESS,
 ):
     """Get the total ODA for the given years"""
 
@@ -90,11 +104,19 @@ def get_commitments_data(
     if non_oda_only:
         df = keep_non_oda_only(df)
 
-    if EXCLUDE_IDRC:
+    if exclude_idrc:
         df = df.loc[lambda d: ~d["modality"].isin(REFUGEE_MODS)]
+
+    if exclude_students:
+        df = df.loc[lambda d: ~d["modality"].isin(STUDENT_MODS)]
+
+    if exclude_awareness:
+        df = df.loc[lambda d: ~d["modality"].isin(AWARENESS_MODS)]
+
+    if exclude_idrc or exclude_students or exclude_awareness:
         grouper = [c for c in grouper if c != "modality"]
 
-    if EXCLUDE_CHINA:
+    if exclude_china:
         df = df.loc[lambda d: d["recipient_code"] != 730]
 
     df = df.groupby(grouper, as_index=False, dropna=False, observed=True)[

@@ -24,6 +24,10 @@ def get_oof_data(
     base_year: int = 2019,
     by_donor: bool = False,
     by_recipient: bool = False,
+    exclude_china=True,
+    exclude_idrc=True,
+    exclude_awareness=True,
+    exclude_students=True,
 ) -> pd.DataFrame:
     """Get the total ODA for the given years"""
 
@@ -35,6 +39,10 @@ def get_oof_data(
         base_year=base_year,
         oda_only=False,
         non_oda_only=True,
+        exclude_china=exclude_china,
+        exclude_idrc=exclude_idrc,
+        exclude_awareness=exclude_awareness,
+        exclude_students=exclude_students,
     )
 
     # Group the data as requested
