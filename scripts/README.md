@@ -55,12 +55,11 @@ Non-concessional disbursements are calculated as Multilateral disbursements minu
 
 We also filter the data to include only multilateral development banks (excluding funds like _Arab Monetary Fund_ or _European Development Fund (EDF)_, or investment banks like _Nordic Investment Bank_).
 
-We exclude China from the list of borrowers.
-
 **Note**: The latest values are for 2022.
 
 ### Key differences
-There are no notable differences in approach as far as we are aware.
+We exclude China from the list of borrowers. That creates a ~6% difference with the original 2019 data.
+
 
 
 ## Bilateral non-concessional financing
@@ -82,6 +81,12 @@ We exclude China from the list of borrowers.
 
 ### Key differences
 While the original methodology doesn't specify the detail of bilateral lenders, we exclude China from the list of lenders. 
+
+We also China from the list of borrowers.
+
+Combined, that creates a significant difference with the original 2019 data.
+
+
 
 
 

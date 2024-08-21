@@ -10,6 +10,23 @@ from scripts.tools import export_json
 
 set_bblocks_data_path(config.Paths.raw_data)
 
+NON_MDBs = [
+    "Arab Monetary Fund",
+    "Arab Fund for Economic & Social Development",
+    "OPEC Fund for International Dev.",
+    "Plata Basin Financial Dev. Fund",
+    "International Finance Corporation",
+    "African Export-Import Bank",
+    "European Social Fund (ESF)",
+    "European Development Fund (EDF)",
+    "Nordic Investment Bank",
+    "Arab African International Bank",
+]
+
+
+def exclude_non_mdbs(df: pd.DataFrame):
+    return df.loc[lambda d: ~d.counterpart_area.isin(NON_MDBs)]
+
 
 def get_non_concessional_lending(
     indicator: str = "bilateral",
@@ -42,6 +59,9 @@ def get_non_concessional_lending(
 
     if exclude_china_counterpart:
         df = df.loc[lambda d: d.counterpart_area != "China"]
+
+    if indicator == "multilateral":
+        df = exclude_non_mdbs(df)
 
     df = (
         df.groupby(
@@ -104,14 +124,24 @@ def export_multilateral():
     total = get_non_concessional_lending(
         indicator="multilateral",
         exclude_china_country=False,
-        exclude_china_counterpart=False,
+        start_year=2017,
+        end_year=2022,
+    )
+
+    exclude_china = get_non_concessional_lending(
+        indicator="multilateral",
+        exclude_china_country=True,
         start_year=2017,
         end_year=2022,
     )
 
     total_stats = key_statistics(total, indicator="multilateral")
+    exclude_china_stats = key_statistics(exclude_china, indicator="exclude_china")
 
-    export_json(config.Paths.output / "non_concessional_multilateral.json", total_stats)
+    export_json(
+        config.Paths.output / "non_concessional_multilateral.json",
+        total_stats | exclude_china_stats,
+    )
 
 
 if __name__ == "__main__":
