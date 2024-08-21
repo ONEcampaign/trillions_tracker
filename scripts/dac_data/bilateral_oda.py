@@ -1,3 +1,5 @@
+import pandas as pd
+
 from scripts import config
 from scripts.dac_data.oda import get_oda_data
 from scripts.dac_data.oof import get_oof_data
@@ -95,6 +97,46 @@ def export_bilateral_commitments_versions():
     )
 
 
+def export_all_donors_gross_disbursements():
+    indicator_comm = "gross_disbursements"
+
+    gross_disbursements = bilateral_oda(
+        indicator=indicator_comm,
+        exclude_china=True,
+    )
+    stats_gross_disbursements_total = key_statistics(
+        gross_disbursements, indicator=indicator_comm
+    )
+
+    students = bilateral_oda(indicator="students")
+    idrc = bilateral_oda(indicator="idrc")
+
+    in_donor = (
+        pd.concat([students, idrc], ignore_index=True)
+        .groupby(["year", "prices"], as_index=False, dropna=False, observed=True)[
+            "value"
+        ]
+        .sum()
+    )
+
+    in_donor_stats = key_statistics(in_donor, indicator="in_donor")
+
+    gross_disbursements.to_csv(
+        config.Paths.output / "total_gross_disbursements_constant_excl_China.csv",
+        index=False,
+    )
+
+    in_donor.to_csv(
+        config.Paths.output / "in_donor_constant_oda.csv",
+        index=False,
+    )
+
+    export_json(
+        config.Paths.output / "total_gross_disbursements_constant_oda.json",
+        stats_gross_disbursements_total | in_donor_stats,
+    )
+
+
 def export_multilateral():
     indicator = "multilateral_commitments"
     data_comm_total = bilateral_oda(
@@ -157,6 +199,8 @@ def export_oof_bilateral_versions():
 
 
 if __name__ == "__main__":
+    # gross disbursements
+    export_all_donors_gross_disbursements()
 
     # Concessional
     export_bilateral_commitments_versions()

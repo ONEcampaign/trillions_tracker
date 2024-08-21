@@ -12,6 +12,7 @@ from scripts.config import (
 )
 
 INDICATORS: dict[str, str] = {
+    "gross_disbursements": "gross_disbursements",
     "official_oda": "total_oda_official_definition",
     "core_oda": "total_oda_core",
     "multilateral_commitments": "multilateral_commitments",
@@ -27,6 +28,8 @@ INDICATORS: dict[str, str] = {
     "bilateral_recipient_loans_gross": "recipient_loans_flow_gross",
     "bilateral_recipient_loans_net": "recipient_loans_flow_net",
     "bilateral_commitments": "bilateral_commitments",
+    "students": "total_in_donor_students_ge_linked",
+    "idrc": "idrc_ge_linked",
 }
 
 REFUGEE_MODS: list[str] = ["H02", "H03", "H04", "H05", "H06"]
@@ -34,7 +37,9 @@ STUDENT_MODS: list[str] = ["E01", "E02"]
 AWARENESS_MODS: list[str] = ["H01"]
 
 
-def to_constant(df: pd.DataFrame, base_year: int = 2019) -> pd.DataFrame:
+def to_constant(
+    df: pd.DataFrame, base_year: int = 2019, column: str = "usd_commitment"
+) -> pd.DataFrame:
     """Convert the values to constant prices"""
     df = deflate(
         df=df,
@@ -47,8 +52,8 @@ def to_constant(df: pd.DataFrame, base_year: int = 2019) -> pd.DataFrame:
         id_column="donor_code",
         id_type="DAC",
         date_column="year",
-        source_column="usd_commitment",
-        target_column="usd_commitment",
+        source_column=column,
+        target_column=column,
     )
 
     return df
