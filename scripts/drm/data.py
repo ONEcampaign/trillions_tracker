@@ -3,7 +3,15 @@ from bblocks import WorldEconomicOutlook, set_bblocks_data_path
 
 from scripts import config
 from scripts.config import DRM_INDICATOR, EXCLUDE_CHINA
-from scripts.drm.tools import gdp2usd, to_constant, exclude_china, group_countries
+from scripts.dac_data.tools import key_statistics
+from scripts.drm.tools import (
+    gdp2usd,
+    to_constant,
+    exclude_china,
+    group_countries,
+    exclude_high_income,
+)
+from scripts.tools import export_json
 
 set_bblocks_data_path(config.Paths.raw_data)
 
@@ -31,7 +39,11 @@ def get_drm(
         year=lambda d: d.year.dt.year, value=lambda d: d.value / 100
     )
 
+    # Filter years
     data = data.loc[lambda d: d.year.between(start_year, end_year)]
+
+    # Filter countries
+    data = exclude_high_income(data)
 
     # As USD
     data = gdp2usd(data)
@@ -45,8 +57,20 @@ def get_drm(
     if not by_country:
         data = group_countries(data)
 
-    return data.assign(value=lambda d: (d.value.astype(float) / 1e6).round(1))
+    return data.assign(value=lambda d: (d.value.astype(float) / 1e6).round(3))
+
+
+def export_drm_data():
+    df = get_drm(indicator=INDICATORS[DRM_INDICATOR], start_year=2017, end_year=2029)
+
+    stats = key_statistics(df, "drm")
+
+    df.to_csv(
+        config.Paths.output / "domestic_revenues_constant_excl_China.csv", index=False
+    )
+
+    export_json(config.Paths.output / "stats_domestic_revenues.json", stats)
 
 
 if __name__ == "__main__":
-    df = get_drm(indicator=INDICATORS[DRM_INDICATOR], start_year=2017, end_year=2029)
+    export_drm_data()

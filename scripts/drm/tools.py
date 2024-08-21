@@ -1,6 +1,6 @@
 import pandas as pd
 
-from bblocks import WorldEconomicOutlook, set_bblocks_data_path
+from bblocks import WorldEconomicOutlook, set_bblocks_data_path, add_income_level_column
 from pydeflate import deflate, set_pydeflate_path
 
 from scripts import config
@@ -62,6 +62,13 @@ def to_constant(df: pd.DataFrame, base_year: int = 2019) -> pd.DataFrame:
 
 def exclude_china(data: pd.DataFrame) -> pd.DataFrame:
     return data.loc[lambda d: d.iso_code != "CHN"]
+
+
+def exclude_high_income(data: pd.DataFrame) -> pd.DataFrame:
+    data = add_income_level_column(data, id_column="iso_code", id_type="ISO3")
+    return data.loc[lambda d: d.income_level != "High income"].drop(
+        columns=["income_level"]
+    )
 
 
 def group_countries(data: pd.DataFrame) -> pd.DataFrame:
