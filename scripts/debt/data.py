@@ -1,15 +1,10 @@
 import pandas as pd
-from bblocks import set_bblocks_data_path, DebtIDS, add_iso_codes_column, convert_id
+from bblocks import set_bblocks_data_path, DebtIDS, convert_id
 
 from scripts import config
-from scripts.config import DRM_INDICATOR, EXCLUDE_CHINA
 from scripts.dac_data.tools import key_statistics
 from scripts.drm.tools import (
-    gdp2usd,
     to_constant,
-    exclude_china,
-    group_countries,
-    keep_emde_only,
 )
 from scripts.tools import export_json
 
@@ -17,6 +12,7 @@ set_bblocks_data_path(config.Paths.raw_data)
 
 
 def get_non_concessional_lending(
+    indicator: str = "bilateral",
     start_year: int = 2017,
     end_year: int = 2023,
     exclude_china_counterpart: bool = True,
@@ -24,10 +20,16 @@ def get_non_concessional_lending(
     prices: str = "constant",
 ) -> pd.DataFrame:
 
-    indicators = ["DT.DIS.BLAT.CD", "DT.DIS.BLTC.CD"]
+    if indicator == "bilateral":
+        indicator1, indicator2 = "DT.DIS.BLAT.CD", "DT.DIS.BLTC.CD"
+    else:
+        indicator1, indicator2 = "DT.DIS.MLAT.CD", "DT.DIS.MLTC.CD"
+
     ids = DebtIDS()
 
-    ids.load_data(indicators=indicators, start_year=start_year, end_year=end_year)
+    ids.load_data(
+        indicators=[indicator1, indicator2], start_year=start_year, end_year=end_year
+    )
 
     df = (
         ids.get_data()
@@ -59,7 +61,7 @@ def get_non_concessional_lending(
         values="value",
     ).reset_index()
 
-    dfp["value"] = dfp["DT.DIS.BLAT.CD"] - dfp["DT.DIS.BLTC.CD"]
+    dfp["value"] = dfp[indicator1] - dfp[indicator2]
 
     dfp["iso_code"] = convert_id(
         dfp.country, from_type="regex", to_type="ISO3", not_found=pd.NA
@@ -76,7 +78,6 @@ def get_non_concessional_lending(
 
 
 def export_bilateral():
-
     total = get_non_concessional_lending(
         exclude_china_country=False,
         exclude_china_counterpart=False,
@@ -99,6 +100,20 @@ def export_bilateral():
     )
 
 
-if __name__ == "__main__":
+def export_multilateral():
+    total = get_non_concessional_lending(
+        indicator="multilateral",
+        exclude_china_country=False,
+        exclude_china_counterpart=False,
+        start_year=2017,
+        end_year=2022,
+    )
 
+    total_stats = key_statistics(total, indicator="multilateral")
+
+    export_json(config.Paths.output / "non_concessional_multilateral.json", total_stats)
+
+
+if __name__ == "__main__":
     export_bilateral()
+    export_multilateral()
