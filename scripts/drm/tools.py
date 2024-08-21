@@ -1,6 +1,11 @@
 import pandas as pd
 
-from bblocks import WorldEconomicOutlook, set_bblocks_data_path, add_income_level_column
+from bblocks import (
+    WorldEconomicOutlook,
+    set_bblocks_data_path,
+    add_income_level_column,
+    add_iso_codes_column,
+)
 from pydeflate import deflate, set_pydeflate_path
 
 from scripts import config
@@ -64,11 +69,10 @@ def exclude_china(data: pd.DataFrame) -> pd.DataFrame:
     return data.loc[lambda d: d.iso_code != "CHN"]
 
 
-def exclude_high_income(data: pd.DataFrame) -> pd.DataFrame:
-    data = add_income_level_column(data, id_column="iso_code", id_type="ISO3")
-    return data.loc[lambda d: d.income_level != "High income"].drop(
-        columns=["income_level"]
-    )
+def keep_emde_only(data: pd.DataFrame) -> pd.DataFrame:
+    iso_list_to_keep = imf_emde()
+    data = data.loc[lambda d: d.iso_code.isin(iso_list_to_keep)]
+    return data
 
 
 def group_countries(data: pd.DataFrame) -> pd.DataFrame:
@@ -82,3 +86,168 @@ def group_countries(data: pd.DataFrame) -> pd.DataFrame:
     )
 
     return data
+
+
+def imf_emde():
+    countries = [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Angola",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Azerbaijan",
+        "The Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belize",
+        "Benin",
+        "Bhutan",
+        "Bolivia",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Brazil",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon",
+        "Central African Republic",
+        "Chad",
+        "Chile",
+        "China",
+        "Colombia",
+        "Comoros",
+        "Democratic Republic of the Congo",
+        "Republic of Congo",
+        "Costa Rica",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        "Equatorial Guinea",
+        "Eritrea",
+        "Eswatini",
+        "Ethiopia",
+        "Fiji",
+        "Gabon",
+        "The Gambia",
+        "Georgia",
+        "Ghana",
+        "Grenada",
+        "Guatemala",
+        "Guinea",
+        "Guinea-Bissau",
+        "Guyana",
+        "Haiti",
+        "Honduras",
+        "Hungary",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Jamaica",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Kosovo",
+        "Kuwait",
+        "Kyrgyz Republic",
+        "Lao P.D.R.",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Marshall Islands",
+        "Mauritania",
+        "Mauritius",
+        "Mexico",
+        "Micronesia",
+        "Moldova",
+        "Mongolia",
+        "Montenegro",
+        "Morocco",
+        "Mozambique",
+        "Myanmar",
+        "Namibia",
+        "Nauru",
+        "Nepal",
+        "Nicaragua",
+        "Niger",
+        "Nigeria",
+        "North Macedonia",
+        "Oman",
+        "Pakistan",
+        "Palau",
+        "Panama",
+        "Papua New Guinea",
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Poland",
+        "Qatar",
+        "Romania",
+        "Russia",
+        "Rwanda",
+        "Samoa",
+        "São Tomé and Príncipe",
+        "Saudi Arabia",
+        "Senegal",
+        "Serbia",
+        "Seychelles",
+        "Sierra Leone",
+        "Solomon Islands",
+        "Somalia",
+        "South Africa",
+        "South Sudan",
+        "Sri Lanka",
+        "St. Kitts and Nevis",
+        "St. Lucia",
+        "St. Vincent and the Grenadines",
+        "Sudan",
+        "Suriname",
+        "Syria",
+        "Tajikistan",
+        "Tanzania",
+        "Thailand",
+        "Timor-Leste",
+        "Togo",
+        "Tonga",
+        "Trinidad and Tobago",
+        "Tunisia",
+        "Türkiye",
+        "Turkmenistan",
+        "Tuvalu",
+        "Uganda",
+        "Ukraine",
+        "United Arab Emirates",
+        "Uruguay",
+        "Uzbekistan",
+        "Vanuatu",
+        "Venezuela",
+        "Vietnam",
+        "West Bank and Gaza",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe",
+    ]
+
+    df = pd.DataFrame(countries, columns=["country"])
+    df = add_iso_codes_column(df=df, id_column="country", id_type="regex")
+
+    return df.iso_code.tolist()

@@ -9,7 +9,7 @@ from scripts.drm.tools import (
     to_constant,
     exclude_china,
     group_countries,
-    exclude_high_income,
+    keep_emde_only,
 )
 from scripts.tools import export_json
 
@@ -26,6 +26,7 @@ def get_drm(
     start_year: int,
     end_year: int,
     by_country: bool = False,
+    only_emde: bool = True,
     prices: str = "constant",
     base_year: int = 2019,
 ) -> pd.DataFrame:
@@ -35,15 +36,16 @@ def get_drm(
     weo.load_data(indicator=indicator)
 
     # As percent of GDP
-    data = weo.get_data().assign(
+    data = weo.get_data(keep_metadata=False).assign(
         year=lambda d: d.year.dt.year, value=lambda d: d.value / 100
     )
 
     # Filter years
     data = data.loc[lambda d: d.year.between(start_year, end_year)]
 
-    # Filter countries
-    data = exclude_high_income(data)
+    if only_emde:
+        # Filter countries
+        data = keep_emde_only(data)
 
     # As USD
     data = gdp2usd(data)
@@ -73,4 +75,11 @@ def export_drm_data():
 
 
 if __name__ == "__main__":
+    # drm = get_drm(
+    #     indicator=INDICATORS[DRM_INDICATOR],
+    #     start_year=2019,
+    #     end_year=2019,
+    #     by_country=False,
+    #     prices="current",
+    # )
     export_drm_data()
