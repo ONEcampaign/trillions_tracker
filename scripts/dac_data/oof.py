@@ -17,7 +17,7 @@ set_pydeflate_path(config.Paths.raw_data)
 
 
 def get_oof_data(
-    donors: list[str],
+    donors: list[str] | None,
     start_year: int = 2019,
     end_year: int = 2023,
     prices: str = "constant",
@@ -59,5 +59,6 @@ if __name__ == "__main__":
     data = get_oof_data(
         start_year=2017,
         end_year=2023,
-        donors=BILATERAL,
+        donors=None,
+        by_donor=True,
     )

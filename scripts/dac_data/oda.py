@@ -1,5 +1,5 @@
 import pandas as pd
-from oda_data import set_data_path, ODAData, read_dac2a
+from oda_data import set_data_path, ODAData, read_dac2a, read_dac1
 from pydeflate import set_pydeflate_path
 
 from scripts import config
@@ -129,10 +129,12 @@ def get_oda_data(
 
 
 if __name__ == "__main__":
-    data = get_oda_data(
-        indicator="gross_disbursements",
-        start_year=2017,
-        end_year=2023,
-        donors=list(BILATERAL),
-        by_donor=True,
-    )
+    d = read_dac1(2019)
+
+    # data = get_oda_data(
+    #     indicator="gross_disbursements",
+    #     start_year=2017,
+    #     end_year=2023,
+    #     donors=list(BILATERAL),
+    #     by_donor=True,
+    # )

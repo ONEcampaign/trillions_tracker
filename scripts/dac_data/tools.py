@@ -109,7 +109,7 @@ def get_multilateral_commitments(
 
 
 def get_commitments_data(
-    donors: list[int | str],
+    donors: list[int | str] | None,
     start_year: int = 2019,
     end_year: int = 2023,
     oda_only: bool = True,
@@ -134,7 +134,8 @@ def get_commitments_data(
 
     df = read_crs(years=range(start_year, end_year + 1))
 
-    df = df.loc[lambda d: d["donor_code"].isin(donors)]
+    if donors:
+        df = df.loc[lambda d: d["donor_code"].isin(donors)]
 
     if oda_only and non_oda_only:
         raise ValueError("Cannot have both oda_only and non_oda_only as True")
