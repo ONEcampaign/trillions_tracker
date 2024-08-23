@@ -29,6 +29,7 @@ def get_drm(
     only_emde: bool = True,
     prices: str = "constant",
     base_year: int = 2019,
+    exclude_china_data: bool = EXCLUDE_CHINA,
 ) -> pd.DataFrame:
     """DRM data for the specified indicator, as millions of USD."""
 
@@ -53,7 +54,7 @@ def get_drm(
     if prices == "constant":
         data = to_constant(data, base_year=base_year)
 
-    if EXCLUDE_CHINA:
+    if exclude_china_data:
         data = exclude_china(data)
 
     if not by_country:
@@ -62,16 +63,25 @@ def get_drm(
     return data.assign(value=lambda d: (d.value.astype(float) / 1e6).round(3))
 
 
-def export_drm_data():
-    df = get_drm(indicator=INDICATORS[DRM_INDICATOR], start_year=2017, end_year=2029)
-
-    stats = key_statistics(df, "drm")
-
-    df.to_csv(
-        config.Paths.output / "domestic_revenues_constant_excl_China.csv", index=False
+def export_drm_data(exclude_china_data: bool = False):
+    df = get_drm(
+        indicator=INDICATORS[DRM_INDICATOR],
+        start_year=2017,
+        end_year=2029,
+        exclude_china_data=exclude_china_data,
     )
 
-    export_json(config.Paths.output / "stats_domestic_revenues.json", stats)
+    suffix = "_excl_China" if exclude_china_data else ""
+
+    stats = key_statistics(df, "drm", max_year=2022)
+
+    df.to_csv(
+        config.Paths.output / f"domestic_revenues_constant{suffix}.csv", index=False
+    )
+
+    export_json(
+        config.Paths.output / f"stats_domestic_revenues_constant{suffix}.json", stats
+    )
 
 
 if __name__ == "__main__":
@@ -82,4 +92,5 @@ if __name__ == "__main__":
     #     by_country=False,
     #     prices="current",
     # )
-    export_drm_data()
+    export_drm_data(exclude_china_data=False)
+    export_drm_data(exclude_china_data=True)

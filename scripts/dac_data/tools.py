@@ -206,8 +206,10 @@ def filter_dev_countries(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def key_statistics(df: pd.DataFrame, indicator: str):
-    total_latest = df.loc[lambda d: d.year == d.year.max()].value.sum()
+def key_statistics(df: pd.DataFrame, indicator: str, max_year: int | None = None):
+    if max_year is None:
+        max_year = df["year"].max()
+    total_latest = df.loc[lambda d: d.year == max_year].value.sum()
     total_baseline = df.loc[lambda d: d.year == REFERENCE_YEAR].value.sum()
     change_usd = total_latest - total_baseline
     change_pct = change_usd / total_baseline

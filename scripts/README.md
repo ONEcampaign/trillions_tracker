@@ -16,7 +16,7 @@ We follow the same methodology in our calculations. The source of "DRM" data is 
 
 We convert data to US dollars by multiplying the share of nominal GDP by the nominal GDP value in US dollars (indicator _NGDPD_). Last, we convert to constant prices using GDP deflators data from the IMF World Economic Outlook.
 
-**Note**: The latest values, which include projections, are for 2029. We could use 2023 or 2022 for an assessment of progress.
+**Note**: The latest values, which include projections, are for 2029. We could use 2023 or 2022 for an assessment of progress. For consistency, for now, we are using **2022**.
 
 ### Key differences
 Our numbers are a bit different from the original paper. While we use the **same indicator**
