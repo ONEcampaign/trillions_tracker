@@ -97,12 +97,13 @@ def export_bilateral_commitments_versions():
     )
 
 
-def export_all_donors_gross_disbursements():
+def export_all_donors_gross_disbursements(exclude_china: bool = True):
     indicator_comm = "gross_disbursements"
+    suffix = "_excl_China" if exclude_china else ""
 
     gross_disbursements = bilateral_oda(
         indicator=indicator_comm,
-        exclude_china=True,
+        exclude_china=exclude_china,
     )
     stats_gross_disbursements_total = key_statistics(
         gross_disbursements, indicator=indicator_comm
@@ -122,7 +123,7 @@ def export_all_donors_gross_disbursements():
     in_donor_stats = key_statistics(in_donor, indicator="in_donor")
 
     gross_disbursements.to_csv(
-        config.Paths.output / "total_gross_disbursements_constant_excl_China.csv",
+        config.Paths.output / f"total_gross_disbursements_constant_oda{suffix}.csv",
         index=False,
     )
 
@@ -132,7 +133,7 @@ def export_all_donors_gross_disbursements():
     )
 
     export_json(
-        config.Paths.output / "total_gross_disbursements_constant_oda.json",
+        config.Paths.output / f"total_gross_disbursements_constant_oda{suffix}.json",
         stats_gross_disbursements_total | in_donor_stats,
     )
 
@@ -200,7 +201,8 @@ def export_oof_bilateral_versions():
 
 if __name__ == "__main__":
     # gross disbursements
-    export_all_donors_gross_disbursements()
+    export_all_donors_gross_disbursements(exclude_china=True)
+    export_all_donors_gross_disbursements(exclude_china=False)
 
     # Concessional
     # export_bilateral_commitments_versions()

@@ -54,7 +54,9 @@ def get_dac2a_data(
         oda = oda.drop(columns=[10100, 730]).reset_index()
 
     else:
-        oda = oda.loc[lambda d: d.donor_code == 10100].drop(columns="recipient_code")
+        oda = oda.loc[lambda d: d.recipient_code == 10100].drop(
+            columns="recipient_code"
+        )
 
     return oda.filter(["year", "donor_code", "donor_name", "value"])
 
@@ -129,8 +131,7 @@ def get_oda_data(
 
 
 if __name__ == "__main__":
-    d = read_dac1(2019)
-
+    ...
     # data = get_oda_data(
     #     indicator="gross_disbursements",
     #     start_year=2017,
