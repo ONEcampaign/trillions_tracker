@@ -111,6 +111,11 @@ def export_bilateral():
         end_year=2022,
     )
 
+    total.to_csv(config.Paths.output / "non_concessional_bilateral.csv", index=False)
+    no_china.to_csv(
+        config.Paths.output / "non_concessional_bilateral_excl_china.csv", index=False
+    )
+
     total_stats = key_statistics(total, indicator="all_bilateral")
     no_china_stats = key_statistics(no_china, indicator="no_china_bilateral")
 
@@ -133,6 +138,12 @@ def export_multilateral():
         exclude_china_country=True,
         start_year=2017,
         end_year=2022,
+    )
+
+    total.to_csv(config.Paths.output / "non_concessional_multilateral.csv", index=False)
+    exclude_china.to_csv(
+        config.Paths.output / "non_concessional_multilateral_excl_china.csv",
+        index=False,
     )
 
     total_stats = key_statistics(total, indicator="multilateral")
