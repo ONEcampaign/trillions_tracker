@@ -203,10 +203,10 @@ if __name__ == "__main__":
     export_all_donors_gross_disbursements()
 
     # Concessional
-    export_bilateral_commitments_versions()
+    # export_bilateral_commitments_versions()
 
     # Non-concessional
-    export_oof_bilateral_versions()
+    # export_oof_bilateral_versions()
 
     # Multi
-    export_multilateral()
+    # export_multilateral()
