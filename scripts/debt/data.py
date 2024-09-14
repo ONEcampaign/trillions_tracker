@@ -34,6 +34,7 @@ def get_non_concessional_lending(
     end_year: int = 2023,
     exclude_china_counterpart: bool = True,
     exclude_china_country: bool = True,
+    only_mdbs: bool = True,
     prices: str = "constant",
 ) -> pd.DataFrame:
 
@@ -60,7 +61,7 @@ def get_non_concessional_lending(
     if exclude_china_counterpart:
         df = df.loc[lambda d: d.counterpart_area != "China"]
 
-    if indicator == "multilateral":
+    if indicator == "multilateral" and only_mdbs:
         df = exclude_non_mdbs(df)
 
     df = (
@@ -131,6 +132,7 @@ def export_multilateral():
         exclude_china_country=False,
         start_year=2017,
         end_year=2022,
+        only_mdbs=False,
     )
 
     exclude_china = get_non_concessional_lending(
@@ -138,6 +140,7 @@ def export_multilateral():
         exclude_china_country=True,
         start_year=2017,
         end_year=2022,
+        only_mdbs=False,
     )
 
     total.to_csv(config.Paths.output / "non_concessional_multilateral.csv", index=False)

@@ -7,7 +7,7 @@ from pydeflate import set_pydeflate_path
 from scripts import config
 from scripts.config import BILATERAL
 from scripts.dac_data.tools import (
-    get_commitments_data,
+    get_crs_data,
     group_donors,
     group_recipients,
 )
@@ -22,6 +22,7 @@ def get_oof_data(
     end_year: int = 2023,
     prices: str = "constant",
     base_year: int = 2019,
+    flow_type: str = "usd_commitment",
     by_donor: bool = False,
     by_recipient: bool = False,
     exclude_china=True,
@@ -31,18 +32,19 @@ def get_oof_data(
 ) -> pd.DataFrame:
     """Get the total ODA for the given years"""
 
-    df = get_commitments_data(
+    df = get_crs_data(
         donors=donors,
         start_year=start_year,
         end_year=end_year,
-        prices=prices,
-        base_year=base_year,
         oda_only=False,
         non_oda_only=True,
+        prices=prices,
+        flow_type=flow_type,
+        base_year=base_year,
         exclude_china=exclude_china,
         exclude_idrc=exclude_idrc,
-        exclude_awareness=exclude_awareness,
         exclude_students=exclude_students,
+        exclude_awareness=exclude_awareness,
     )
 
     # Group the data as requested

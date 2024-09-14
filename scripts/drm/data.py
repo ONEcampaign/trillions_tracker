@@ -66,8 +66,8 @@ def get_drm(
 def export_drm_data(exclude_china_data: bool = False):
     df = get_drm(
         indicator=INDICATORS[DRM_INDICATOR],
-        start_year=2017,
-        end_year=2029,
+        start_year=2013,
+        end_year=2022,
         exclude_china_data=exclude_china_data,
     )
 
@@ -76,21 +76,16 @@ def export_drm_data(exclude_china_data: bool = False):
     stats = key_statistics(df, "drm", max_year=2022)
 
     df.to_csv(
-        config.Paths.output / f"domestic_revenues_constant{suffix}.csv", index=False
+        config.Paths.output / "drm" / f"domestic_revenues_constant{suffix}.csv",
+        index=False,
     )
 
     export_json(
-        config.Paths.output / f"stats_domestic_revenues_constant{suffix}.json", stats
+        config.Paths.output / "drm" / f"stats_domestic_revenues_constant{suffix}.json",
+        stats,
     )
 
 
 if __name__ == "__main__":
-    # drm = get_drm(
-    #     indicator=INDICATORS[DRM_INDICATOR],
-    #     start_year=2019,
-    #     end_year=2019,
-    #     by_country=False,
-    #     prices="current",
-    # )
     export_drm_data(exclude_china_data=False)
     export_drm_data(exclude_china_data=True)

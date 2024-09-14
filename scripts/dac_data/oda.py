@@ -5,7 +5,7 @@ from pydeflate import set_pydeflate_path
 from scripts import config
 from scripts.config import BILATERAL
 from scripts.dac_data.tools import (
-    get_commitments_data,
+    get_crs_data,
     group_donors,
     group_recipients,
     add_donor_name,
@@ -86,13 +86,13 @@ def get_oda_data(
     )
 
     if indicator == "bilateral_commitments":
-        df = get_commitments_data(
+        df = get_crs_data(
             donors=donors,
             start_year=start_year,
             end_year=end_year,
+            oda_only=True,
             prices=prices,
             base_year=base_year,
-            oda_only=True,
             exclude_china=exclude_china,
             exclude_idrc=exclude_idrc,
             exclude_students=exclude_students,

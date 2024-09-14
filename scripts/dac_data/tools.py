@@ -108,7 +108,7 @@ def get_multilateral_commitments(
     return df.rename(columns={"usd_commitment": "value"})
 
 
-def get_commitments_data(
+def get_crs_data(
     donors: list[int | str] | None,
     start_year: int = 2019,
     end_year: int = 2023,
@@ -116,6 +116,7 @@ def get_commitments_data(
     non_oda_only: bool = False,
     prices: str = "constant",
     base_year: int = 2019,
+    flow_type: str = "usd_commitment",
     exclude_china: bool = EXCLUDE_CHINA,
     exclude_idrc: bool = EXCLUDE_IDRC,
     exclude_students: bool = EXCLUDE_STUDENTS,
@@ -162,13 +163,13 @@ def get_commitments_data(
         df = df.loc[lambda d: d["recipient_code"] != 730]
 
     df = df.groupby(grouper, as_index=False, dropna=False, observed=True)[
-        ["usd_commitment"]
+        [flow_type]
     ].sum()
 
     if prices == "constant":
-        df = to_constant(df, base_year=base_year)
+        df = to_constant(df, base_year=base_year, column=flow_type)
 
-    return df.rename(columns={"usd_commitment": "value"})
+    return df.rename(columns={flow_type: "value"})
 
 
 def group_donors(df: pd.DataFrame) -> pd.DataFrame:
