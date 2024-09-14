@@ -1,0 +1,14 @@
+{
+    "all_bilateral": {
+        "total_latest": "29.9 billion",
+        "total_baseline": "34.0 billion",
+        "change_usd": "-4.1 billion",
+        "change_pct": "-12.0%"
+    },
+    "no_china_bilateral": {
+        "total_latest": "19.8 billion",
+        "total_baseline": "16.0 billion",
+        "change_usd": "3.8 billion",
+        "change_pct": "23.8%"
+    }
+}

@@ -30,7 +30,7 @@ def exclude_non_mdbs(df: pd.DataFrame):
 
 def get_non_concessional_lending(
     indicator: str = "bilateral",
-    start_year: int = 2017,
+    start_year: int = 2013,
     end_year: int = 2023,
     exclude_china_counterpart: bool = True,
     exclude_china_country: bool = True,
@@ -102,26 +102,36 @@ def export_bilateral():
     total = get_non_concessional_lending(
         exclude_china_country=False,
         exclude_china_counterpart=False,
-        start_year=2017,
+        start_year=2013,
         end_year=2022,
     )
     no_china = get_non_concessional_lending(
-        exclude_china_country=True,
+        exclude_china_country=False,
         exclude_china_counterpart=True,
-        start_year=2017,
+        start_year=2013,
         end_year=2022,
     )
 
-    total.to_csv(config.Paths.output / "non_concessional_bilateral.csv", index=False)
+    total.to_csv(
+        config.Paths.output
+        / "non_concessional_lending"
+        / "non_concessional_bilateral.csv",
+        index=False,
+    )
     no_china.to_csv(
-        config.Paths.output / "non_concessional_bilateral_excl_china.csv", index=False
+        config.Paths.output
+        / "non_concessional_lending"
+        / "non_concessional_bilateral_excl_china.csv",
+        index=False,
     )
 
     total_stats = key_statistics(total, indicator="all_bilateral")
     no_china_stats = key_statistics(no_china, indicator="no_china_bilateral")
 
     export_json(
-        config.Paths.output / "non_concessional_bilateral.json",
+        config.Paths.output
+        / "non_concessional_lending"
+        / "non_concessional_bilateral.json",
         total_stats | no_china_stats,
     )
 
@@ -130,7 +140,7 @@ def export_multilateral():
     total = get_non_concessional_lending(
         indicator="multilateral",
         exclude_china_country=False,
-        start_year=2017,
+        start_year=2013,
         end_year=2022,
         only_mdbs=False,
     )
@@ -138,14 +148,21 @@ def export_multilateral():
     exclude_china = get_non_concessional_lending(
         indicator="multilateral",
         exclude_china_country=True,
-        start_year=2017,
+        start_year=2013,
         end_year=2022,
         only_mdbs=False,
     )
 
-    total.to_csv(config.Paths.output / "non_concessional_multilateral.csv", index=False)
+    total.to_csv(
+        config.Paths.output
+        / "non_concessional_lending"
+        / "non_concessional_multilateral.csv",
+        index=False,
+    )
     exclude_china.to_csv(
-        config.Paths.output / "non_concessional_multilateral_excl_china.csv",
+        config.Paths.output
+        / "non_concessional_lending"
+        / "non_concessional_multilateral_excl_china.csv",
         index=False,
     )
 
@@ -153,7 +170,9 @@ def export_multilateral():
     exclude_china_stats = key_statistics(exclude_china, indicator="exclude_china")
 
     export_json(
-        config.Paths.output / "non_concessional_multilateral.json",
+        config.Paths.output
+        / "non_concessional_lending"
+        / "non_concessional_multilateral.json",
         total_stats | exclude_china_stats,
     )
 
