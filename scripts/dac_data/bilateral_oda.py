@@ -123,17 +123,21 @@ def export_all_donors_gross_disbursements(exclude_china: bool = True):
     in_donor_stats = key_statistics(in_donor, indicator="in_donor")
 
     gross_disbursements.to_csv(
-        config.Paths.output / f"total_gross_disbursements_constant_oda{suffix}.csv",
+        config.Paths.output
+        / "oda"
+        / f"total_gross_disbursements_constant_oda{suffix}.csv",
         index=False,
     )
 
     in_donor.to_csv(
-        config.Paths.output / "in_donor_constant_oda.csv",
+        config.Paths.output / "oda" / "in_donor_constant_oda.csv",
         index=False,
     )
 
     export_json(
-        config.Paths.output / f"total_gross_disbursements_constant_oda{suffix}.json",
+        config.Paths.output
+        / "oda"
+        / f"total_gross_disbursements_constant_oda{suffix}.json",
         stats_gross_disbursements_total | in_donor_stats,
     )
 
