@@ -29,11 +29,11 @@ You will need to install the dependencies using poetry.
 pip install poetry
 poetry install
 ```
-The [scripts]("./scripts") folder contains Python scripts for extracting and analysing DAC data (ODA, OOFs), Debt data from the IDS, and DRM data from the World Economic Outlook.
+The [scripts](./scripts) folder contains Python scripts for extracting and analysing DAC data (ODA, OOFs), Debt data from the IDS, and DRM data from the World Economic Outlook.
 
 
 ## Using the outputs
-The [output]("./output") folder contains the different files we use in our data visualisations. For now, it does not contain raw data or other outputs.
+The [output](./output) folder contains the different files we use in our data visualisations. For now, it does not contain raw data or other outputs.
 
 
 ## Getting additional data
