@@ -37,8 +37,6 @@ For consistency we align with their methodology.
 
 **Note**: The latest values are for 2022.
 
-### Key differences
-Our numbers are slightly lower for 2019 because we **exclude China** as a recipient.
 
 ## Multilateral Development Bank (MDB) non-concessional financing
 The paper discusses the need for additional [non-concessional financing](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2022/05/Financing-the-big-investment-push-in-emerging-markets-and-developing-economies-for-sustainable-resilient-and-inclusive-recovery-and-growth-1.pdf#page=51&zoom=100,93,648) from MDBs.
@@ -53,14 +51,7 @@ In order to get non-concessional lending, we use two indicators:
 
 Non-concessional disbursements are calculated as Multilateral disbursements minus multilateral concessional disbursements.
 
-We also filter the data to include only multilateral development banks (excluding funds like _Arab Monetary Fund_ or _European Development Fund (EDF)_, or investment banks like _Nordic Investment Bank_).
-
 **Note**: The latest values are for 2022.
-
-### Key differences
-We exclude China from the list of borrowers. That creates a ~6% difference with the original 2019 data.
-
-
 
 ## Bilateral non-concessional financing
 The paper discusses the need for additional [non-concessional financing](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2022/05/Financing-the-big-investment-push-in-emerging-markets-and-developing-economies-for-sustainable-resilient-and-inclusive-recovery-and-growth-1.pdf#page=51&zoom=100,93,648) from bilateral providers.
@@ -75,18 +66,5 @@ In order to get non-concessional lending, we use two indicators:
 
 Non-concessional disbursements are calculated as Bilateral disbursements minus bilateral concessional disbursements.
 
-We exclude China from the list of borrowers.
-
 **Note**: The latest values are for 2022.
-
-### Key differences
-While the original methodology doesn't specify the detail of bilateral lenders, we exclude China from the list of lenders. 
-
-We also China from the list of borrowers.
-
-Combined, that creates a significant difference with the original 2019 data.
-
-
-
-
 
