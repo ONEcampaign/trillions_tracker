@@ -120,8 +120,8 @@ def export_drm_oecd(
 
 
 if __name__ == "__main__":
-    # export_drm_data(exclude_china_data=False)
-    # export_drm_data(exclude_china_data=True)
+    export_drm_data(exclude_china_data=False)
+    export_drm_data(exclude_china_data=True)
     export_drm_oecd()
     export_drm_oecd(only_emde=False)
     export_drm_oecd(prices="current", base_year=None)
