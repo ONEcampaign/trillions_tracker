@@ -121,17 +121,25 @@ def get_crs_data(
     exclude_idrc: bool = EXCLUDE_IDRC,
     exclude_students: bool = EXCLUDE_STUDENTS,
     exclude_awareness: bool = EXCLUDE_AWARENESS,
+    additional_grouper: list[str] | None = None,
+    include_modality: bool = True,
 ):
     """Get the total ODA for the given years"""
 
-    grouper = [
-        "year",
-        "donor_code",
-        "donor_name",
-        "recipient_code",
-        "recipient_name",
-        "modality",
-    ]
+    if additional_grouper is None:
+        additional_grouper = []
+
+    grouper = (
+        [
+            "year",
+            "donor_code",
+            "donor_name",
+            "recipient_code",
+            "recipient_name",
+        ]
+        + additional_grouper
+        + (["modality"] if include_modality else [])
+    )
 
     df = read_crs(years=range(start_year, end_year + 1))
 
