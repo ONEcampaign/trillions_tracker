@@ -30,14 +30,15 @@ def get_drm(
     prices: str = "constant",
     base_year: int = 2019,
     exclude_china_data: bool = EXCLUDE_CHINA,
+    keep_metadata: bool = False,
 ) -> pd.DataFrame:
     """DRM data for the specified indicator, as millions of USD."""
 
-    weo = WorldEconomicOutlook()
+    weo = WorldEconomicOutlook(year=2024, release=1)
     weo.load_data(indicator=indicator)
 
     # As percent of GDP
-    data = weo.get_data(keep_metadata=False).assign(
+    data = weo.get_data(keep_metadata=keep_metadata).assign(
         year=lambda d: d.year.dt.year, value=lambda d: d.value / 100
     )
 
@@ -86,6 +87,42 @@ def export_drm_data(exclude_china_data: bool = False):
     )
 
 
+def export_drm_oecd(
+    start_year: int = 2015,
+    end_year: int = 2028,
+    prices: str = "constant",
+    base_year: int = 2019,
+    only_emde: bool = True,
+):
+    suffix = f"constant_{base_year}" if prices == "constant" else "current"
+    suffix += "_emde" if only_emde else ""
+
+    df = get_drm(
+        indicator=INDICATORS[DRM_INDICATOR],
+        start_year=start_year,
+        end_year=end_year,
+        by_country=True,
+        only_emde=only_emde,
+        exclude_china_data=False,
+        prices=prices,
+        base_year=base_year,
+        keep_metadata=True,
+    )
+
+    df = df.filter(
+        ["year", "entity_name", "iso_code", "estimate", "indicator_name", "value"]
+    ).assign(units="USD million")
+
+    df.to_csv(
+        config.Paths.output / "oecd" / f"domestic_revenues_{suffix}.csv",
+        index=False,
+    )
+
+
 if __name__ == "__main__":
     export_drm_data(exclude_china_data=False)
     export_drm_data(exclude_china_data=True)
+    export_drm_oecd()
+    export_drm_oecd(only_emde=False)
+    export_drm_oecd(prices="current", base_year=None)
+    export_drm_oecd(prices="current", base_year=None, only_emde=False)

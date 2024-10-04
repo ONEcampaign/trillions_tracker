@@ -5,6 +5,7 @@ from scripts import config
 from scripts.dac_data.tools import key_statistics
 from scripts.drm.tools import (
     to_constant,
+    keep_emde_only,
 )
 from scripts.tools import export_json
 
@@ -177,6 +178,214 @@ def export_multilateral():
     )
 
 
+def export_debt_oecd(
+    indicator: str = "debt_service",
+    start_year: int = 2015,
+    end_year: int = 2025,
+    prices: str = "constant",
+    base_year: int | None = 2019,
+    by_creditor: bool = False,
+    by_debt_type: bool = False,
+    only_emde: bool = True,
+):
+    suffix = f"{base_year}constant" if prices == "constant" else "current"
+    suffix += "_by_creditor" if by_creditor else ""
+    suffix += "_by_debt_type" if by_debt_type else ""
+    suffix += "_emde_only" if only_emde else ""
+
+    ids = DebtIDS()
+    debt_service = {
+        k: v.split(" ")[0] for k, v in ids.debt_service_indicators().items()
+    }
+
+    if indicator == "debt_service":
+        indicators = list(debt_service)
+
+    if indicator == "bilateral_non_concessional_debt_disbursements":
+        indicators = ["DT.DIS.BLAT.CD", "DT.DIS.BLTC.CD"]
+
+    if indicator == "multilateral_non_concessional_debt_disbursements":
+        indicators = ["DT.DIS.MLAT.CD", "DT.DIS.MLTC.CD"]
+
+    ids.load_data(indicators=indicators, start_year=start_year, end_year=end_year)
+
+    df = (
+        ids.get_data()
+        .loc[lambda d: d.counterpart_area != "World"]
+        .assign(
+            year=lambda d: d.year.dt.year,
+            value=lambda d: d.value / 1e6,
+            units="USD million",
+            prices=prices,
+        )
+    )
+
+    if indicator == "debt_service":
+        df = df.assign(debt_type=lambda d: d.series_code.map(debt_service))
+    else:
+        df["debt_type"] = df.series.str.split(" ").str[1].str.title()
+        df = df.drop(columns=["series"])
+        df = df.pivot(
+            index=[c for c in df.columns if c not in ["value", "series_code"]],
+            columns="series_code",
+            values="value",
+        ).reset_index()
+
+        df["value"] = df[indicators[0]].fillna(0) - df[indicators[1]].fillna(0)
+        df = df.loc[lambda d: d.value != 0]
+
+        df = df.drop(columns=indicators)
+
+    df["iso_code"] = convert_id(
+        df.country, from_type="regex", to_type="ISO3", not_found=pd.NA
+    )
+
+    df = df.loc[lambda d: d.iso_code.notna()]
+
+    df["counterpart_iso_code"] = convert_id(
+        df.counterpart_area,
+        from_type="regex",
+        to_type="ISO3",
+        not_found="",
+        additional_mapping={
+            "Korea, D.P.R. of": "PRK",
+            "Neth. Antilles": "ANT",
+            "Eastern & Southern African Trade & Dev. Bank (TDB)": "",
+        },
+    )
+
+    if only_emde:
+        df = keep_emde_only(df)
+
+    if prices == "constant":
+        df = to_constant(df, base_year=base_year)
+
+    df = df.rename(
+        columns={
+            "counterpart_iso_code": "creditor_iso_code",
+            "counterpart_area": "creditor",
+        }
+    )
+
+    if not by_creditor:
+        if not by_debt_type:
+            df = (
+                df.groupby(
+                    ["year", "iso_code", "country", "prices", "units"],
+                    observed=True,
+                    dropna=False,
+                )["value"]
+                .sum()
+                .reset_index()
+            )
+        else:
+            df = (
+                df.groupby(
+                    ["year", "iso_code", "country", "debt_type", "prices", "units"],
+                    observed=True,
+                    dropna=False,
+                )["value"]
+                .sum()
+                .reset_index()
+            )
+
+    df = df.filter(
+        [
+            "year",
+            "iso_code",
+            "country",
+            "creditor_iso_code",
+            "creditor",
+            "debt_type",
+            "prices",
+            "units",
+            "value",
+        ]
+    )
+
+    end_year = df.loc[lambda d: (d.value != 0) & d.value.notna()].year.max()
+    suffix += f"_{start_year}_{end_year}"
+
+    df.to_csv(
+        config.Paths.output / "oecd" / f"{indicator}_{suffix}.csv",
+        index=False,
+    )
+
+
+def export_oecd_versions(
+    indicator: str, start_year: int = 2015, end_year: int = 2025, base_year: int = 2015
+) -> None:
+    export_debt_oecd(
+        indicator=indicator,
+        start_year=start_year,
+        end_year=end_year,
+        prices="constant",
+        base_year=base_year,
+        by_creditor=False,
+        by_debt_type=False,
+        only_emde=False,
+    )
+    export_debt_oecd(
+        indicator=indicator,
+        start_year=start_year,
+        end_year=end_year,
+        prices="current",
+        base_year=None,
+        by_creditor=False,
+        by_debt_type=False,
+        only_emde=False,
+    )
+
+    export_debt_oecd(
+        indicator=indicator,
+        start_year=start_year,
+        end_year=end_year,
+        prices="constant",
+        base_year=base_year,
+        by_creditor=False,
+        by_debt_type=True,
+        only_emde=False,
+    )
+    export_debt_oecd(
+        indicator=indicator,
+        start_year=start_year,
+        end_year=end_year,
+        prices="current",
+        base_year=None,
+        by_creditor=False,
+        by_debt_type=True,
+        only_emde=False,
+    )
+
+    export_debt_oecd(
+        indicator=indicator,
+        start_year=start_year,
+        end_year=end_year,
+        prices="constant",
+        base_year=base_year,
+        by_creditor=True,
+        by_debt_type=True,
+        only_emde=False,
+    )
+    export_debt_oecd(
+        indicator=indicator,
+        start_year=start_year,
+        end_year=end_year,
+        prices="current",
+        base_year=None,
+        by_creditor=True,
+        by_debt_type=True,
+        only_emde=False,
+    )
+
+
 if __name__ == "__main__":
     export_bilateral()
     export_multilateral()
+    export_oecd_versions(indicator="debt_service", base_year=2015)
+    export_oecd_versions(
+        indicator="bilateral_non_concessional_debt_disbursements", base_year=2015
+    )
+    export_oecd_versions(
+        indicator="multilateral_non_concessional_debt_disbursements", base_year=2015
+    )

@@ -1,9 +1,10 @@
 import pandas as pd
+from bblocks import convert_id
 
 from scripts import config
 from scripts.dac_data.oda import get_oda_data
 from scripts.dac_data.oof import get_oof_data
-from scripts.dac_data.tools import INDICATORS, key_statistics
+from scripts.dac_data.tools import INDICATORS, key_statistics, get_crs_data
 from scripts.tools import export_json
 
 START_YEAR: int = 2017
@@ -203,10 +204,82 @@ def export_oof_bilateral_versions():
     )
 
 
+def export_oecd_gross_disbursements(
+    start_year: int = 2015,
+    end_year: int = 2022,
+    prices: str = "constant",
+    base_year: int | None = 2015,
+    by_donor: bool = True,
+):
+    suffix = "gross_disbursements"
+    suffix += f"_{base_year}constant" if prices == "constant" else "_current"
+    suffix += "_by_donor" if by_donor else ""
+    suffix += f"_{start_year}_{end_year}"
+
+    gross_disbursements = get_crs_data(
+        donors=None,
+        start_year=start_year,
+        end_year=end_year,
+        oda_only=True,
+        prices=prices,
+        base_year=base_year,
+        exclude_china=False,
+        exclude_idrc=False,
+        exclude_students=False,
+        exclude_awareness=False,
+        include_modality=False,
+    )
+
+    gross_disbursements["recipient_iso_code"] = convert_id(
+        gross_disbursements.recipient_name,
+        from_type="regex",
+        to_type="ISO3",
+        not_found="",
+        additional_mapping={
+            "TÃ¼rkiye": "TUR",
+            "Southern Africa, regional": "",
+            "Micronesia, regional": "",
+        },
+    )
+
+    if not by_donor:
+        gross_disbursements = (
+            gross_disbursements.groupby(
+                [
+                    c
+                    for c in gross_disbursements.columns
+                    if c not in ["donor_code", "donor_name", "value"]
+                ],
+                dropna=False,
+                observed=True,
+            )["value"]
+            .sum()
+            .reset_index()
+        )
+
+    gross_disbursements.assign(units="USD million")
+
+    gross_disbursements = gross_disbursements.loc[
+        lambda d: (d.value != 0) & (d.value.notna())
+    ]
+
+    gross_disbursements["value"] = gross_disbursements["value"].round(6)
+
+    gross_disbursements.to_csv(
+        config.Paths.output / "oecd" / f"oda_{suffix}.csv",
+        index=False,
+    )
+
+
 if __name__ == "__main__":
     # gross disbursements
     export_all_donors_gross_disbursements(exclude_china=True)
     export_all_donors_gross_disbursements(exclude_china=False)
+
+    export_oecd_gross_disbursements(prices="constant", by_donor=True)
+    export_oecd_gross_disbursements(prices="current", base_year=None, by_donor=True)
+    export_oecd_gross_disbursements(prices="constant", by_donor=False)
+    export_oecd_gross_disbursements(prices="current", base_year=None, by_donor=False)
 
     # Concessional
     # export_bilateral_commitments_versions()
