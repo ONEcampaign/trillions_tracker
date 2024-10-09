@@ -1,1130 +1,1130 @@
 year,iso_code,country,debt_type,prices,units,value
-2015,AGO,Angola,Bilateral,constant,USD million,596.5666959
-2015,ALB,Albania,Bilateral,constant,USD million,55.549448
-2015,ARG,Argentina,Bilateral,constant,USD million,1438.3718295
-2015,ARM,Armenia,Bilateral,constant,USD million,44.8168587
-2015,AZE,Azerbaijan,Bilateral,constant,USD million,8.9908992
-2015,BEN,Benin,Bilateral,constant,USD million,8.508279
-2015,BFA,Burkina Faso,Bilateral,constant,USD million,61.77315
-2015,BGD,Bangladesh,Bilateral,constant,USD million,77.46053710000001
-2015,BGR,Bulgaria,Bilateral,constant,USD million,0.05326
-2015,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,14.9161914
+2015,AGO,Angola,Bilateral,constant,USD million,596.5667
+2015,ALB,Albania,Bilateral,constant,USD million,55.5494
+2015,ARG,Argentina,Bilateral,constant,USD million,1438.3718
+2015,ARM,Armenia,Bilateral,constant,USD million,44.8169
+2015,AZE,Azerbaijan,Bilateral,constant,USD million,8.9909
+2015,BEN,Benin,Bilateral,constant,USD million,8.5083
+2015,BFA,Burkina Faso,Bilateral,constant,USD million,61.7732
+2015,BGD,Bangladesh,Bilateral,constant,USD million,77.4605
+2015,BGR,Bulgaria,Bilateral,constant,USD million,0.0533
+2015,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,14.9162
 2015,BLR,Belarus,Bilateral,constant,USD million,2238.815
-2015,BLZ,Belize,Bilateral,constant,USD million,10.9421164
-2015,BOL,Bolivia,Bilateral,constant,USD million,10.453759
-2015,BRA,Brazil,Bilateral,constant,USD million,1082.2201987
-2015,BTN,Bhutan,Bilateral,constant,USD million,270.6353878
-2015,CHN,China,Bilateral,constant,USD million,67.1661259
-2015,CIV,Cote d'Ivoire,Bilateral,constant,USD million,1422.7645475000002
-2015,CMR,Cameroon,Bilateral,constant,USD million,516.1503811
+2015,BLZ,Belize,Bilateral,constant,USD million,10.9421
+2015,BOL,Bolivia,Bilateral,constant,USD million,10.4538
+2015,BRA,Brazil,Bilateral,constant,USD million,1082.2202
+2015,BTN,Bhutan,Bilateral,constant,USD million,270.6354
+2015,CHN,China,Bilateral,constant,USD million,67.1661
+2015,CIV,Cote d'Ivoire,Bilateral,constant,USD million,1422.7645
+2015,CMR,Cameroon,Bilateral,constant,USD million,516.1504
 2015,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,81.34
-2015,COG,"Congo, Rep.",Bilateral,constant,USD million,114.68423389999995
-2015,COL,Colombia,Bilateral,constant,USD million,422.4769782
-2015,CPV,Cabo Verde,Bilateral,constant,USD million,7.967673499999999
-2015,CRI,Costa Rica,Bilateral,constant,USD million,24.661679499999998
-2015,DJI,Djibouti,Bilateral,constant,USD million,358.1637382
-2015,DMA,Dominica,Bilateral,constant,USD million,8.3874177
-2015,DOM,Dominican Republic,Bilateral,constant,USD million,296.8402467
+2015,COG,"Congo, Rep.",Bilateral,constant,USD million,114.6842
+2015,COL,Colombia,Bilateral,constant,USD million,422.477
+2015,CPV,Cabo Verde,Bilateral,constant,USD million,7.9677
+2015,CRI,Costa Rica,Bilateral,constant,USD million,24.6617
+2015,DJI,Djibouti,Bilateral,constant,USD million,358.1637
+2015,DMA,Dominica,Bilateral,constant,USD million,8.3874
+2015,DOM,Dominican Republic,Bilateral,constant,USD million,296.8402
 2015,DZA,Algeria,Bilateral,constant,USD million,0.003
-2015,ECU,Ecuador,Bilateral,constant,USD million,995.0201552000001
-2015,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,6215.1219834
-2015,ERI,Eritrea,Bilateral,constant,USD million,9.9171598
-2015,ETH,Ethiopia,Bilateral,constant,USD million,1444.3137519
-2015,FJI,Fiji,Bilateral,constant,USD million,26.872740600000004
-2015,GAB,Gabon,Bilateral,constant,USD million,153.6159911
-2015,GEO,Georgia,Bilateral,constant,USD million,11.821504200000001
-2015,GHA,Ghana,Bilateral,constant,USD million,307.2841297
-2015,GIN,Guinea,Bilateral,constant,USD million,185.48734960000002
-2015,GMB,"Gambia, The",Bilateral,constant,USD million,11.4732787
-2015,GRD,Grenada,Bilateral,constant,USD million,6.3052288999999995
+2015,ECU,Ecuador,Bilateral,constant,USD million,995.0202
+2015,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,6215.122
+2015,ERI,Eritrea,Bilateral,constant,USD million,9.9172
+2015,ETH,Ethiopia,Bilateral,constant,USD million,1444.3138
+2015,FJI,Fiji,Bilateral,constant,USD million,26.8727
+2015,GAB,Gabon,Bilateral,constant,USD million,153.616
+2015,GEO,Georgia,Bilateral,constant,USD million,11.8215
+2015,GHA,Ghana,Bilateral,constant,USD million,307.2841
+2015,GIN,Guinea,Bilateral,constant,USD million,185.4873
+2015,GMB,"Gambia, The",Bilateral,constant,USD million,11.4733
+2015,GRD,Grenada,Bilateral,constant,USD million,6.3052
 2015,GTM,Guatemala,Bilateral,constant,USD million,21.094
-2015,GUY,Guyana,Bilateral,constant,USD million,6.472549500000003
-2015,HND,Honduras,Bilateral,constant,USD million,120.1812982
-2015,IDN,Indonesia,Bilateral,constant,USD million,955.2991615
-2015,IND,India,Bilateral,constant,USD million,527.711278
-2015,IRQ,Iraq,Bilateral,constant,USD million,0.016524500000002718
-2015,JAM,Jamaica,Bilateral,constant,USD million,35.5374985
-2015,JOR,Jordan,Bilateral,constant,USD million,324.0755038
-2015,KEN,Kenya,Bilateral,constant,USD million,968.5071614999999
-2015,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,208.6329878
-2015,KHM,Cambodia,Bilateral,constant,USD million,340.3937427
-2015,LAO,Lao PDR,Bilateral,constant,USD million,634.6194189
-2015,LBN,Lebanon,Bilateral,constant,USD million,56.5052721
+2015,GUY,Guyana,Bilateral,constant,USD million,6.4725
+2015,HND,Honduras,Bilateral,constant,USD million,120.1813
+2015,IDN,Indonesia,Bilateral,constant,USD million,955.2992
+2015,IND,India,Bilateral,constant,USD million,527.7113
+2015,IRQ,Iraq,Bilateral,constant,USD million,0.0165
+2015,JAM,Jamaica,Bilateral,constant,USD million,35.5375
+2015,JOR,Jordan,Bilateral,constant,USD million,324.0755
+2015,KEN,Kenya,Bilateral,constant,USD million,968.5072
+2015,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,208.633
+2015,KHM,Cambodia,Bilateral,constant,USD million,340.3937
+2015,LAO,Lao PDR,Bilateral,constant,USD million,634.6194
+2015,LBN,Lebanon,Bilateral,constant,USD million,56.5053
 2015,LBR,Liberia,Bilateral,constant,USD million,1.215
-2015,LCA,St. Lucia,Bilateral,constant,USD million,10.1462641
-2015,LKA,Sri Lanka,Bilateral,constant,USD million,611.7943644
-2015,LSO,Lesotho,Bilateral,constant,USD million,16.9620762
-2015,MAR,Morocco,Bilateral,constant,USD million,666.9863696
+2015,LCA,St. Lucia,Bilateral,constant,USD million,10.1463
+2015,LKA,Sri Lanka,Bilateral,constant,USD million,611.7944
+2015,LSO,Lesotho,Bilateral,constant,USD million,16.9621
+2015,MAR,Morocco,Bilateral,constant,USD million,666.9864
 2015,MDG,Madagascar,Bilateral,constant,USD million,88.915
-2015,MDV,Maldives,Bilateral,constant,USD million,15.7981509
-2015,MEX,Mexico,Bilateral,constant,USD million,153.1741236
-2015,MKD,North Macedonia,Bilateral,constant,USD million,71.77936759999999
-2015,MLI,Mali,Bilateral,constant,USD million,74.9586438
-2015,MMR,Myanmar,Bilateral,constant,USD million,397.4755026
-2015,MNE,Montenegro,Bilateral,constant,USD million,209.0157237
-2015,MNG,Mongolia,Bilateral,constant,USD million,13.413763699999997
-2015,MOZ,Mozambique,Bilateral,constant,USD million,387.7718423
-2015,MRT,Mauritania,Bilateral,constant,USD million,448.8948157
-2015,MUS,Mauritius,Bilateral,constant,USD million,73.6505945
-2015,MWI,Malawi,Bilateral,constant,USD million,30.8354394
-2015,NER,Niger,Bilateral,constant,USD million,6.655785699999999
+2015,MDV,Maldives,Bilateral,constant,USD million,15.7982
+2015,MEX,Mexico,Bilateral,constant,USD million,153.1741
+2015,MKD,North Macedonia,Bilateral,constant,USD million,71.7794
+2015,MLI,Mali,Bilateral,constant,USD million,74.9586
+2015,MMR,Myanmar,Bilateral,constant,USD million,397.4755
+2015,MNE,Montenegro,Bilateral,constant,USD million,209.0157
+2015,MNG,Mongolia,Bilateral,constant,USD million,13.4138
+2015,MOZ,Mozambique,Bilateral,constant,USD million,387.7718
+2015,MRT,Mauritania,Bilateral,constant,USD million,448.8948
+2015,MUS,Mauritius,Bilateral,constant,USD million,73.6506
+2015,MWI,Malawi,Bilateral,constant,USD million,30.8354
+2015,NER,Niger,Bilateral,constant,USD million,6.6558
 2015,NGA,Nigeria,Bilateral,constant,USD million,181.59
 2015,NIC,Nicaragua,Bilateral,constant,USD million,3.0
-2015,NPL,Nepal,Bilateral,constant,USD million,22.0905693
-2015,PAK,Pakistan,Bilateral,constant,USD million,972.6774679
-2015,PER,Peru,Bilateral,constant,USD million,95.4800355
-2015,PHL,Philippines,Bilateral,constant,USD million,29.975450500000022
-2015,PNG,Papua New Guinea,Bilateral,constant,USD million,88.68789740000001
-2015,RWA,Rwanda,Bilateral,constant,USD million,47.61122399999999
-2015,SDN,Sudan,Bilateral,constant,USD million,420.4338872
-2015,SEN,Senegal,Bilateral,constant,USD million,198.31387030000002
-2015,SLE,Sierra Leone,Bilateral,constant,USD million,15.838717599999999
-2015,SLV,El Salvador,Bilateral,constant,USD million,36.147000000000006
-2015,SRB,Serbia,Bilateral,constant,USD million,442.46205940000004
-2015,SUR,Suriname,Bilateral,constant,USD million,14.9616952
+2015,NPL,Nepal,Bilateral,constant,USD million,22.0906
+2015,PAK,Pakistan,Bilateral,constant,USD million,972.6775
+2015,PER,Peru,Bilateral,constant,USD million,95.48
+2015,PHL,Philippines,Bilateral,constant,USD million,29.9755
+2015,PNG,Papua New Guinea,Bilateral,constant,USD million,88.6879
+2015,RWA,Rwanda,Bilateral,constant,USD million,47.6112
+2015,SDN,Sudan,Bilateral,constant,USD million,420.4339
+2015,SEN,Senegal,Bilateral,constant,USD million,198.3139
+2015,SLE,Sierra Leone,Bilateral,constant,USD million,15.8387
+2015,SLV,El Salvador,Bilateral,constant,USD million,36.147
+2015,SRB,Serbia,Bilateral,constant,USD million,442.4621
+2015,SUR,Suriname,Bilateral,constant,USD million,14.9617
 2015,SWZ,Eswatini,Bilateral,constant,USD million,27.981
 2015,TCD,Chad,Bilateral,constant,USD million,9.846
-2015,TGO,Togo,Bilateral,constant,USD million,107.3953435
-2015,THA,Thailand,Bilateral,constant,USD million,51.3746833
-2015,TJK,Tajikistan,Bilateral,constant,USD million,205.1204448
-2015,TKM,Turkmenistan,Bilateral,constant,USD million,821.8700111999999
-2015,TUN,Tunisia,Bilateral,constant,USD million,283.7379657
-2015,TUR,Turkiye,Bilateral,constant,USD million,313.79130200000003
-2015,TZA,Tanzania,Bilateral,constant,USD million,455.29200309999993
-2015,UGA,Uganda,Bilateral,constant,USD million,400.6658556
-2015,UKR,Ukraine,Bilateral,constant,USD million,501.5886891
-2015,UZB,Uzbekistan,Bilateral,constant,USD million,253.6825678
-2015,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,9.2842105
-2015,VNM,Viet Nam,Bilateral,constant,USD million,1482.5091496999999
-2015,VUT,Vanuatu,Bilateral,constant,USD million,81.3801936
-2015,WSM,Samoa,Bilateral,constant,USD million,11.905645300000002
-2015,XKX,Kosovo,Bilateral,constant,USD million,23.098202800000003
-2015,ZAF,South Africa,Bilateral,constant,USD million,279.7873322
-2015,ZMB,Zambia,Bilateral,constant,USD million,493.26679559999997
-2015,ZWE,Zimbabwe,Bilateral,constant,USD million,296.70147260000005
-2016,AGO,Angola,Bilateral,constant,USD million,1055.243241579301
-2016,ALB,Albania,Bilateral,constant,USD million,54.43923577968606
-2016,ARG,Argentina,Bilateral,constant,USD million,298.2470136988085
-2016,ARM,Armenia,Bilateral,constant,USD million,96.75991631368838
-2016,AZE,Azerbaijan,Bilateral,constant,USD million,19.626619675850332
-2016,BEN,Benin,Bilateral,constant,USD million,27.768775986923618
-2016,BFA,Burkina Faso,Bilateral,constant,USD million,8.644711149841553
-2016,BGD,Bangladesh,Bilateral,constant,USD million,339.65215599787547
-2016,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,29.935691194253437
-2016,BLR,Belarus,Bilateral,constant,USD million,1281.20920442771
-2016,BLZ,Belize,Bilateral,constant,USD million,10.575622426567085
-2016,BOL,Bolivia,Bilateral,constant,USD million,99.83202815222646
-2016,BRA,Brazil,Bilateral,constant,USD million,332.72730854817365
-2016,BTN,Bhutan,Bilateral,constant,USD million,363.06259962029367
-2016,CHN,China,Bilateral,constant,USD million,56.437986722601266
-2016,CIV,Cote d'Ivoire,Bilateral,constant,USD million,352.05431308944924
-2016,CMR,Cameroon,Bilateral,constant,USD million,770.7618742911203
-2016,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,7.536662983329044
-2016,COG,"Congo, Rep.",Bilateral,constant,USD million,348.088855664829
-2016,COL,Colombia,Bilateral,constant,USD million,473.4203742149101
-2016,CPV,Cabo Verde,Bilateral,constant,USD million,1.4992562538826038
-2016,CRI,Costa Rica,Bilateral,constant,USD million,26.125599357343326
-2016,DJI,Djibouti,Bilateral,constant,USD million,412.44757749244496
-2016,DOM,Dominican Republic,Bilateral,constant,USD million,64.05714781848424
-2016,ECU,Ecuador,Bilateral,constant,USD million,2571.4541535050034
-2016,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,8566.411216872664
-2016,ERI,Eritrea,Bilateral,constant,USD million,6.094375398963754
-2016,ETH,Ethiopia,Bilateral,constant,USD million,1229.3307381675893
-2016,FJI,Fiji,Bilateral,constant,USD million,44.204366345028966
-2016,GAB,Gabon,Bilateral,constant,USD million,112.90590501289572
-2016,GEO,Georgia,Bilateral,constant,USD million,34.240645721481265
-2016,GHA,Ghana,Bilateral,constant,USD million,279.21667581389926
-2016,GIN,Guinea,Bilateral,constant,USD million,64.3967542388986
-2016,GMB,"Gambia, The",Bilateral,constant,USD million,9.566252098032969
-2016,GRD,Grenada,Bilateral,constant,USD million,3.1886718352485057
-2016,GUY,Guyana,Bilateral,constant,USD million,32.67128549879457
-2016,HND,Honduras,Bilateral,constant,USD million,39.12523346957794
-2016,HTI,Haiti,Bilateral,constant,USD million,1.613988707689162
-2016,IDN,Indonesia,Bilateral,constant,USD million,807.445331777049
-2016,IND,India,Bilateral,constant,USD million,712.7563807291749
-2016,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,23.689266360033198
-2016,IRQ,Iraq,Bilateral,constant,USD million,2032.2498361757403
-2016,JAM,Jamaica,Bilateral,constant,USD million,42.578857211536565
-2016,JOR,Jordan,Bilateral,constant,USD million,185.52422723743223
-2016,KAZ,Kazakhstan,Bilateral,constant,USD million,349.98439249897314
-2016,KEN,Kenya,Bilateral,constant,USD million,1335.4928812307978
-2016,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,191.24218048295094
-2016,KHM,Cambodia,Bilateral,constant,USD million,274.1130808055258
-2016,LAO,Lao PDR,Bilateral,constant,USD million,510.249818332921
-2016,LBN,Lebanon,Bilateral,constant,USD million,42.92021730179428
-2016,LKA,Sri Lanka,Bilateral,constant,USD million,601.3783340909422
-2016,LSO,Lesotho,Bilateral,constant,USD million,19.500928553260895
-2016,MAR,Morocco,Bilateral,constant,USD million,931.5231786096526
-2016,MDA,Moldova,Bilateral,constant,USD million,66.35794330600078
-2016,MDV,Maldives,Bilateral,constant,USD million,319.1313803312528
-2016,MEX,Mexico,Bilateral,constant,USD million,442.64427896698027
-2016,MKD,North Macedonia,Bilateral,constant,USD million,126.41056389896053
-2016,MLI,Mali,Bilateral,constant,USD million,73.1498019762278
-2016,MMR,Myanmar,Bilateral,constant,USD million,87.25337968369537
-2016,MNE,Montenegro,Bilateral,constant,USD million,35.95822782606747
-2016,MNG,Mongolia,Bilateral,constant,USD million,87.43594102920235
-2016,MOZ,Mozambique,Bilateral,constant,USD million,329.66833241127864
-2016,MRT,Mauritania,Bilateral,constant,USD million,76.81765716800167
-2016,MUS,Mauritius,Bilateral,constant,USD million,27.494913745051647
-2016,MWI,Malawi,Bilateral,constant,USD million,9.475001227293609
-2016,NER,Niger,Bilateral,constant,USD million,59.827037169003276
-2016,NGA,Nigeria,Bilateral,constant,USD million,263.88627184847616
-2016,NIC,Nicaragua,Bilateral,constant,USD million,3.298143994316229
-2016,NPL,Nepal,Bilateral,constant,USD million,18.6999532201525
-2016,PAK,Pakistan,Bilateral,constant,USD million,2094.422717153002
-2016,PER,Peru,Bilateral,constant,USD million,37.642121233758715
-2016,PHL,Philippines,Bilateral,constant,USD million,23.77679020197049
-2016,PNG,Papua New Guinea,Bilateral,constant,USD million,150.56811079915357
-2016,RWA,Rwanda,Bilateral,constant,USD million,29.8704459076487
-2016,SDN,Sudan,Bilateral,constant,USD million,77.80246389234154
-2016,SEN,Senegal,Bilateral,constant,USD million,557.496531302369
-2016,SLE,Sierra Leone,Bilateral,constant,USD million,19.644289085524267
-2016,SLV,El Salvador,Bilateral,constant,USD million,32.07174711684441
-2016,SRB,Serbia,Bilateral,constant,USD million,567.5589421928489
-2016,SUR,Suriname,Bilateral,constant,USD million,12.184905475948257
-2016,SWZ,Eswatini,Bilateral,constant,USD million,69.03228245040383
-2016,TCD,Chad,Bilateral,constant,USD million,77.76555403251027
-2016,TGO,Togo,Bilateral,constant,USD million,103.22595602883918
-2016,THA,Thailand,Bilateral,constant,USD million,325.1706578150972
-2016,TJK,Tajikistan,Bilateral,constant,USD million,222.55601267663258
-2016,TKM,Turkmenistan,Bilateral,constant,USD million,2215.5114631125257
-2016,TUN,Tunisia,Bilateral,constant,USD million,230.8132675940254
-2016,TUR,Turkiye,Bilateral,constant,USD million,161.58419941795222
-2016,TZA,Tanzania,Bilateral,constant,USD million,231.80236071517078
-2016,UGA,Uganda,Bilateral,constant,USD million,369.68288920210676
-2016,UKR,Ukraine,Bilateral,constant,USD million,149.63101888529002
-2016,UZB,Uzbekistan,Bilateral,constant,USD million,378.8123811167449
-2016,VNM,Viet Nam,Bilateral,constant,USD million,1286.4326068399164
-2016,VUT,Vanuatu,Bilateral,constant,USD million,28.512088150684924
-2016,WSM,Samoa,Bilateral,constant,USD million,9.929672909473164
-2016,XKX,Kosovo,Bilateral,constant,USD million,23.937050997953012
-2016,ZAF,South Africa,Bilateral,constant,USD million,104.26863034409699
-2016,ZMB,Zambia,Bilateral,constant,USD million,625.7424444799428
-2016,ZWE,Zimbabwe,Bilateral,constant,USD million,189.6486953858276
-2017,AGO,Angola,Bilateral,constant,USD million,489.39215984735966
-2017,ALB,Albania,Bilateral,constant,USD million,35.08193950207656
-2017,ARG,Argentina,Bilateral,constant,USD million,1077.7343532533102
-2017,ARM,Armenia,Bilateral,constant,USD million,303.4079164676837
-2017,AZE,Azerbaijan,Bilateral,constant,USD million,35.66480420680547
-2017,BEN,Benin,Bilateral,constant,USD million,38.70333535038027
-2017,BFA,Burkina Faso,Bilateral,constant,USD million,0.29672393122508695
-2017,BGD,Bangladesh,Bilateral,constant,USD million,919.9299194498965
-2017,BGR,Bulgaria,Bilateral,constant,USD million,102.39897266224565
-2017,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,62.31196711496162
-2017,BLR,Belarus,Bilateral,constant,USD million,1981.713661940711
-2017,BLZ,Belize,Bilateral,constant,USD million,15.051337496032035
-2017,BOL,Bolivia,Bilateral,constant,USD million,262.31376673290345
-2017,BRA,Brazil,Bilateral,constant,USD million,7077.85905031201
-2017,BTN,Bhutan,Bilateral,constant,USD million,157.5981209549014
-2017,CHN,China,Bilateral,constant,USD million,145.1471770030782
-2017,CIV,Cote d'Ivoire,Bilateral,constant,USD million,549.9510284266427
-2017,CMR,Cameroon,Bilateral,constant,USD million,821.3396615602095
-2017,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,2.5393456949062982
-2017,COG,"Congo, Rep.",Bilateral,constant,USD million,323.147295658563
-2017,COL,Colombia,Bilateral,constant,USD million,351.0723903569106
-2017,CPV,Cabo Verde,Bilateral,constant,USD million,43.531639407883226
-2017,DJI,Djibouti,Bilateral,constant,USD million,286.35191624926017
-2017,DOM,Dominican Republic,Bilateral,constant,USD million,37.134595103085246
-2017,DZA,Algeria,Bilateral,constant,USD million,0.5690602382233495
-2017,ECU,Ecuador,Bilateral,constant,USD million,717.4966717751857
-2017,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5317.263925743063
-2017,ERI,Eritrea,Bilateral,constant,USD million,3.976517537102991
-2017,ETH,Ethiopia,Bilateral,constant,USD million,851.3154747491575
-2017,FJI,Fiji,Bilateral,constant,USD million,0.8968248341558475
-2017,GAB,Gabon,Bilateral,constant,USD million,14.524917588636312
-2017,GEO,Georgia,Bilateral,constant,USD million,34.917290813888556
-2017,GHA,Ghana,Bilateral,constant,USD million,213.01683141031117
-2017,GIN,Guinea,Bilateral,constant,USD million,20.495606663766445
-2017,GMB,"Gambia, The",Bilateral,constant,USD million,3.8563448429456333
-2017,GNB,Guinea-Bissau,Bilateral,constant,USD million,2.895448147642461
-2017,GRD,Grenada,Bilateral,constant,USD million,2.6086037130257624
-2017,GUY,Guyana,Bilateral,constant,USD million,43.05116308154647
-2017,HND,Honduras,Bilateral,constant,USD million,2.3938472673892734
-2017,IDN,Indonesia,Bilateral,constant,USD million,926.2147609959007
-2017,IND,India,Bilateral,constant,USD million,798.2529344742691
-2017,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,93.1532811020981
-2017,IRQ,Iraq,Bilateral,constant,USD million,1603.469783301607
-2017,JAM,Jamaica,Bilateral,constant,USD million,72.86617645487534
-2017,JOR,Jordan,Bilateral,constant,USD million,255.1608444673297
-2017,KAZ,Kazakhstan,Bilateral,constant,USD million,751.5811329199489
-2017,KEN,Kenya,Bilateral,constant,USD million,2131.920791422204
-2017,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,158.43527618269556
-2017,KHM,Cambodia,Bilateral,constant,USD million,310.6039045523717
-2017,LAO,Lao PDR,Bilateral,constant,USD million,437.52241211469914
-2017,LBN,Lebanon,Bilateral,constant,USD million,48.84131896052525
-2017,LBR,Liberia,Bilateral,constant,USD million,16.876436503944785
-2017,LKA,Sri Lanka,Bilateral,constant,USD million,855.2294895419426
-2017,LSO,Lesotho,Bilateral,constant,USD million,2.0228751730858763
-2017,MAR,Morocco,Bilateral,constant,USD million,684.0643862599173
-2017,MDA,Moldova,Bilateral,constant,USD million,89.81865047559069
-2017,MDV,Maldives,Bilateral,constant,USD million,97.51777967629549
-2017,MEX,Mexico,Bilateral,constant,USD million,561.7919402064465
-2017,MKD,North Macedonia,Bilateral,constant,USD million,77.97744392507441
-2017,MLI,Mali,Bilateral,constant,USD million,27.319666265708975
-2017,MMR,Myanmar,Bilateral,constant,USD million,30.389146512154852
-2017,MNE,Montenegro,Bilateral,constant,USD million,194.22360378119507
-2017,MNG,Mongolia,Bilateral,constant,USD million,102.81565218846268
-2017,MOZ,Mozambique,Bilateral,constant,USD million,381.66116123133037
-2017,MRT,Mauritania,Bilateral,constant,USD million,37.4674118819166
-2017,MUS,Mauritius,Bilateral,constant,USD million,14.64388403219472
-2017,MWI,Malawi,Bilateral,constant,USD million,3.581818983912746
-2017,NER,Niger,Bilateral,constant,USD million,47.66351051048534
-2017,NGA,Nigeria,Bilateral,constant,USD million,466.84308029894646
-2017,NIC,Nicaragua,Bilateral,constant,USD million,0.7380378117727601
-2017,NPL,Nepal,Bilateral,constant,USD million,17.269059081269702
-2017,PAK,Pakistan,Bilateral,constant,USD million,3204.045142319853
-2017,PER,Peru,Bilateral,constant,USD million,114.7148306174462
-2017,PHL,Philippines,Bilateral,constant,USD million,9.949934963445989
-2017,PNG,Papua New Guinea,Bilateral,constant,USD million,125.51904661277405
-2017,PRY,Paraguay,Bilateral,constant,USD million,6.629407024656879
-2017,RWA,Rwanda,Bilateral,constant,USD million,29.70804212061483
-2017,SDN,Sudan,Bilateral,constant,USD million,57.16302646992379
-2017,SEN,Senegal,Bilateral,constant,USD million,330.6761521164745
-2017,SLE,Sierra Leone,Bilateral,constant,USD million,7.890733127413531
-2017,SLV,El Salvador,Bilateral,constant,USD million,13.80339537319604
-2017,SRB,Serbia,Bilateral,constant,USD million,577.5808540359777
-2017,SUR,Suriname,Bilateral,constant,USD million,98.95923697958327
-2017,SWZ,Eswatini,Bilateral,constant,USD million,33.06092278901019
-2017,TGO,Togo,Bilateral,constant,USD million,45.799188391819996
-2017,THA,Thailand,Bilateral,constant,USD million,6.742003946871808
-2017,TJK,Tajikistan,Bilateral,constant,USD million,136.3443269898812
-2017,TKM,Turkmenistan,Bilateral,constant,USD million,1255.395875779675
-2017,TUN,Tunisia,Bilateral,constant,USD million,227.1848988353256
-2017,TUR,Turkiye,Bilateral,constant,USD million,913.4250602381582
-2017,TZA,Tanzania,Bilateral,constant,USD million,230.7652952094869
-2017,UGA,Uganda,Bilateral,constant,USD million,617.6829199501259
-2017,UKR,Ukraine,Bilateral,constant,USD million,243.07644718363758
-2017,UZB,Uzbekistan,Bilateral,constant,USD million,393.97320799457293
-2017,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,9.987723321908673
-2017,VNM,Viet Nam,Bilateral,constant,USD million,1472.6389044998946
-2017,VUT,Vanuatu,Bilateral,constant,USD million,20.048195208412082
-2017,WSM,Samoa,Bilateral,constant,USD million,4.720478635137034
-2017,XKX,Kosovo,Bilateral,constant,USD million,13.88065083601367
-2017,ZAF,South Africa,Bilateral,constant,USD million,981.3240340525664
-2017,ZMB,Zambia,Bilateral,constant,USD million,368.376723066957
-2017,ZWE,Zimbabwe,Bilateral,constant,USD million,76.09671475461394
-2018,AGO,Angola,Bilateral,constant,USD million,2463.0433454214035
-2018,ALB,Albania,Bilateral,constant,USD million,29.884113215556088
-2018,ARG,Argentina,Bilateral,constant,USD million,501.86352851853314
-2018,ARM,Armenia,Bilateral,constant,USD million,170.3585145066021
-2018,AZE,Azerbaijan,Bilateral,constant,USD million,48.16395168843856
-2018,BEN,Benin,Bilateral,constant,USD million,48.79133405136721
-2018,BFA,Burkina Faso,Bilateral,constant,USD million,30.40528562515321
-2018,BGD,Bangladesh,Bilateral,constant,USD million,2648.2629304058587
-2018,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,24.387465119733573
-2018,BLR,Belarus,Bilateral,constant,USD million,1650.4727031294465
-2018,BLZ,Belize,Bilateral,constant,USD million,22.00221447598382
-2018,BOL,Bolivia,Bilateral,constant,USD million,219.89623648568008
-2018,BRA,Brazil,Bilateral,constant,USD million,1984.8885518254817
-2018,BTN,Bhutan,Bilateral,constant,USD million,106.19557803282626
-2018,CHN,China,Bilateral,constant,USD million,578.9781707539678
-2018,CIV,Cote d'Ivoire,Bilateral,constant,USD million,370.98189588903176
-2018,CMR,Cameroon,Bilateral,constant,USD million,380.8110642366473
-2018,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,57.03638335657014
-2018,COG,"Congo, Rep.",Bilateral,constant,USD million,31.199944458147648
-2018,COL,Colombia,Bilateral,constant,USD million,1136.0798439314597
-2018,CPV,Cabo Verde,Bilateral,constant,USD million,6.84585370973537
-2018,CRI,Costa Rica,Bilateral,constant,USD million,0.20461207033547846
-2018,DJI,Djibouti,Bilateral,constant,USD million,53.039402498836786
-2018,DOM,Dominican Republic,Bilateral,constant,USD million,4.79387907319336
-2018,ECU,Ecuador,Bilateral,constant,USD million,949.0959419542158
-2018,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5499.082642773171
-2018,ERI,Eritrea,Bilateral,constant,USD million,2.923620940741783
-2018,ETH,Ethiopia,Bilateral,constant,USD million,393.32670117317673
-2018,FJI,Fiji,Bilateral,constant,USD million,0.7679873831235063
-2018,GAB,Gabon,Bilateral,constant,USD million,154.84407063637366
-2018,GEO,Georgia,Bilateral,constant,USD million,72.8435751033212
-2018,GHA,Ghana,Bilateral,constant,USD million,68.83168737629802
-2018,GIN,Guinea,Bilateral,constant,USD million,38.49359679069225
-2018,GMB,"Gambia, The",Bilateral,constant,USD million,3.053254808803745
-2018,GRD,Grenada,Bilateral,constant,USD million,0.45276994851060165
-2018,GUY,Guyana,Bilateral,constant,USD million,48.9236575111317
-2018,IDN,Indonesia,Bilateral,constant,USD million,2082.626863697387
-2018,IND,India,Bilateral,constant,USD million,1116.0295565027484
-2018,IRQ,Iraq,Bilateral,constant,USD million,1013.609498616365
-2018,JAM,Jamaica,Bilateral,constant,USD million,92.20977781867207
-2018,JOR,Jordan,Bilateral,constant,USD million,252.31394755790444
-2018,KAZ,Kazakhstan,Bilateral,constant,USD million,380.1464745895954
-2018,KEN,Kenya,Bilateral,constant,USD million,1192.754340047757
-2018,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,41.03328908846271
-2018,KHM,Cambodia,Bilateral,constant,USD million,302.7389904318235
-2018,LAO,Lao PDR,Bilateral,constant,USD million,1000.3026025538169
-2018,LBN,Lebanon,Bilateral,constant,USD million,34.29814705291948
-2018,LBR,Liberia,Bilateral,constant,USD million,37.80425461126135
-2018,LKA,Sri Lanka,Bilateral,constant,USD million,533.266314297378
-2018,MAR,Morocco,Bilateral,constant,USD million,247.18249553909087
-2018,MDG,Madagascar,Bilateral,constant,USD million,41.0949411196198
-2018,MDV,Maldives,Bilateral,constant,USD million,428.789046007481
-2018,MEX,Mexico,Bilateral,constant,USD million,179.93316809278576
-2018,MKD,North Macedonia,Bilateral,constant,USD million,52.905093445221944
-2018,MLI,Mali,Bilateral,constant,USD million,27.86945023628291
-2018,MMR,Myanmar,Bilateral,constant,USD million,70.97427757204454
-2018,MNE,Montenegro,Bilateral,constant,USD million,190.59072491310812
-2018,MNG,Mongolia,Bilateral,constant,USD million,193.69181848127698
-2018,MOZ,Mozambique,Bilateral,constant,USD million,255.73004009889456
-2018,MRT,Mauritania,Bilateral,constant,USD million,84.92434675701276
-2018,MUS,Mauritius,Bilateral,constant,USD million,48.41647644549919
-2018,MWI,Malawi,Bilateral,constant,USD million,27.549493849820678
-2018,NER,Niger,Bilateral,constant,USD million,64.45959682043402
-2018,NGA,Nigeria,Bilateral,constant,USD million,831.460937003081
-2018,NIC,Nicaragua,Bilateral,constant,USD million,2.0363136076018806
-2018,NPL,Nepal,Bilateral,constant,USD million,68.12736857312045
-2018,PAK,Pakistan,Bilateral,constant,USD million,6933.290464066626
-2018,PER,Peru,Bilateral,constant,USD million,92.36276654976521
-2018,PHL,Philippines,Bilateral,constant,USD million,156.09682020550287
-2018,PNG,Papua New Guinea,Bilateral,constant,USD million,84.95734016054844
-2018,PRY,Paraguay,Bilateral,constant,USD million,10.861770627609616
-2018,RWA,Rwanda,Bilateral,constant,USD million,22.7107204126475
-2018,SDN,Sudan,Bilateral,constant,USD million,89.9905576601989
-2018,SEN,Senegal,Bilateral,constant,USD million,402.483095140771
-2018,SLE,Sierra Leone,Bilateral,constant,USD million,16.291447268556215
-2018,SLV,El Salvador,Bilateral,constant,USD million,1.0478772683051107
-2018,SRB,Serbia,Bilateral,constant,USD million,716.4726827274001
-2018,SUR,Suriname,Bilateral,constant,USD million,133.99427053116653
-2018,SWZ,Eswatini,Bilateral,constant,USD million,68.57229219524892
-2018,TGO,Togo,Bilateral,constant,USD million,21.648961226616624
-2018,THA,Thailand,Bilateral,constant,USD million,0.9748184235916593
-2018,TJK,Tajikistan,Bilateral,constant,USD million,5.681511737713276
-2018,TKM,Turkmenistan,Bilateral,constant,USD million,824.8912225861229
-2018,TUN,Tunisia,Bilateral,constant,USD million,222.49723150773517
-2018,TUR,Turkiye,Bilateral,constant,USD million,837.4928872303275
-2018,TZA,Tanzania,Bilateral,constant,USD million,165.57491446112772
-2018,UGA,Uganda,Bilateral,constant,USD million,603.7462053472552
-2018,UKR,Ukraine,Bilateral,constant,USD million,22.599644488005847
-2018,UZB,Uzbekistan,Bilateral,constant,USD million,1075.2613256818179
-2018,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,9.040689831013271
-2018,VNM,Viet Nam,Bilateral,constant,USD million,778.4270785856371
-2018,VUT,Vanuatu,Bilateral,constant,USD million,1.8049285210987918
-2018,WSM,Samoa,Bilateral,constant,USD million,14.072093826566613
-2018,XKX,Kosovo,Bilateral,constant,USD million,0.2669519761622856
-2018,ZAF,South Africa,Bilateral,constant,USD million,378.8823448112671
-2018,ZMB,Zambia,Bilateral,constant,USD million,537.3245863709801
-2018,ZWE,Zimbabwe,Bilateral,constant,USD million,168.9036469471003
-2019,AGO,Angola,Bilateral,constant,USD million,460.2861864352573
-2019,ALB,Albania,Bilateral,constant,USD million,37.60036826986642
-2019,ARG,Argentina,Bilateral,constant,USD million,701.0137901331491
-2019,ARM,Armenia,Bilateral,constant,USD million,169.14474108643333
-2019,AZE,Azerbaijan,Bilateral,constant,USD million,382.05399425140547
-2019,BEN,Benin,Bilateral,constant,USD million,11.925772842660399
-2019,BFA,Burkina Faso,Bilateral,constant,USD million,21.223180714587123
-2019,BGD,Bangladesh,Bilateral,constant,USD million,1230.2712480834382
-2019,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,23.516408671367582
-2019,BLR,Belarus,Bilateral,constant,USD million,1547.5798691424102
-2019,BLZ,Belize,Bilateral,constant,USD million,20.75306279438633
-2019,BOL,Bolivia,Bilateral,constant,USD million,308.3009220823478
-2019,BRA,Brazil,Bilateral,constant,USD million,1496.7365343531694
-2019,BTN,Bhutan,Bilateral,constant,USD million,95.23906055771408
-2019,CAF,Central African Republic,Bilateral,constant,USD million,0.7869276862519489
-2019,CHN,China,Bilateral,constant,USD million,259.27010667802455
-2019,CIV,Cote d'Ivoire,Bilateral,constant,USD million,603.1226301707713
-2019,CMR,Cameroon,Bilateral,constant,USD million,658.4591830809366
-2019,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,101.16367161630733
-2019,COG,"Congo, Rep.",Bilateral,constant,USD million,194.96723830469625
-2019,COL,Colombia,Bilateral,constant,USD million,7.665658155899132
-2019,CPV,Cabo Verde,Bilateral,constant,USD million,3.4345016800764516
-2019,DJI,Djibouti,Bilateral,constant,USD million,15.774296755222528
-2019,DOM,Dominican Republic,Bilateral,constant,USD million,15.218979227616007
-2019,ECU,Ecuador,Bilateral,constant,USD million,646.8341469092021
-2019,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,2764.590864042772
-2019,ERI,Eritrea,Bilateral,constant,USD million,1.5142372527759869
-2019,ETH,Ethiopia,Bilateral,constant,USD million,428.37491854293785
-2019,GAB,Gabon,Bilateral,constant,USD million,113.99654714295569
-2019,GEO,Georgia,Bilateral,constant,USD million,14.224982828891276
-2019,GHA,Ghana,Bilateral,constant,USD million,247.3053452422423
-2019,GIN,Guinea,Bilateral,constant,USD million,629.0628613502296
-2019,GMB,"Gambia, The",Bilateral,constant,USD million,33.42666032006688
-2019,GRD,Grenada,Bilateral,constant,USD million,2.892550026919332
-2019,GUY,Guyana,Bilateral,constant,USD million,37.89030226100932
-2019,HND,Honduras,Bilateral,constant,USD million,291.23975570226816
-2019,IDN,Indonesia,Bilateral,constant,USD million,395.2046990606333
-2019,IND,India,Bilateral,constant,USD million,900.1683363879237
-2019,IRQ,Iraq,Bilateral,constant,USD million,242.19594655296027
-2019,JAM,Jamaica,Bilateral,constant,USD million,43.69632201989932
-2019,JOR,Jordan,Bilateral,constant,USD million,226.24442541739288
-2019,KAZ,Kazakhstan,Bilateral,constant,USD million,402.95405339197924
-2019,KEN,Kenya,Bilateral,constant,USD million,753.6536521328308
-2019,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,80.93387848391494
-2019,KHM,Cambodia,Bilateral,constant,USD million,360.0250559593276
-2019,LAO,Lao PDR,Bilateral,constant,USD million,364.4067695010153
-2019,LBN,Lebanon,Bilateral,constant,USD million,36.40525033738282
-2019,LBR,Liberia,Bilateral,constant,USD million,3.782419211817358
-2019,LCA,St. Lucia,Bilateral,constant,USD million,19.973288613613427
-2019,LKA,Sri Lanka,Bilateral,constant,USD million,869.694478316198
-2019,LSO,Lesotho,Bilateral,constant,USD million,20.486597863699718
-2019,MAR,Morocco,Bilateral,constant,USD million,303.0798974351153
-2019,MDG,Madagascar,Bilateral,constant,USD million,41.735128632968234
-2019,MDV,Maldives,Bilateral,constant,USD million,229.05162773076447
-2019,MEX,Mexico,Bilateral,constant,USD million,112.24495397662795
-2019,MKD,North Macedonia,Bilateral,constant,USD million,70.96543155385979
-2019,MLI,Mali,Bilateral,constant,USD million,78.58498971683645
-2019,MMR,Myanmar,Bilateral,constant,USD million,109.696209471247
-2019,MNE,Montenegro,Bilateral,constant,USD million,146.86035159428894
-2019,MNG,Mongolia,Bilateral,constant,USD million,127.30300153864373
-2019,MOZ,Mozambique,Bilateral,constant,USD million,114.5667880480469
-2019,MRT,Mauritania,Bilateral,constant,USD million,81.10478341860419
-2019,MUS,Mauritius,Bilateral,constant,USD million,28.55071691873168
-2019,MWI,Malawi,Bilateral,constant,USD million,4.619551474186618
-2019,NER,Niger,Bilateral,constant,USD million,9.265069912303485
-2019,NGA,Nigeria,Bilateral,constant,USD million,896.9239896221017
-2019,NIC,Nicaragua,Bilateral,constant,USD million,11.761623379353379
-2019,NPL,Nepal,Bilateral,constant,USD million,138.01103171216167
-2019,PAK,Pakistan,Bilateral,constant,USD million,5743.27431329354
-2019,PER,Peru,Bilateral,constant,USD million,150.19565292476096
-2019,PHL,Philippines,Bilateral,constant,USD million,17.851223442690454
-2019,PNG,Papua New Guinea,Bilateral,constant,USD million,565.8007912435962
-2019,PRY,Paraguay,Bilateral,constant,USD million,15.245227267308458
-2019,RWA,Rwanda,Bilateral,constant,USD million,50.443812030516874
-2019,SDN,Sudan,Bilateral,constant,USD million,16.447468316159455
-2019,SEN,Senegal,Bilateral,constant,USD million,110.53957770004604
-2019,SLE,Sierra Leone,Bilateral,constant,USD million,12.479700808039155
-2019,SLV,El Salvador,Bilateral,constant,USD million,12.981860940585843
-2019,SRB,Serbia,Bilateral,constant,USD million,618.4331651061561
-2019,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.18142305863951136
-2019,SUR,Suriname,Bilateral,constant,USD million,182.15022202006702
-2019,SWZ,Eswatini,Bilateral,constant,USD million,33.35286670896155
-2019,TCD,Chad,Bilateral,constant,USD million,0.9155644418186727
-2019,TGO,Togo,Bilateral,constant,USD million,15.40851555582822
-2019,THA,Thailand,Bilateral,constant,USD million,0.620941251244729
-2019,TJK,Tajikistan,Bilateral,constant,USD million,7.894585287721277
-2019,TKM,Turkmenistan,Bilateral,constant,USD million,151.6121050413376
-2019,TUN,Tunisia,Bilateral,constant,USD million,1200.543037797683
-2019,TUR,Turkiye,Bilateral,constant,USD million,2236.1751347378317
-2019,TZA,Tanzania,Bilateral,constant,USD million,95.32845521182334
-2019,UGA,Uganda,Bilateral,constant,USD million,317.26573185068435
-2019,UKR,Ukraine,Bilateral,constant,USD million,29.222000692025915
-2019,UZB,Uzbekistan,Bilateral,constant,USD million,1007.4568787554897
-2019,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,6.758279780043747
-2019,VNM,Viet Nam,Bilateral,constant,USD million,385.0942511466476
-2019,VUT,Vanuatu,Bilateral,constant,USD million,16.881294024180487
-2019,WSM,Samoa,Bilateral,constant,USD million,0.4159295906497733
-2019,XKX,Kosovo,Bilateral,constant,USD million,2.2650057881374956
-2019,ZAF,South Africa,Bilateral,constant,USD million,835.8770063805836
-2019,ZMB,Zambia,Bilateral,constant,USD million,1112.7901681565781
-2019,ZWE,Zimbabwe,Bilateral,constant,USD million,39.641097273406515
-2020,AGO,Angola,Bilateral,constant,USD million,641.1785882846659
-2020,ALB,Albania,Bilateral,constant,USD million,40.39229123505958
-2020,ARG,Argentina,Bilateral,constant,USD million,148.94319547923826
-2020,ARM,Armenia,Bilateral,constant,USD million,33.55130373387311
-2020,AZE,Azerbaijan,Bilateral,constant,USD million,114.92222841433241
-2020,BEN,Benin,Bilateral,constant,USD million,51.79433919466325
-2020,BFA,Burkina Faso,Bilateral,constant,USD million,42.94227929988957
-2020,BGD,Bangladesh,Bilateral,constant,USD million,1695.8779761163303
-2020,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,50.69078277801488
-2020,BLR,Belarus,Bilateral,constant,USD million,1460.3229707132941
-2020,BLZ,Belize,Bilateral,constant,USD million,36.466146755384706
-2020,BOL,Bolivia,Bilateral,constant,USD million,46.323323791595854
-2020,BRA,Brazil,Bilateral,constant,USD million,420.6599842378506
-2020,BTN,Bhutan,Bilateral,constant,USD million,267.4920309977589
-2020,CAF,Central African Republic,Bilateral,constant,USD million,5.341270732454146
-2020,CHN,China,Bilateral,constant,USD million,607.6893572635672
-2020,CIV,Cote d'Ivoire,Bilateral,constant,USD million,537.3312188765882
-2020,CMR,Cameroon,Bilateral,constant,USD million,298.11389827775673
-2020,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,83.39941090924822
-2020,COG,"Congo, Rep.",Bilateral,constant,USD million,28.065467803203266
-2020,COL,Colombia,Bilateral,constant,USD million,600.0952514414014
-2020,CPV,Cabo Verde,Bilateral,constant,USD million,3.206075601293251
-2020,DJI,Djibouti,Bilateral,constant,USD million,139.3404856056522
-2020,DOM,Dominican Republic,Bilateral,constant,USD million,340.35175499916573
-2020,ECU,Ecuador,Bilateral,constant,USD million,140.3641594027416
-2020,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,3556.1153014308
+2015,TGO,Togo,Bilateral,constant,USD million,107.3953
+2015,THA,Thailand,Bilateral,constant,USD million,51.3747
+2015,TJK,Tajikistan,Bilateral,constant,USD million,205.1204
+2015,TKM,Turkmenistan,Bilateral,constant,USD million,821.87
+2015,TUN,Tunisia,Bilateral,constant,USD million,283.738
+2015,TUR,Turkiye,Bilateral,constant,USD million,313.7913
+2015,TZA,Tanzania,Bilateral,constant,USD million,455.292
+2015,UGA,Uganda,Bilateral,constant,USD million,400.6659
+2015,UKR,Ukraine,Bilateral,constant,USD million,501.5887
+2015,UZB,Uzbekistan,Bilateral,constant,USD million,253.6826
+2015,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,9.2842
+2015,VNM,Viet Nam,Bilateral,constant,USD million,1482.5091
+2015,VUT,Vanuatu,Bilateral,constant,USD million,81.3802
+2015,WSM,Samoa,Bilateral,constant,USD million,11.9056
+2015,XKX,Kosovo,Bilateral,constant,USD million,23.0982
+2015,ZAF,South Africa,Bilateral,constant,USD million,279.7873
+2015,ZMB,Zambia,Bilateral,constant,USD million,493.2668
+2015,ZWE,Zimbabwe,Bilateral,constant,USD million,296.7015
+2016,AGO,Angola,Bilateral,constant,USD million,1055.2432
+2016,ALB,Albania,Bilateral,constant,USD million,54.4392
+2016,ARG,Argentina,Bilateral,constant,USD million,298.247
+2016,ARM,Armenia,Bilateral,constant,USD million,96.7599
+2016,AZE,Azerbaijan,Bilateral,constant,USD million,19.6266
+2016,BEN,Benin,Bilateral,constant,USD million,27.7688
+2016,BFA,Burkina Faso,Bilateral,constant,USD million,8.6447
+2016,BGD,Bangladesh,Bilateral,constant,USD million,339.6522
+2016,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,29.9357
+2016,BLR,Belarus,Bilateral,constant,USD million,1281.2092
+2016,BLZ,Belize,Bilateral,constant,USD million,10.5756
+2016,BOL,Bolivia,Bilateral,constant,USD million,99.832
+2016,BRA,Brazil,Bilateral,constant,USD million,332.7273
+2016,BTN,Bhutan,Bilateral,constant,USD million,363.0626
+2016,CHN,China,Bilateral,constant,USD million,56.438
+2016,CIV,Cote d'Ivoire,Bilateral,constant,USD million,352.0543
+2016,CMR,Cameroon,Bilateral,constant,USD million,770.7619
+2016,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,7.5367
+2016,COG,"Congo, Rep.",Bilateral,constant,USD million,348.0889
+2016,COL,Colombia,Bilateral,constant,USD million,473.4204
+2016,CPV,Cabo Verde,Bilateral,constant,USD million,1.4993
+2016,CRI,Costa Rica,Bilateral,constant,USD million,26.1256
+2016,DJI,Djibouti,Bilateral,constant,USD million,412.4476
+2016,DOM,Dominican Republic,Bilateral,constant,USD million,64.0571
+2016,ECU,Ecuador,Bilateral,constant,USD million,2571.4542
+2016,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,8566.4112
+2016,ERI,Eritrea,Bilateral,constant,USD million,6.0944
+2016,ETH,Ethiopia,Bilateral,constant,USD million,1229.3307
+2016,FJI,Fiji,Bilateral,constant,USD million,44.2044
+2016,GAB,Gabon,Bilateral,constant,USD million,112.9059
+2016,GEO,Georgia,Bilateral,constant,USD million,34.2406
+2016,GHA,Ghana,Bilateral,constant,USD million,279.2167
+2016,GIN,Guinea,Bilateral,constant,USD million,64.3968
+2016,GMB,"Gambia, The",Bilateral,constant,USD million,9.5663
+2016,GRD,Grenada,Bilateral,constant,USD million,3.1887
+2016,GUY,Guyana,Bilateral,constant,USD million,32.6713
+2016,HND,Honduras,Bilateral,constant,USD million,39.1252
+2016,HTI,Haiti,Bilateral,constant,USD million,1.614
+2016,IDN,Indonesia,Bilateral,constant,USD million,807.4453
+2016,IND,India,Bilateral,constant,USD million,712.7564
+2016,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,23.6893
+2016,IRQ,Iraq,Bilateral,constant,USD million,2032.2498
+2016,JAM,Jamaica,Bilateral,constant,USD million,42.5789
+2016,JOR,Jordan,Bilateral,constant,USD million,185.5242
+2016,KAZ,Kazakhstan,Bilateral,constant,USD million,349.9844
+2016,KEN,Kenya,Bilateral,constant,USD million,1335.4929
+2016,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,191.2422
+2016,KHM,Cambodia,Bilateral,constant,USD million,274.1131
+2016,LAO,Lao PDR,Bilateral,constant,USD million,510.2498
+2016,LBN,Lebanon,Bilateral,constant,USD million,42.9202
+2016,LKA,Sri Lanka,Bilateral,constant,USD million,601.3783
+2016,LSO,Lesotho,Bilateral,constant,USD million,19.5009
+2016,MAR,Morocco,Bilateral,constant,USD million,931.5232
+2016,MDA,Moldova,Bilateral,constant,USD million,66.3579
+2016,MDV,Maldives,Bilateral,constant,USD million,319.1314
+2016,MEX,Mexico,Bilateral,constant,USD million,442.6443
+2016,MKD,North Macedonia,Bilateral,constant,USD million,126.4106
+2016,MLI,Mali,Bilateral,constant,USD million,73.1498
+2016,MMR,Myanmar,Bilateral,constant,USD million,87.2534
+2016,MNE,Montenegro,Bilateral,constant,USD million,35.9582
+2016,MNG,Mongolia,Bilateral,constant,USD million,87.4359
+2016,MOZ,Mozambique,Bilateral,constant,USD million,329.6683
+2016,MRT,Mauritania,Bilateral,constant,USD million,76.8177
+2016,MUS,Mauritius,Bilateral,constant,USD million,27.4949
+2016,MWI,Malawi,Bilateral,constant,USD million,9.475
+2016,NER,Niger,Bilateral,constant,USD million,59.827
+2016,NGA,Nigeria,Bilateral,constant,USD million,263.8863
+2016,NIC,Nicaragua,Bilateral,constant,USD million,3.2981
+2016,NPL,Nepal,Bilateral,constant,USD million,18.7
+2016,PAK,Pakistan,Bilateral,constant,USD million,2094.4227
+2016,PER,Peru,Bilateral,constant,USD million,37.6421
+2016,PHL,Philippines,Bilateral,constant,USD million,23.7768
+2016,PNG,Papua New Guinea,Bilateral,constant,USD million,150.5681
+2016,RWA,Rwanda,Bilateral,constant,USD million,29.8704
+2016,SDN,Sudan,Bilateral,constant,USD million,77.8025
+2016,SEN,Senegal,Bilateral,constant,USD million,557.4965
+2016,SLE,Sierra Leone,Bilateral,constant,USD million,19.6443
+2016,SLV,El Salvador,Bilateral,constant,USD million,32.0717
+2016,SRB,Serbia,Bilateral,constant,USD million,567.5589
+2016,SUR,Suriname,Bilateral,constant,USD million,12.1849
+2016,SWZ,Eswatini,Bilateral,constant,USD million,69.0323
+2016,TCD,Chad,Bilateral,constant,USD million,77.7656
+2016,TGO,Togo,Bilateral,constant,USD million,103.226
+2016,THA,Thailand,Bilateral,constant,USD million,325.1707
+2016,TJK,Tajikistan,Bilateral,constant,USD million,222.556
+2016,TKM,Turkmenistan,Bilateral,constant,USD million,2215.5115
+2016,TUN,Tunisia,Bilateral,constant,USD million,230.8133
+2016,TUR,Turkiye,Bilateral,constant,USD million,161.5842
+2016,TZA,Tanzania,Bilateral,constant,USD million,231.8024
+2016,UGA,Uganda,Bilateral,constant,USD million,369.6829
+2016,UKR,Ukraine,Bilateral,constant,USD million,149.631
+2016,UZB,Uzbekistan,Bilateral,constant,USD million,378.8124
+2016,VNM,Viet Nam,Bilateral,constant,USD million,1286.4326
+2016,VUT,Vanuatu,Bilateral,constant,USD million,28.5121
+2016,WSM,Samoa,Bilateral,constant,USD million,9.9297
+2016,XKX,Kosovo,Bilateral,constant,USD million,23.9371
+2016,ZAF,South Africa,Bilateral,constant,USD million,104.2686
+2016,ZMB,Zambia,Bilateral,constant,USD million,625.7424
+2016,ZWE,Zimbabwe,Bilateral,constant,USD million,189.6487
+2017,AGO,Angola,Bilateral,constant,USD million,489.3922
+2017,ALB,Albania,Bilateral,constant,USD million,35.0819
+2017,ARG,Argentina,Bilateral,constant,USD million,1077.7344
+2017,ARM,Armenia,Bilateral,constant,USD million,303.4079
+2017,AZE,Azerbaijan,Bilateral,constant,USD million,35.6648
+2017,BEN,Benin,Bilateral,constant,USD million,38.7033
+2017,BFA,Burkina Faso,Bilateral,constant,USD million,0.2967
+2017,BGD,Bangladesh,Bilateral,constant,USD million,919.9299
+2017,BGR,Bulgaria,Bilateral,constant,USD million,102.399
+2017,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,62.312
+2017,BLR,Belarus,Bilateral,constant,USD million,1981.7137
+2017,BLZ,Belize,Bilateral,constant,USD million,15.0513
+2017,BOL,Bolivia,Bilateral,constant,USD million,262.3138
+2017,BRA,Brazil,Bilateral,constant,USD million,7077.8591
+2017,BTN,Bhutan,Bilateral,constant,USD million,157.5981
+2017,CHN,China,Bilateral,constant,USD million,145.1472
+2017,CIV,Cote d'Ivoire,Bilateral,constant,USD million,549.951
+2017,CMR,Cameroon,Bilateral,constant,USD million,821.3397
+2017,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,2.5393
+2017,COG,"Congo, Rep.",Bilateral,constant,USD million,323.1473
+2017,COL,Colombia,Bilateral,constant,USD million,351.0724
+2017,CPV,Cabo Verde,Bilateral,constant,USD million,43.5316
+2017,DJI,Djibouti,Bilateral,constant,USD million,286.3519
+2017,DOM,Dominican Republic,Bilateral,constant,USD million,37.1346
+2017,DZA,Algeria,Bilateral,constant,USD million,0.5691
+2017,ECU,Ecuador,Bilateral,constant,USD million,717.4967
+2017,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5317.2639
+2017,ERI,Eritrea,Bilateral,constant,USD million,3.9765
+2017,ETH,Ethiopia,Bilateral,constant,USD million,851.3155
+2017,FJI,Fiji,Bilateral,constant,USD million,0.8968
+2017,GAB,Gabon,Bilateral,constant,USD million,14.5249
+2017,GEO,Georgia,Bilateral,constant,USD million,34.9173
+2017,GHA,Ghana,Bilateral,constant,USD million,213.0168
+2017,GIN,Guinea,Bilateral,constant,USD million,20.4956
+2017,GMB,"Gambia, The",Bilateral,constant,USD million,3.8563
+2017,GNB,Guinea-Bissau,Bilateral,constant,USD million,2.8954
+2017,GRD,Grenada,Bilateral,constant,USD million,2.6086
+2017,GUY,Guyana,Bilateral,constant,USD million,43.0512
+2017,HND,Honduras,Bilateral,constant,USD million,2.3938
+2017,IDN,Indonesia,Bilateral,constant,USD million,926.2148
+2017,IND,India,Bilateral,constant,USD million,798.2529
+2017,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,93.1533
+2017,IRQ,Iraq,Bilateral,constant,USD million,1603.4698
+2017,JAM,Jamaica,Bilateral,constant,USD million,72.8662
+2017,JOR,Jordan,Bilateral,constant,USD million,255.1608
+2017,KAZ,Kazakhstan,Bilateral,constant,USD million,751.5811
+2017,KEN,Kenya,Bilateral,constant,USD million,2131.9208
+2017,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,158.4353
+2017,KHM,Cambodia,Bilateral,constant,USD million,310.6039
+2017,LAO,Lao PDR,Bilateral,constant,USD million,437.5224
+2017,LBN,Lebanon,Bilateral,constant,USD million,48.8413
+2017,LBR,Liberia,Bilateral,constant,USD million,16.8764
+2017,LKA,Sri Lanka,Bilateral,constant,USD million,855.2295
+2017,LSO,Lesotho,Bilateral,constant,USD million,2.0229
+2017,MAR,Morocco,Bilateral,constant,USD million,684.0644
+2017,MDA,Moldova,Bilateral,constant,USD million,89.8187
+2017,MDV,Maldives,Bilateral,constant,USD million,97.5178
+2017,MEX,Mexico,Bilateral,constant,USD million,561.7919
+2017,MKD,North Macedonia,Bilateral,constant,USD million,77.9774
+2017,MLI,Mali,Bilateral,constant,USD million,27.3197
+2017,MMR,Myanmar,Bilateral,constant,USD million,30.3891
+2017,MNE,Montenegro,Bilateral,constant,USD million,194.2236
+2017,MNG,Mongolia,Bilateral,constant,USD million,102.8157
+2017,MOZ,Mozambique,Bilateral,constant,USD million,381.6612
+2017,MRT,Mauritania,Bilateral,constant,USD million,37.4674
+2017,MUS,Mauritius,Bilateral,constant,USD million,14.6439
+2017,MWI,Malawi,Bilateral,constant,USD million,3.5818
+2017,NER,Niger,Bilateral,constant,USD million,47.6635
+2017,NGA,Nigeria,Bilateral,constant,USD million,466.8431
+2017,NIC,Nicaragua,Bilateral,constant,USD million,0.738
+2017,NPL,Nepal,Bilateral,constant,USD million,17.2691
+2017,PAK,Pakistan,Bilateral,constant,USD million,3204.0451
+2017,PER,Peru,Bilateral,constant,USD million,114.7148
+2017,PHL,Philippines,Bilateral,constant,USD million,9.9499
+2017,PNG,Papua New Guinea,Bilateral,constant,USD million,125.519
+2017,PRY,Paraguay,Bilateral,constant,USD million,6.6294
+2017,RWA,Rwanda,Bilateral,constant,USD million,29.708
+2017,SDN,Sudan,Bilateral,constant,USD million,57.163
+2017,SEN,Senegal,Bilateral,constant,USD million,330.6762
+2017,SLE,Sierra Leone,Bilateral,constant,USD million,7.8907
+2017,SLV,El Salvador,Bilateral,constant,USD million,13.8034
+2017,SRB,Serbia,Bilateral,constant,USD million,577.5809
+2017,SUR,Suriname,Bilateral,constant,USD million,98.9592
+2017,SWZ,Eswatini,Bilateral,constant,USD million,33.0609
+2017,TGO,Togo,Bilateral,constant,USD million,45.7992
+2017,THA,Thailand,Bilateral,constant,USD million,6.742
+2017,TJK,Tajikistan,Bilateral,constant,USD million,136.3443
+2017,TKM,Turkmenistan,Bilateral,constant,USD million,1255.3959
+2017,TUN,Tunisia,Bilateral,constant,USD million,227.1849
+2017,TUR,Turkiye,Bilateral,constant,USD million,913.4251
+2017,TZA,Tanzania,Bilateral,constant,USD million,230.7653
+2017,UGA,Uganda,Bilateral,constant,USD million,617.6829
+2017,UKR,Ukraine,Bilateral,constant,USD million,243.0764
+2017,UZB,Uzbekistan,Bilateral,constant,USD million,393.9732
+2017,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,9.9877
+2017,VNM,Viet Nam,Bilateral,constant,USD million,1472.6389
+2017,VUT,Vanuatu,Bilateral,constant,USD million,20.0482
+2017,WSM,Samoa,Bilateral,constant,USD million,4.7205
+2017,XKX,Kosovo,Bilateral,constant,USD million,13.8807
+2017,ZAF,South Africa,Bilateral,constant,USD million,981.324
+2017,ZMB,Zambia,Bilateral,constant,USD million,368.3767
+2017,ZWE,Zimbabwe,Bilateral,constant,USD million,76.0967
+2018,AGO,Angola,Bilateral,constant,USD million,2463.0433
+2018,ALB,Albania,Bilateral,constant,USD million,29.8841
+2018,ARG,Argentina,Bilateral,constant,USD million,501.8635
+2018,ARM,Armenia,Bilateral,constant,USD million,170.3585
+2018,AZE,Azerbaijan,Bilateral,constant,USD million,48.164
+2018,BEN,Benin,Bilateral,constant,USD million,48.7913
+2018,BFA,Burkina Faso,Bilateral,constant,USD million,30.4053
+2018,BGD,Bangladesh,Bilateral,constant,USD million,2648.2629
+2018,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,24.3875
+2018,BLR,Belarus,Bilateral,constant,USD million,1650.4727
+2018,BLZ,Belize,Bilateral,constant,USD million,22.0022
+2018,BOL,Bolivia,Bilateral,constant,USD million,219.8962
+2018,BRA,Brazil,Bilateral,constant,USD million,1984.8886
+2018,BTN,Bhutan,Bilateral,constant,USD million,106.1956
+2018,CHN,China,Bilateral,constant,USD million,578.9782
+2018,CIV,Cote d'Ivoire,Bilateral,constant,USD million,370.9819
+2018,CMR,Cameroon,Bilateral,constant,USD million,380.8111
+2018,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,57.0364
+2018,COG,"Congo, Rep.",Bilateral,constant,USD million,31.1999
+2018,COL,Colombia,Bilateral,constant,USD million,1136.0798
+2018,CPV,Cabo Verde,Bilateral,constant,USD million,6.8459
+2018,CRI,Costa Rica,Bilateral,constant,USD million,0.2046
+2018,DJI,Djibouti,Bilateral,constant,USD million,53.0394
+2018,DOM,Dominican Republic,Bilateral,constant,USD million,4.7939
+2018,ECU,Ecuador,Bilateral,constant,USD million,949.0959
+2018,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5499.0826
+2018,ERI,Eritrea,Bilateral,constant,USD million,2.9236
+2018,ETH,Ethiopia,Bilateral,constant,USD million,393.3267
+2018,FJI,Fiji,Bilateral,constant,USD million,0.768
+2018,GAB,Gabon,Bilateral,constant,USD million,154.8441
+2018,GEO,Georgia,Bilateral,constant,USD million,72.8436
+2018,GHA,Ghana,Bilateral,constant,USD million,68.8317
+2018,GIN,Guinea,Bilateral,constant,USD million,38.4936
+2018,GMB,"Gambia, The",Bilateral,constant,USD million,3.0533
+2018,GRD,Grenada,Bilateral,constant,USD million,0.4528
+2018,GUY,Guyana,Bilateral,constant,USD million,48.9237
+2018,IDN,Indonesia,Bilateral,constant,USD million,2082.6269
+2018,IND,India,Bilateral,constant,USD million,1116.0296
+2018,IRQ,Iraq,Bilateral,constant,USD million,1013.6095
+2018,JAM,Jamaica,Bilateral,constant,USD million,92.2098
+2018,JOR,Jordan,Bilateral,constant,USD million,252.3139
+2018,KAZ,Kazakhstan,Bilateral,constant,USD million,380.1465
+2018,KEN,Kenya,Bilateral,constant,USD million,1192.7543
+2018,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,41.0333
+2018,KHM,Cambodia,Bilateral,constant,USD million,302.739
+2018,LAO,Lao PDR,Bilateral,constant,USD million,1000.3026
+2018,LBN,Lebanon,Bilateral,constant,USD million,34.2981
+2018,LBR,Liberia,Bilateral,constant,USD million,37.8043
+2018,LKA,Sri Lanka,Bilateral,constant,USD million,533.2663
+2018,MAR,Morocco,Bilateral,constant,USD million,247.1825
+2018,MDG,Madagascar,Bilateral,constant,USD million,41.0949
+2018,MDV,Maldives,Bilateral,constant,USD million,428.789
+2018,MEX,Mexico,Bilateral,constant,USD million,179.9332
+2018,MKD,North Macedonia,Bilateral,constant,USD million,52.9051
+2018,MLI,Mali,Bilateral,constant,USD million,27.8695
+2018,MMR,Myanmar,Bilateral,constant,USD million,70.9743
+2018,MNE,Montenegro,Bilateral,constant,USD million,190.5907
+2018,MNG,Mongolia,Bilateral,constant,USD million,193.6918
+2018,MOZ,Mozambique,Bilateral,constant,USD million,255.73
+2018,MRT,Mauritania,Bilateral,constant,USD million,84.9243
+2018,MUS,Mauritius,Bilateral,constant,USD million,48.4165
+2018,MWI,Malawi,Bilateral,constant,USD million,27.5495
+2018,NER,Niger,Bilateral,constant,USD million,64.4596
+2018,NGA,Nigeria,Bilateral,constant,USD million,831.4609
+2018,NIC,Nicaragua,Bilateral,constant,USD million,2.0363
+2018,NPL,Nepal,Bilateral,constant,USD million,68.1274
+2018,PAK,Pakistan,Bilateral,constant,USD million,6933.2905
+2018,PER,Peru,Bilateral,constant,USD million,92.3628
+2018,PHL,Philippines,Bilateral,constant,USD million,156.0968
+2018,PNG,Papua New Guinea,Bilateral,constant,USD million,84.9573
+2018,PRY,Paraguay,Bilateral,constant,USD million,10.8618
+2018,RWA,Rwanda,Bilateral,constant,USD million,22.7107
+2018,SDN,Sudan,Bilateral,constant,USD million,89.9906
+2018,SEN,Senegal,Bilateral,constant,USD million,402.4831
+2018,SLE,Sierra Leone,Bilateral,constant,USD million,16.2914
+2018,SLV,El Salvador,Bilateral,constant,USD million,1.0479
+2018,SRB,Serbia,Bilateral,constant,USD million,716.4727
+2018,SUR,Suriname,Bilateral,constant,USD million,133.9943
+2018,SWZ,Eswatini,Bilateral,constant,USD million,68.5723
+2018,TGO,Togo,Bilateral,constant,USD million,21.649
+2018,THA,Thailand,Bilateral,constant,USD million,0.9748
+2018,TJK,Tajikistan,Bilateral,constant,USD million,5.6815
+2018,TKM,Turkmenistan,Bilateral,constant,USD million,824.8912
+2018,TUN,Tunisia,Bilateral,constant,USD million,222.4972
+2018,TUR,Turkiye,Bilateral,constant,USD million,837.4929
+2018,TZA,Tanzania,Bilateral,constant,USD million,165.5749
+2018,UGA,Uganda,Bilateral,constant,USD million,603.7462
+2018,UKR,Ukraine,Bilateral,constant,USD million,22.5996
+2018,UZB,Uzbekistan,Bilateral,constant,USD million,1075.2613
+2018,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,9.0407
+2018,VNM,Viet Nam,Bilateral,constant,USD million,778.4271
+2018,VUT,Vanuatu,Bilateral,constant,USD million,1.8049
+2018,WSM,Samoa,Bilateral,constant,USD million,14.0721
+2018,XKX,Kosovo,Bilateral,constant,USD million,0.267
+2018,ZAF,South Africa,Bilateral,constant,USD million,378.8823
+2018,ZMB,Zambia,Bilateral,constant,USD million,537.3246
+2018,ZWE,Zimbabwe,Bilateral,constant,USD million,168.9036
+2019,AGO,Angola,Bilateral,constant,USD million,460.2862
+2019,ALB,Albania,Bilateral,constant,USD million,37.6004
+2019,ARG,Argentina,Bilateral,constant,USD million,701.0138
+2019,ARM,Armenia,Bilateral,constant,USD million,169.1447
+2019,AZE,Azerbaijan,Bilateral,constant,USD million,382.054
+2019,BEN,Benin,Bilateral,constant,USD million,11.9258
+2019,BFA,Burkina Faso,Bilateral,constant,USD million,21.2232
+2019,BGD,Bangladesh,Bilateral,constant,USD million,1230.2712
+2019,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,23.5164
+2019,BLR,Belarus,Bilateral,constant,USD million,1547.5799
+2019,BLZ,Belize,Bilateral,constant,USD million,20.7531
+2019,BOL,Bolivia,Bilateral,constant,USD million,308.3009
+2019,BRA,Brazil,Bilateral,constant,USD million,1496.7365
+2019,BTN,Bhutan,Bilateral,constant,USD million,95.2391
+2019,CAF,Central African Republic,Bilateral,constant,USD million,0.7869
+2019,CHN,China,Bilateral,constant,USD million,259.2701
+2019,CIV,Cote d'Ivoire,Bilateral,constant,USD million,603.1226
+2019,CMR,Cameroon,Bilateral,constant,USD million,658.4592
+2019,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,101.1637
+2019,COG,"Congo, Rep.",Bilateral,constant,USD million,194.9672
+2019,COL,Colombia,Bilateral,constant,USD million,7.6657
+2019,CPV,Cabo Verde,Bilateral,constant,USD million,3.4345
+2019,DJI,Djibouti,Bilateral,constant,USD million,15.7743
+2019,DOM,Dominican Republic,Bilateral,constant,USD million,15.219
+2019,ECU,Ecuador,Bilateral,constant,USD million,646.8341
+2019,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,2764.5909
+2019,ERI,Eritrea,Bilateral,constant,USD million,1.5142
+2019,ETH,Ethiopia,Bilateral,constant,USD million,428.3749
+2019,GAB,Gabon,Bilateral,constant,USD million,113.9965
+2019,GEO,Georgia,Bilateral,constant,USD million,14.225
+2019,GHA,Ghana,Bilateral,constant,USD million,247.3053
+2019,GIN,Guinea,Bilateral,constant,USD million,629.0629
+2019,GMB,"Gambia, The",Bilateral,constant,USD million,33.4267
+2019,GRD,Grenada,Bilateral,constant,USD million,2.8926
+2019,GUY,Guyana,Bilateral,constant,USD million,37.8903
+2019,HND,Honduras,Bilateral,constant,USD million,291.2398
+2019,IDN,Indonesia,Bilateral,constant,USD million,395.2047
+2019,IND,India,Bilateral,constant,USD million,900.1683
+2019,IRQ,Iraq,Bilateral,constant,USD million,242.1959
+2019,JAM,Jamaica,Bilateral,constant,USD million,43.6963
+2019,JOR,Jordan,Bilateral,constant,USD million,226.2444
+2019,KAZ,Kazakhstan,Bilateral,constant,USD million,402.9541
+2019,KEN,Kenya,Bilateral,constant,USD million,753.6537
+2019,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,80.9339
+2019,KHM,Cambodia,Bilateral,constant,USD million,360.0251
+2019,LAO,Lao PDR,Bilateral,constant,USD million,364.4068
+2019,LBN,Lebanon,Bilateral,constant,USD million,36.4053
+2019,LBR,Liberia,Bilateral,constant,USD million,3.7824
+2019,LCA,St. Lucia,Bilateral,constant,USD million,19.9733
+2019,LKA,Sri Lanka,Bilateral,constant,USD million,869.6945
+2019,LSO,Lesotho,Bilateral,constant,USD million,20.4866
+2019,MAR,Morocco,Bilateral,constant,USD million,303.0799
+2019,MDG,Madagascar,Bilateral,constant,USD million,41.7351
+2019,MDV,Maldives,Bilateral,constant,USD million,229.0516
+2019,MEX,Mexico,Bilateral,constant,USD million,112.245
+2019,MKD,North Macedonia,Bilateral,constant,USD million,70.9654
+2019,MLI,Mali,Bilateral,constant,USD million,78.585
+2019,MMR,Myanmar,Bilateral,constant,USD million,109.6962
+2019,MNE,Montenegro,Bilateral,constant,USD million,146.8604
+2019,MNG,Mongolia,Bilateral,constant,USD million,127.303
+2019,MOZ,Mozambique,Bilateral,constant,USD million,114.5668
+2019,MRT,Mauritania,Bilateral,constant,USD million,81.1048
+2019,MUS,Mauritius,Bilateral,constant,USD million,28.5507
+2019,MWI,Malawi,Bilateral,constant,USD million,4.6196
+2019,NER,Niger,Bilateral,constant,USD million,9.2651
+2019,NGA,Nigeria,Bilateral,constant,USD million,896.924
+2019,NIC,Nicaragua,Bilateral,constant,USD million,11.7616
+2019,NPL,Nepal,Bilateral,constant,USD million,138.011
+2019,PAK,Pakistan,Bilateral,constant,USD million,5743.2743
+2019,PER,Peru,Bilateral,constant,USD million,150.1957
+2019,PHL,Philippines,Bilateral,constant,USD million,17.8512
+2019,PNG,Papua New Guinea,Bilateral,constant,USD million,565.8008
+2019,PRY,Paraguay,Bilateral,constant,USD million,15.2452
+2019,RWA,Rwanda,Bilateral,constant,USD million,50.4438
+2019,SDN,Sudan,Bilateral,constant,USD million,16.4475
+2019,SEN,Senegal,Bilateral,constant,USD million,110.5396
+2019,SLE,Sierra Leone,Bilateral,constant,USD million,12.4797
+2019,SLV,El Salvador,Bilateral,constant,USD million,12.9819
+2019,SRB,Serbia,Bilateral,constant,USD million,618.4332
+2019,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.1814
+2019,SUR,Suriname,Bilateral,constant,USD million,182.1502
+2019,SWZ,Eswatini,Bilateral,constant,USD million,33.3529
+2019,TCD,Chad,Bilateral,constant,USD million,0.9156
+2019,TGO,Togo,Bilateral,constant,USD million,15.4085
+2019,THA,Thailand,Bilateral,constant,USD million,0.6209
+2019,TJK,Tajikistan,Bilateral,constant,USD million,7.8946
+2019,TKM,Turkmenistan,Bilateral,constant,USD million,151.6121
+2019,TUN,Tunisia,Bilateral,constant,USD million,1200.543
+2019,TUR,Turkiye,Bilateral,constant,USD million,2236.1751
+2019,TZA,Tanzania,Bilateral,constant,USD million,95.3285
+2019,UGA,Uganda,Bilateral,constant,USD million,317.2657
+2019,UKR,Ukraine,Bilateral,constant,USD million,29.222
+2019,UZB,Uzbekistan,Bilateral,constant,USD million,1007.4569
+2019,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,6.7583
+2019,VNM,Viet Nam,Bilateral,constant,USD million,385.0943
+2019,VUT,Vanuatu,Bilateral,constant,USD million,16.8813
+2019,WSM,Samoa,Bilateral,constant,USD million,0.4159
+2019,XKX,Kosovo,Bilateral,constant,USD million,2.265
+2019,ZAF,South Africa,Bilateral,constant,USD million,835.877
+2019,ZMB,Zambia,Bilateral,constant,USD million,1112.7902
+2019,ZWE,Zimbabwe,Bilateral,constant,USD million,39.6411
+2020,AGO,Angola,Bilateral,constant,USD million,641.1786
+2020,ALB,Albania,Bilateral,constant,USD million,40.3923
+2020,ARG,Argentina,Bilateral,constant,USD million,148.9432
+2020,ARM,Armenia,Bilateral,constant,USD million,33.5513
+2020,AZE,Azerbaijan,Bilateral,constant,USD million,114.9222
+2020,BEN,Benin,Bilateral,constant,USD million,51.7943
+2020,BFA,Burkina Faso,Bilateral,constant,USD million,42.9423
+2020,BGD,Bangladesh,Bilateral,constant,USD million,1695.878
+2020,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,50.6908
+2020,BLR,Belarus,Bilateral,constant,USD million,1460.323
+2020,BLZ,Belize,Bilateral,constant,USD million,36.4661
+2020,BOL,Bolivia,Bilateral,constant,USD million,46.3233
+2020,BRA,Brazil,Bilateral,constant,USD million,420.66
+2020,BTN,Bhutan,Bilateral,constant,USD million,267.492
+2020,CAF,Central African Republic,Bilateral,constant,USD million,5.3413
+2020,CHN,China,Bilateral,constant,USD million,607.6894
+2020,CIV,Cote d'Ivoire,Bilateral,constant,USD million,537.3312
+2020,CMR,Cameroon,Bilateral,constant,USD million,298.1139
+2020,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,83.3994
+2020,COG,"Congo, Rep.",Bilateral,constant,USD million,28.0655
+2020,COL,Colombia,Bilateral,constant,USD million,600.0953
+2020,CPV,Cabo Verde,Bilateral,constant,USD million,3.2061
+2020,DJI,Djibouti,Bilateral,constant,USD million,139.3405
+2020,DOM,Dominican Republic,Bilateral,constant,USD million,340.3518
+2020,ECU,Ecuador,Bilateral,constant,USD million,140.3642
+2020,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,3556.1153
 2020,ERI,Eritrea,Bilateral,constant,USD million,0.0
-2020,ETH,Ethiopia,Bilateral,constant,USD million,291.32894341481347
-2020,GAB,Gabon,Bilateral,constant,USD million,59.98706861039963
-2020,GEO,Georgia,Bilateral,constant,USD million,356.34811372601416
-2020,GHA,Ghana,Bilateral,constant,USD million,292.22102748031426
-2020,GIN,Guinea,Bilateral,constant,USD million,37.59270425810321
-2020,GMB,"Gambia, The",Bilateral,constant,USD million,8.736383979955226
-2020,GRD,Grenada,Bilateral,constant,USD million,4.820320602460315
-2020,GUY,Guyana,Bilateral,constant,USD million,19.173101631380042
-2020,IDN,Indonesia,Bilateral,constant,USD million,3322.3481447021
-2020,IND,India,Bilateral,constant,USD million,1832.2934475407915
-2020,IRQ,Iraq,Bilateral,constant,USD million,436.16210097254435
-2020,JAM,Jamaica,Bilateral,constant,USD million,49.21596366967747
-2020,JOR,Jordan,Bilateral,constant,USD million,264.27529560826565
-2020,KAZ,Kazakhstan,Bilateral,constant,USD million,280.92469293475784
-2020,KEN,Kenya,Bilateral,constant,USD million,220.53833515430895
-2020,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,15.964575366952007
-2020,KHM,Cambodia,Bilateral,constant,USD million,283.10239943659053
-2020,LAO,Lao PDR,Bilateral,constant,USD million,274.9368922302209
-2020,LBN,Lebanon,Bilateral,constant,USD million,42.559360417432536
-2020,LBR,Liberia,Bilateral,constant,USD million,1.8977726452437254
-2020,LCA,St. Lucia,Bilateral,constant,USD million,28.745573555750436
-2020,LKA,Sri Lanka,Bilateral,constant,USD million,916.1375030842537
-2020,LSO,Lesotho,Bilateral,constant,USD million,37.695354711507015
-2020,MAR,Morocco,Bilateral,constant,USD million,648.3788958936925
-2020,MDG,Madagascar,Bilateral,constant,USD million,0.32129552084988594
-2020,MDV,Maldives,Bilateral,constant,USD million,471.79943164717116
-2020,MEX,Mexico,Bilateral,constant,USD million,349.9111476313575
-2020,MKD,North Macedonia,Bilateral,constant,USD million,25.419612540036546
-2020,MLI,Mali,Bilateral,constant,USD million,122.59934788599749
-2020,MMR,Myanmar,Bilateral,constant,USD million,53.259227463743215
-2020,MNE,Montenegro,Bilateral,constant,USD million,42.829014416091326
-2020,MNG,Mongolia,Bilateral,constant,USD million,120.56221134065812
-2020,MOZ,Mozambique,Bilateral,constant,USD million,51.327384078952036
-2020,MRT,Mauritania,Bilateral,constant,USD million,46.88468782016245
-2020,MUS,Mauritius,Bilateral,constant,USD million,192.83375490568082
-2020,NER,Niger,Bilateral,constant,USD million,18.901749538066124
-2020,NGA,Nigeria,Bilateral,constant,USD million,554.7228072579197
-2020,NIC,Nicaragua,Bilateral,constant,USD million,21.169301630780637
-2020,NPL,Nepal,Bilateral,constant,USD million,43.69945341409564
-2020,PAK,Pakistan,Bilateral,constant,USD million,4379.792812518009
-2020,PER,Peru,Bilateral,constant,USD million,24.69732727690333
-2020,PHL,Philippines,Bilateral,constant,USD million,37.6825821616172
-2020,PNG,Papua New Guinea,Bilateral,constant,USD million,492.8550459025006
-2020,PRY,Paraguay,Bilateral,constant,USD million,36.25322673928243
-2020,RUS,Russian Federation,Bilateral,constant,USD million,180.62633613339068
-2020,RWA,Rwanda,Bilateral,constant,USD million,66.77821439441188
-2020,SEN,Senegal,Bilateral,constant,USD million,141.69608055419107
-2020,SLE,Sierra Leone,Bilateral,constant,USD million,1.2763390674325297
-2020,SLV,El Salvador,Bilateral,constant,USD million,9.528951436756715
-2020,SRB,Serbia,Bilateral,constant,USD million,365.77476965145377
-2020,SUR,Suriname,Bilateral,constant,USD million,31.168352497798793
-2020,SWZ,Eswatini,Bilateral,constant,USD million,32.91976386533614
-2020,TCD,Chad,Bilateral,constant,USD million,77.36782796252376
-2020,TGO,Togo,Bilateral,constant,USD million,20.52308360220472
-2020,TJK,Tajikistan,Bilateral,constant,USD million,39.4641657210529
-2020,TKM,Turkmenistan,Bilateral,constant,USD million,254.57834395512066
-2020,TUN,Tunisia,Bilateral,constant,USD million,928.4490013583239
-2020,TUR,Turkiye,Bilateral,constant,USD million,2229.290602284907
-2020,TZA,Tanzania,Bilateral,constant,USD million,45.25965503913832
-2020,UGA,Uganda,Bilateral,constant,USD million,670.6486398768262
-2020,UKR,Ukraine,Bilateral,constant,USD million,19.549494336026157
-2020,UZB,Uzbekistan,Bilateral,constant,USD million,852.8319966430873
-2020,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,4.015340054613006
-2020,VNM,Viet Nam,Bilateral,constant,USD million,79.18722293240678
-2020,VUT,Vanuatu,Bilateral,constant,USD million,2.643960417982231
-2020,XKX,Kosovo,Bilateral,constant,USD million,0.9061171050398039
-2020,ZAF,South Africa,Bilateral,constant,USD million,618.9847519528615
-2020,ZMB,Zambia,Bilateral,constant,USD million,723.1150224289771
-2020,ZWE,Zimbabwe,Bilateral,constant,USD million,19.264827524264124
-2021,AGO,Angola,Bilateral,constant,USD million,129.91075717942778
-2021,ALB,Albania,Bilateral,constant,USD million,129.96530634280035
-2021,ARG,Argentina,Bilateral,constant,USD million,180.86680900483242
-2021,ARM,Armenia,Bilateral,constant,USD million,181.84680036793117
-2021,AZE,Azerbaijan,Bilateral,constant,USD million,32.60227992749822
-2021,BEN,Benin,Bilateral,constant,USD million,110.45338887547676
-2021,BFA,Burkina Faso,Bilateral,constant,USD million,10.186691999898791
-2021,BGD,Bangladesh,Bilateral,constant,USD million,1643.5662140633697
-2021,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,31.43249182799891
-2021,BLR,Belarus,Bilateral,constant,USD million,951.8473409288927
-2021,BLZ,Belize,Bilateral,constant,USD million,2.4679637119226956
-2021,BOL,Bolivia,Bilateral,constant,USD million,463.46222514973044
-2021,BRA,Brazil,Bilateral,constant,USD million,610.765155944321
-2021,BTN,Bhutan,Bilateral,constant,USD million,47.47106725181709
-2021,CHN,China,Bilateral,constant,USD million,623.2878808792291
-2021,CIV,Cote d'Ivoire,Bilateral,constant,USD million,1410.3345484499616
-2021,CMR,Cameroon,Bilateral,constant,USD million,121.27267673033228
-2021,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,9.523754924663276
-2021,COG,"Congo, Rep.",Bilateral,constant,USD million,32.729894068420364
-2021,COL,Colombia,Bilateral,constant,USD million,590.219127048804
-2021,CRI,Costa Rica,Bilateral,constant,USD million,15.36217888296661
-2021,DOM,Dominican Republic,Bilateral,constant,USD million,290.71951389790104
-2021,ECU,Ecuador,Bilateral,constant,USD million,331.36117739328046
-2021,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5958.982496122548
+2020,ETH,Ethiopia,Bilateral,constant,USD million,291.3289
+2020,GAB,Gabon,Bilateral,constant,USD million,59.9871
+2020,GEO,Georgia,Bilateral,constant,USD million,356.3481
+2020,GHA,Ghana,Bilateral,constant,USD million,292.221
+2020,GIN,Guinea,Bilateral,constant,USD million,37.5927
+2020,GMB,"Gambia, The",Bilateral,constant,USD million,8.7364
+2020,GRD,Grenada,Bilateral,constant,USD million,4.8203
+2020,GUY,Guyana,Bilateral,constant,USD million,19.1731
+2020,IDN,Indonesia,Bilateral,constant,USD million,3322.3481
+2020,IND,India,Bilateral,constant,USD million,1832.2934
+2020,IRQ,Iraq,Bilateral,constant,USD million,436.1621
+2020,JAM,Jamaica,Bilateral,constant,USD million,49.216
+2020,JOR,Jordan,Bilateral,constant,USD million,264.2753
+2020,KAZ,Kazakhstan,Bilateral,constant,USD million,280.9247
+2020,KEN,Kenya,Bilateral,constant,USD million,220.5383
+2020,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,15.9646
+2020,KHM,Cambodia,Bilateral,constant,USD million,283.1024
+2020,LAO,Lao PDR,Bilateral,constant,USD million,274.9369
+2020,LBN,Lebanon,Bilateral,constant,USD million,42.5594
+2020,LBR,Liberia,Bilateral,constant,USD million,1.8978
+2020,LCA,St. Lucia,Bilateral,constant,USD million,28.7456
+2020,LKA,Sri Lanka,Bilateral,constant,USD million,916.1375
+2020,LSO,Lesotho,Bilateral,constant,USD million,37.6954
+2020,MAR,Morocco,Bilateral,constant,USD million,648.3789
+2020,MDG,Madagascar,Bilateral,constant,USD million,0.3213
+2020,MDV,Maldives,Bilateral,constant,USD million,471.7994
+2020,MEX,Mexico,Bilateral,constant,USD million,349.9111
+2020,MKD,North Macedonia,Bilateral,constant,USD million,25.4196
+2020,MLI,Mali,Bilateral,constant,USD million,122.5993
+2020,MMR,Myanmar,Bilateral,constant,USD million,53.2592
+2020,MNE,Montenegro,Bilateral,constant,USD million,42.829
+2020,MNG,Mongolia,Bilateral,constant,USD million,120.5622
+2020,MOZ,Mozambique,Bilateral,constant,USD million,51.3274
+2020,MRT,Mauritania,Bilateral,constant,USD million,46.8847
+2020,MUS,Mauritius,Bilateral,constant,USD million,192.8338
+2020,NER,Niger,Bilateral,constant,USD million,18.9017
+2020,NGA,Nigeria,Bilateral,constant,USD million,554.7228
+2020,NIC,Nicaragua,Bilateral,constant,USD million,21.1693
+2020,NPL,Nepal,Bilateral,constant,USD million,43.6995
+2020,PAK,Pakistan,Bilateral,constant,USD million,4379.7928
+2020,PER,Peru,Bilateral,constant,USD million,24.6973
+2020,PHL,Philippines,Bilateral,constant,USD million,37.6826
+2020,PNG,Papua New Guinea,Bilateral,constant,USD million,492.855
+2020,PRY,Paraguay,Bilateral,constant,USD million,36.2532
+2020,RUS,Russian Federation,Bilateral,constant,USD million,180.6263
+2020,RWA,Rwanda,Bilateral,constant,USD million,66.7782
+2020,SEN,Senegal,Bilateral,constant,USD million,141.6961
+2020,SLE,Sierra Leone,Bilateral,constant,USD million,1.2763
+2020,SLV,El Salvador,Bilateral,constant,USD million,9.529
+2020,SRB,Serbia,Bilateral,constant,USD million,365.7748
+2020,SUR,Suriname,Bilateral,constant,USD million,31.1684
+2020,SWZ,Eswatini,Bilateral,constant,USD million,32.9198
+2020,TCD,Chad,Bilateral,constant,USD million,77.3678
+2020,TGO,Togo,Bilateral,constant,USD million,20.5231
+2020,TJK,Tajikistan,Bilateral,constant,USD million,39.4642
+2020,TKM,Turkmenistan,Bilateral,constant,USD million,254.5783
+2020,TUN,Tunisia,Bilateral,constant,USD million,928.449
+2020,TUR,Turkiye,Bilateral,constant,USD million,2229.2906
+2020,TZA,Tanzania,Bilateral,constant,USD million,45.2597
+2020,UGA,Uganda,Bilateral,constant,USD million,670.6486
+2020,UKR,Ukraine,Bilateral,constant,USD million,19.5495
+2020,UZB,Uzbekistan,Bilateral,constant,USD million,852.832
+2020,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,4.0153
+2020,VNM,Viet Nam,Bilateral,constant,USD million,79.1872
+2020,VUT,Vanuatu,Bilateral,constant,USD million,2.644
+2020,XKX,Kosovo,Bilateral,constant,USD million,0.9061
+2020,ZAF,South Africa,Bilateral,constant,USD million,618.9848
+2020,ZMB,Zambia,Bilateral,constant,USD million,723.115
+2020,ZWE,Zimbabwe,Bilateral,constant,USD million,19.2648
+2021,AGO,Angola,Bilateral,constant,USD million,129.9108
+2021,ALB,Albania,Bilateral,constant,USD million,129.9653
+2021,ARG,Argentina,Bilateral,constant,USD million,180.8668
+2021,ARM,Armenia,Bilateral,constant,USD million,181.8468
+2021,AZE,Azerbaijan,Bilateral,constant,USD million,32.6023
+2021,BEN,Benin,Bilateral,constant,USD million,110.4534
+2021,BFA,Burkina Faso,Bilateral,constant,USD million,10.1867
+2021,BGD,Bangladesh,Bilateral,constant,USD million,1643.5662
+2021,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,31.4325
+2021,BLR,Belarus,Bilateral,constant,USD million,951.8473
+2021,BLZ,Belize,Bilateral,constant,USD million,2.468
+2021,BOL,Bolivia,Bilateral,constant,USD million,463.4622
+2021,BRA,Brazil,Bilateral,constant,USD million,610.7652
+2021,BTN,Bhutan,Bilateral,constant,USD million,47.4711
+2021,CHN,China,Bilateral,constant,USD million,623.2879
+2021,CIV,Cote d'Ivoire,Bilateral,constant,USD million,1410.3345
+2021,CMR,Cameroon,Bilateral,constant,USD million,121.2727
+2021,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,9.5238
+2021,COG,"Congo, Rep.",Bilateral,constant,USD million,32.7299
+2021,COL,Colombia,Bilateral,constant,USD million,590.2191
+2021,CRI,Costa Rica,Bilateral,constant,USD million,15.3622
+2021,DOM,Dominican Republic,Bilateral,constant,USD million,290.7195
+2021,ECU,Ecuador,Bilateral,constant,USD million,331.3612
+2021,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5958.9825
 2021,ERI,Eritrea,Bilateral,constant,USD million,0.0
-2021,ETH,Ethiopia,Bilateral,constant,USD million,33.02092854758978
-2021,FJI,Fiji,Bilateral,constant,USD million,87.15664710891862
-2021,GAB,Gabon,Bilateral,constant,USD million,23.231743277543135
-2021,GEO,Georgia,Bilateral,constant,USD million,19.865846252756995
-2021,GHA,Ghana,Bilateral,constant,USD million,387.24529314309723
-2021,GIN,Guinea,Bilateral,constant,USD million,2.296405460346117
-2021,GMB,"Gambia, The",Bilateral,constant,USD million,3.364386377725157
-2021,GRD,Grenada,Bilateral,constant,USD million,20.835858062001407
-2021,GUY,Guyana,Bilateral,constant,USD million,6.556888744413866
-2021,IDN,Indonesia,Bilateral,constant,USD million,988.045143208961
-2021,IND,India,Bilateral,constant,USD million,1391.466856837455
-2021,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,10.179682476940862
-2021,IRQ,Iraq,Bilateral,constant,USD million,354.4850618603407
-2021,JAM,Jamaica,Bilateral,constant,USD million,86.79154806617665
-2021,JOR,Jordan,Bilateral,constant,USD million,229.81028584330224
-2021,KAZ,Kazakhstan,Bilateral,constant,USD million,307.63122757075587
-2021,KEN,Kenya,Bilateral,constant,USD million,283.0381736225302
-2021,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,26.262170493868513
-2021,KHM,Cambodia,Bilateral,constant,USD million,230.9972293460557
-2021,LAO,Lao PDR,Bilateral,constant,USD million,172.52561027049066
-2021,LBN,Lebanon,Bilateral,constant,USD million,34.822034963543
-2021,LBR,Liberia,Bilateral,constant,USD million,0.05922251415011049
-2021,LCA,St. Lucia,Bilateral,constant,USD million,61.12062963676484
-2021,LKA,Sri Lanka,Bilateral,constant,USD million,2057.426764913196
-2021,LSO,Lesotho,Bilateral,constant,USD million,38.60218897098087
-2021,MAR,Morocco,Bilateral,constant,USD million,561.0826592124134
-2021,MDG,Madagascar,Bilateral,constant,USD million,25.780973321018987
-2021,MDV,Maldives,Bilateral,constant,USD million,169.4129601545708
-2021,MEX,Mexico,Bilateral,constant,USD million,394.8489409236991
-2021,MKD,North Macedonia,Bilateral,constant,USD million,22.648435652844967
-2021,MLI,Mali,Bilateral,constant,USD million,107.03212033300166
-2021,MMR,Myanmar,Bilateral,constant,USD million,21.202184388209243
-2021,MNE,Montenegro,Bilateral,constant,USD million,53.73626046294601
-2021,MNG,Mongolia,Bilateral,constant,USD million,59.62975982351844
-2021,MOZ,Mozambique,Bilateral,constant,USD million,166.38467739165054
-2021,MRT,Mauritania,Bilateral,constant,USD million,18.8536109245745
-2021,MUS,Mauritius,Bilateral,constant,USD million,93.5708429911365
-2021,MWI,Malawi,Bilateral,constant,USD million,6.712697099299552
-2021,NER,Niger,Bilateral,constant,USD million,18.6383685976817
-2021,NGA,Nigeria,Bilateral,constant,USD million,478.00290095470666
-2021,NIC,Nicaragua,Bilateral,constant,USD million,23.375632811046113
-2021,NPL,Nepal,Bilateral,constant,USD million,66.38409443256464
-2021,PAK,Pakistan,Bilateral,constant,USD million,4942.909783376513
-2021,PER,Peru,Bilateral,constant,USD million,1.5740945813620892
-2021,PHL,Philippines,Bilateral,constant,USD million,303.4390433531019
-2021,PNG,Papua New Guinea,Bilateral,constant,USD million,840.4271694165548
-2021,PRY,Paraguay,Bilateral,constant,USD million,31.469292110353315
-2021,RUS,Russian Federation,Bilateral,constant,USD million,342.07875610330126
-2021,RWA,Rwanda,Bilateral,constant,USD million,104.79315992217997
-2021,SEN,Senegal,Bilateral,constant,USD million,86.7412528308611
-2021,SLE,Sierra Leone,Bilateral,constant,USD million,5.781078659675321
-2021,SLV,El Salvador,Bilateral,constant,USD million,8.729867184142865
-2021,SRB,Serbia,Bilateral,constant,USD million,661.9455812623648
-2021,SUR,Suriname,Bilateral,constant,USD million,0.6175508280658019
-2021,TCD,Chad,Bilateral,constant,USD million,27.96664048833302
-2021,TGO,Togo,Bilateral,constant,USD million,30.959284046485898
-2021,TJK,Tajikistan,Bilateral,constant,USD million,0.22466996019801377
-2021,TKM,Turkmenistan,Bilateral,constant,USD million,160.3187547620506
-2021,TUN,Tunisia,Bilateral,constant,USD million,440.54076881366103
-2021,TUR,Turkiye,Bilateral,constant,USD million,2970.275842967694
-2021,TZA,Tanzania,Bilateral,constant,USD million,27.302739354652243
-2021,UGA,Uganda,Bilateral,constant,USD million,278.2995984794706
-2021,UKR,Ukraine,Bilateral,constant,USD million,32.372964973116545
-2021,UZB,Uzbekistan,Bilateral,constant,USD million,1070.7901847681258
-2021,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,3.6299510434751303
-2021,VNM,Viet Nam,Bilateral,constant,USD million,263.65167500236214
-2021,VUT,Vanuatu,Bilateral,constant,USD million,12.513191087265003
-2021,XKX,Kosovo,Bilateral,constant,USD million,1.2170305005701512
-2021,ZAF,South Africa,Bilateral,constant,USD million,324.7008460120406
-2021,ZMB,Zambia,Bilateral,constant,USD million,165.3150921912967
-2021,ZWE,Zimbabwe,Bilateral,constant,USD million,115.95250578759571
-2022,AGO,Angola,Bilateral,constant,USD million,194.39056282374884
-2022,ALB,Albania,Bilateral,constant,USD million,86.20321250702078
-2022,ARG,Argentina,Bilateral,constant,USD million,507.10974424341964
-2022,ARM,Armenia,Bilateral,constant,USD million,167.52906694875776
-2022,AZE,Azerbaijan,Bilateral,constant,USD million,13.271737239503686
-2022,BEN,Benin,Bilateral,constant,USD million,69.84732383248254
-2022,BFA,Burkina Faso,Bilateral,constant,USD million,46.45817234332908
-2022,BGD,Bangladesh,Bilateral,constant,USD million,2119.7964088180056
-2022,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,7.649585595109818
-2022,BLR,Belarus,Bilateral,constant,USD million,1342.3397134802035
-2022,BLZ,Belize,Bilateral,constant,USD million,4.996833993170021
-2022,BOL,Bolivia,Bilateral,constant,USD million,233.65143523357105
-2022,BRA,Brazil,Bilateral,constant,USD million,270.562234450132
-2022,BTN,Bhutan,Bilateral,constant,USD million,50.43498895825999
-2022,CHN,China,Bilateral,constant,USD million,49.62597728023508
-2022,CIV,Cote d'Ivoire,Bilateral,constant,USD million,679.3242046514802
-2022,CMR,Cameroon,Bilateral,constant,USD million,437.06881351873295
-2022,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,46.27536359014102
-2022,COG,"Congo, Rep.",Bilateral,constant,USD million,63.786582025294315
-2022,COL,Colombia,Bilateral,constant,USD million,527.3374996894888
-2022,CPV,Cabo Verde,Bilateral,constant,USD million,1.6879107772644073
-2022,CRI,Costa Rica,Bilateral,constant,USD million,5.02276245626505
-2022,DOM,Dominican Republic,Bilateral,constant,USD million,4.400870856763695
-2022,ECU,Ecuador,Bilateral,constant,USD million,28.9729937954745
-2022,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,2084.948521208685
+2021,ETH,Ethiopia,Bilateral,constant,USD million,33.0209
+2021,FJI,Fiji,Bilateral,constant,USD million,87.1566
+2021,GAB,Gabon,Bilateral,constant,USD million,23.2317
+2021,GEO,Georgia,Bilateral,constant,USD million,19.8658
+2021,GHA,Ghana,Bilateral,constant,USD million,387.2453
+2021,GIN,Guinea,Bilateral,constant,USD million,2.2964
+2021,GMB,"Gambia, The",Bilateral,constant,USD million,3.3644
+2021,GRD,Grenada,Bilateral,constant,USD million,20.8359
+2021,GUY,Guyana,Bilateral,constant,USD million,6.5569
+2021,IDN,Indonesia,Bilateral,constant,USD million,988.0451
+2021,IND,India,Bilateral,constant,USD million,1391.4669
+2021,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,10.1797
+2021,IRQ,Iraq,Bilateral,constant,USD million,354.4851
+2021,JAM,Jamaica,Bilateral,constant,USD million,86.7915
+2021,JOR,Jordan,Bilateral,constant,USD million,229.8103
+2021,KAZ,Kazakhstan,Bilateral,constant,USD million,307.6312
+2021,KEN,Kenya,Bilateral,constant,USD million,283.0382
+2021,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,26.2622
+2021,KHM,Cambodia,Bilateral,constant,USD million,230.9972
+2021,LAO,Lao PDR,Bilateral,constant,USD million,172.5256
+2021,LBN,Lebanon,Bilateral,constant,USD million,34.822
+2021,LBR,Liberia,Bilateral,constant,USD million,0.0592
+2021,LCA,St. Lucia,Bilateral,constant,USD million,61.1206
+2021,LKA,Sri Lanka,Bilateral,constant,USD million,2057.4268
+2021,LSO,Lesotho,Bilateral,constant,USD million,38.6022
+2021,MAR,Morocco,Bilateral,constant,USD million,561.0827
+2021,MDG,Madagascar,Bilateral,constant,USD million,25.781
+2021,MDV,Maldives,Bilateral,constant,USD million,169.413
+2021,MEX,Mexico,Bilateral,constant,USD million,394.8489
+2021,MKD,North Macedonia,Bilateral,constant,USD million,22.6484
+2021,MLI,Mali,Bilateral,constant,USD million,107.0321
+2021,MMR,Myanmar,Bilateral,constant,USD million,21.2022
+2021,MNE,Montenegro,Bilateral,constant,USD million,53.7363
+2021,MNG,Mongolia,Bilateral,constant,USD million,59.6298
+2021,MOZ,Mozambique,Bilateral,constant,USD million,166.3847
+2021,MRT,Mauritania,Bilateral,constant,USD million,18.8536
+2021,MUS,Mauritius,Bilateral,constant,USD million,93.5708
+2021,MWI,Malawi,Bilateral,constant,USD million,6.7127
+2021,NER,Niger,Bilateral,constant,USD million,18.6384
+2021,NGA,Nigeria,Bilateral,constant,USD million,478.0029
+2021,NIC,Nicaragua,Bilateral,constant,USD million,23.3756
+2021,NPL,Nepal,Bilateral,constant,USD million,66.3841
+2021,PAK,Pakistan,Bilateral,constant,USD million,4942.9098
+2021,PER,Peru,Bilateral,constant,USD million,1.5741
+2021,PHL,Philippines,Bilateral,constant,USD million,303.439
+2021,PNG,Papua New Guinea,Bilateral,constant,USD million,840.4272
+2021,PRY,Paraguay,Bilateral,constant,USD million,31.4693
+2021,RUS,Russian Federation,Bilateral,constant,USD million,342.0788
+2021,RWA,Rwanda,Bilateral,constant,USD million,104.7932
+2021,SEN,Senegal,Bilateral,constant,USD million,86.7413
+2021,SLE,Sierra Leone,Bilateral,constant,USD million,5.7811
+2021,SLV,El Salvador,Bilateral,constant,USD million,8.7299
+2021,SRB,Serbia,Bilateral,constant,USD million,661.9456
+2021,SUR,Suriname,Bilateral,constant,USD million,0.6176
+2021,TCD,Chad,Bilateral,constant,USD million,27.9666
+2021,TGO,Togo,Bilateral,constant,USD million,30.9593
+2021,TJK,Tajikistan,Bilateral,constant,USD million,0.2247
+2021,TKM,Turkmenistan,Bilateral,constant,USD million,160.3188
+2021,TUN,Tunisia,Bilateral,constant,USD million,440.5408
+2021,TUR,Turkiye,Bilateral,constant,USD million,2970.2758
+2021,TZA,Tanzania,Bilateral,constant,USD million,27.3027
+2021,UGA,Uganda,Bilateral,constant,USD million,278.2996
+2021,UKR,Ukraine,Bilateral,constant,USD million,32.373
+2021,UZB,Uzbekistan,Bilateral,constant,USD million,1070.7902
+2021,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,3.63
+2021,VNM,Viet Nam,Bilateral,constant,USD million,263.6517
+2021,VUT,Vanuatu,Bilateral,constant,USD million,12.5132
+2021,XKX,Kosovo,Bilateral,constant,USD million,1.217
+2021,ZAF,South Africa,Bilateral,constant,USD million,324.7008
+2021,ZMB,Zambia,Bilateral,constant,USD million,165.3151
+2021,ZWE,Zimbabwe,Bilateral,constant,USD million,115.9525
+2022,AGO,Angola,Bilateral,constant,USD million,194.3906
+2022,ALB,Albania,Bilateral,constant,USD million,86.2032
+2022,ARG,Argentina,Bilateral,constant,USD million,507.1097
+2022,ARM,Armenia,Bilateral,constant,USD million,167.5291
+2022,AZE,Azerbaijan,Bilateral,constant,USD million,13.2717
+2022,BEN,Benin,Bilateral,constant,USD million,69.8473
+2022,BFA,Burkina Faso,Bilateral,constant,USD million,46.4582
+2022,BGD,Bangladesh,Bilateral,constant,USD million,2119.7964
+2022,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,7.6496
+2022,BLR,Belarus,Bilateral,constant,USD million,1342.3397
+2022,BLZ,Belize,Bilateral,constant,USD million,4.9968
+2022,BOL,Bolivia,Bilateral,constant,USD million,233.6514
+2022,BRA,Brazil,Bilateral,constant,USD million,270.5622
+2022,BTN,Bhutan,Bilateral,constant,USD million,50.435
+2022,CHN,China,Bilateral,constant,USD million,49.626
+2022,CIV,Cote d'Ivoire,Bilateral,constant,USD million,679.3242
+2022,CMR,Cameroon,Bilateral,constant,USD million,437.0688
+2022,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,46.2754
+2022,COG,"Congo, Rep.",Bilateral,constant,USD million,63.7866
+2022,COL,Colombia,Bilateral,constant,USD million,527.3375
+2022,CPV,Cabo Verde,Bilateral,constant,USD million,1.6879
+2022,CRI,Costa Rica,Bilateral,constant,USD million,5.0228
+2022,DOM,Dominican Republic,Bilateral,constant,USD million,4.4009
+2022,ECU,Ecuador,Bilateral,constant,USD million,28.973
+2022,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,2084.9485
 2022,ERI,Eritrea,Bilateral,constant,USD million,0.0
-2022,ETH,Ethiopia,Bilateral,constant,USD million,45.777162832093325
-2022,FJI,Fiji,Bilateral,constant,USD million,75.87643036446521
-2022,GAB,Gabon,Bilateral,constant,USD million,61.050048230560776
-2022,GEO,Georgia,Bilateral,constant,USD million,30.28911034507893
-2022,GHA,Ghana,Bilateral,constant,USD million,306.1302880511956
-2022,GIN,Guinea,Bilateral,constant,USD million,8.435782600824218
-2022,GMB,"Gambia, The",Bilateral,constant,USD million,2.760706454706688
-2022,GRD,Grenada,Bilateral,constant,USD million,3.470803196869362
-2022,GTM,Guatemala,Bilateral,constant,USD million,0.1760913369636839
-2022,GUY,Guyana,Bilateral,constant,USD million,346.43298582743324
-2022,HND,Honduras,Bilateral,constant,USD million,68.92422211013437
-2022,IDN,Indonesia,Bilateral,constant,USD million,1019.1269633390255
-2022,IND,India,Bilateral,constant,USD million,797.3729290884103
-2022,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,0.013464142811898564
-2022,IRQ,Iraq,Bilateral,constant,USD million,414.1472791701649
-2022,JAM,Jamaica,Bilateral,constant,USD million,85.71580020344224
-2022,JOR,Jordan,Bilateral,constant,USD million,405.92074152708824
-2022,KAZ,Kazakhstan,Bilateral,constant,USD million,50.774451762859364
-2022,KEN,Kenya,Bilateral,constant,USD million,216.8579405586079
-2022,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,50.97078818499403
-2022,KHM,Cambodia,Bilateral,constant,USD million,276.2956957859144
-2022,LAO,Lao PDR,Bilateral,constant,USD million,147.53168768046447
-2022,LBN,Lebanon,Bilateral,constant,USD million,9.121645440115076
-2022,LBR,Liberia,Bilateral,constant,USD million,0.4669106003111613
-2022,LCA,St. Lucia,Bilateral,constant,USD million,2.9981079176278205
-2022,LKA,Sri Lanka,Bilateral,constant,USD million,1237.8870011344795
-2022,LSO,Lesotho,Bilateral,constant,USD million,30.565126617932336
-2022,MAR,Morocco,Bilateral,constant,USD million,811.3238345695507
-2022,MDA,Moldova,Bilateral,constant,USD million,9.770362380979929
-2022,MDG,Madagascar,Bilateral,constant,USD million,20.33577292129601
-2022,MDV,Maldives,Bilateral,constant,USD million,167.0900702477865
-2022,MEX,Mexico,Bilateral,constant,USD million,257.5749172778314
-2022,MKD,North Macedonia,Bilateral,constant,USD million,52.36323074435784
-2022,MLI,Mali,Bilateral,constant,USD million,128.8847194286358
-2022,MMR,Myanmar,Bilateral,constant,USD million,11.272075279138585
-2022,MNE,Montenegro,Bilateral,constant,USD million,60.04364898886452
-2022,MNG,Mongolia,Bilateral,constant,USD million,59.12949004430061
-2022,MOZ,Mozambique,Bilateral,constant,USD million,58.5309542588502
-2022,MRT,Mauritania,Bilateral,constant,USD million,35.20127389948945
-2022,MUS,Mauritius,Bilateral,constant,USD million,150.28714739296854
-2022,NER,Niger,Bilateral,constant,USD million,39.585550725235656
-2022,NGA,Nigeria,Bilateral,constant,USD million,953.1732277595198
-2022,NIC,Nicaragua,Bilateral,constant,USD million,14.510609046158361
-2022,NPL,Nepal,Bilateral,constant,USD million,20.35654041113758
-2022,PAK,Pakistan,Bilateral,constant,USD million,4792.549662331352
-2022,PER,Peru,Bilateral,constant,USD million,39.99763210488681
-2022,PHL,Philippines,Bilateral,constant,USD million,17.838929372199573
-2022,PNG,Papua New Guinea,Bilateral,constant,USD million,602.5525842274025
-2022,PRY,Paraguay,Bilateral,constant,USD million,19.5653192481739
-2022,RUS,Russian Federation,Bilateral,constant,USD million,152.63725587858755
-2022,RWA,Rwanda,Bilateral,constant,USD million,52.869650480945594
-2022,SEN,Senegal,Bilateral,constant,USD million,53.93096530628523
-2022,SLE,Sierra Leone,Bilateral,constant,USD million,1.850146888334957
-2022,SRB,Serbia,Bilateral,constant,USD million,719.668181420682
-2022,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.6153045196836254
-2022,SUR,Suriname,Bilateral,constant,USD million,0.04353862246708107
-2022,TGO,Togo,Bilateral,constant,USD million,37.18954739750061
-2022,TKM,Turkmenistan,Bilateral,constant,USD million,58.27419527969909
-2022,TUN,Tunisia,Bilateral,constant,USD million,663.3782214025932
-2022,TUR,Turkiye,Bilateral,constant,USD million,2898.125118784783
-2022,TZA,Tanzania,Bilateral,constant,USD million,62.12537835010764
-2022,UGA,Uganda,Bilateral,constant,USD million,249.2195395633294
-2022,UKR,Ukraine,Bilateral,constant,USD million,1324.1042273212304
-2022,UZB,Uzbekistan,Bilateral,constant,USD million,270.9931641662729
-2022,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,17.731801560961827
-2022,VNM,Viet Nam,Bilateral,constant,USD million,98.95434095673284
-2022,VUT,Vanuatu,Bilateral,constant,USD million,27.804436617537966
-2022,XKX,Kosovo,Bilateral,constant,USD million,0.5125153660885848
-2022,ZAF,South Africa,Bilateral,constant,USD million,415.90098093070674
-2022,ZMB,Zambia,Bilateral,constant,USD million,77.38432253963754
-2022,ZWE,Zimbabwe,Bilateral,constant,USD million,182.73260835709092
+2022,ETH,Ethiopia,Bilateral,constant,USD million,45.7772
+2022,FJI,Fiji,Bilateral,constant,USD million,75.8764
+2022,GAB,Gabon,Bilateral,constant,USD million,61.05
+2022,GEO,Georgia,Bilateral,constant,USD million,30.2891
+2022,GHA,Ghana,Bilateral,constant,USD million,306.1303
+2022,GIN,Guinea,Bilateral,constant,USD million,8.4358
+2022,GMB,"Gambia, The",Bilateral,constant,USD million,2.7607
+2022,GRD,Grenada,Bilateral,constant,USD million,3.4708
+2022,GTM,Guatemala,Bilateral,constant,USD million,0.1761
+2022,GUY,Guyana,Bilateral,constant,USD million,346.433
+2022,HND,Honduras,Bilateral,constant,USD million,68.9242
+2022,IDN,Indonesia,Bilateral,constant,USD million,1019.127
+2022,IND,India,Bilateral,constant,USD million,797.3729
+2022,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,0.0135
+2022,IRQ,Iraq,Bilateral,constant,USD million,414.1473
+2022,JAM,Jamaica,Bilateral,constant,USD million,85.7158
+2022,JOR,Jordan,Bilateral,constant,USD million,405.9207
+2022,KAZ,Kazakhstan,Bilateral,constant,USD million,50.7745
+2022,KEN,Kenya,Bilateral,constant,USD million,216.8579
+2022,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,50.9708
+2022,KHM,Cambodia,Bilateral,constant,USD million,276.2957
+2022,LAO,Lao PDR,Bilateral,constant,USD million,147.5317
+2022,LBN,Lebanon,Bilateral,constant,USD million,9.1216
+2022,LBR,Liberia,Bilateral,constant,USD million,0.4669
+2022,LCA,St. Lucia,Bilateral,constant,USD million,2.9981
+2022,LKA,Sri Lanka,Bilateral,constant,USD million,1237.887
+2022,LSO,Lesotho,Bilateral,constant,USD million,30.5651
+2022,MAR,Morocco,Bilateral,constant,USD million,811.3238
+2022,MDA,Moldova,Bilateral,constant,USD million,9.7704
+2022,MDG,Madagascar,Bilateral,constant,USD million,20.3358
+2022,MDV,Maldives,Bilateral,constant,USD million,167.0901
+2022,MEX,Mexico,Bilateral,constant,USD million,257.5749
+2022,MKD,North Macedonia,Bilateral,constant,USD million,52.3632
+2022,MLI,Mali,Bilateral,constant,USD million,128.8847
+2022,MMR,Myanmar,Bilateral,constant,USD million,11.2721
+2022,MNE,Montenegro,Bilateral,constant,USD million,60.0436
+2022,MNG,Mongolia,Bilateral,constant,USD million,59.1295
+2022,MOZ,Mozambique,Bilateral,constant,USD million,58.531
+2022,MRT,Mauritania,Bilateral,constant,USD million,35.2013
+2022,MUS,Mauritius,Bilateral,constant,USD million,150.2871
+2022,NER,Niger,Bilateral,constant,USD million,39.5856
+2022,NGA,Nigeria,Bilateral,constant,USD million,953.1732
+2022,NIC,Nicaragua,Bilateral,constant,USD million,14.5106
+2022,NPL,Nepal,Bilateral,constant,USD million,20.3565
+2022,PAK,Pakistan,Bilateral,constant,USD million,4792.5497
+2022,PER,Peru,Bilateral,constant,USD million,39.9976
+2022,PHL,Philippines,Bilateral,constant,USD million,17.8389
+2022,PNG,Papua New Guinea,Bilateral,constant,USD million,602.5526
+2022,PRY,Paraguay,Bilateral,constant,USD million,19.5653
+2022,RUS,Russian Federation,Bilateral,constant,USD million,152.6373
+2022,RWA,Rwanda,Bilateral,constant,USD million,52.8697
+2022,SEN,Senegal,Bilateral,constant,USD million,53.931
+2022,SLE,Sierra Leone,Bilateral,constant,USD million,1.8501
+2022,SRB,Serbia,Bilateral,constant,USD million,719.6682
+2022,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.6153
+2022,SUR,Suriname,Bilateral,constant,USD million,0.0435
+2022,TGO,Togo,Bilateral,constant,USD million,37.1895
+2022,TKM,Turkmenistan,Bilateral,constant,USD million,58.2742
+2022,TUN,Tunisia,Bilateral,constant,USD million,663.3782
+2022,TUR,Turkiye,Bilateral,constant,USD million,2898.1251
+2022,TZA,Tanzania,Bilateral,constant,USD million,62.1254
+2022,UGA,Uganda,Bilateral,constant,USD million,249.2195
+2022,UKR,Ukraine,Bilateral,constant,USD million,1324.1042
+2022,UZB,Uzbekistan,Bilateral,constant,USD million,270.9932
+2022,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,17.7318
+2022,VNM,Viet Nam,Bilateral,constant,USD million,98.9543
+2022,VUT,Vanuatu,Bilateral,constant,USD million,27.8044
+2022,XKX,Kosovo,Bilateral,constant,USD million,0.5125
+2022,ZAF,South Africa,Bilateral,constant,USD million,415.901
+2022,ZMB,Zambia,Bilateral,constant,USD million,77.3843
+2022,ZWE,Zimbabwe,Bilateral,constant,USD million,182.7326
 2023,AFG,Afghanistan,Bilateral,constant,USD million,0.0
-2023,AGO,Angola,Bilateral,constant,USD million,3600.849122850738
-2023,ALB,Albania,Bilateral,constant,USD million,149.40528857614936
-2023,ARG,Argentina,Bilateral,constant,USD million,1925.6254901582313
-2023,ARM,Armenia,Bilateral,constant,USD million,73.25045457100514
-2023,AZE,Azerbaijan,Bilateral,constant,USD million,16.93686593006762
-2023,BDI,Burundi,Bilateral,constant,USD million,36.720680249329874
-2023,BEN,Benin,Bilateral,constant,USD million,422.20961616343925
-2023,BFA,Burkina Faso,Bilateral,constant,USD million,140.05634929095885
-2023,BGD,Bangladesh,Bilateral,constant,USD million,7913.961990585673
-2023,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,80.38659067039549
-2023,BLR,Belarus,Bilateral,constant,USD million,1308.4716699086173
-2023,BLZ,Belize,Bilateral,constant,USD million,35.92738683641972
-2023,BOL,Bolivia,Bilateral,constant,USD million,295.2142496763902
-2023,BRA,Brazil,Bilateral,constant,USD million,1258.0111394817075
-2023,BTN,Bhutan,Bilateral,constant,USD million,253.56605970144057
-2023,BWA,Botswana,Bilateral,constant,USD million,16.031721658725495
-2023,CAF,Central African Republic,Bilateral,constant,USD million,17.675118848877908
-2023,CIV,Cote d'Ivoire,Bilateral,constant,USD million,1127.5297479150847
-2023,CMR,Cameroon,Bilateral,constant,USD million,524.5913937014639
-2023,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,1363.9993515036901
-2023,COG,"Congo, Rep.",Bilateral,constant,USD million,116.79127211814063
-2023,COL,Colombia,Bilateral,constant,USD million,180.95834758011324
-2023,COM,Comoros,Bilateral,constant,USD million,3.685074284991559
-2023,CPV,Cabo Verde,Bilateral,constant,USD million,25.108183520736137
-2023,CRI,Costa Rica,Bilateral,constant,USD million,63.1498913008748
-2023,DJI,Djibouti,Bilateral,constant,USD million,70.48148572754987
-2023,DMA,Dominica,Bilateral,constant,USD million,1.6886426097361615
-2023,DOM,Dominican Republic,Bilateral,constant,USD million,86.18701598247019
-2023,DZA,Algeria,Bilateral,constant,USD million,6.8142468447243
-2023,ECU,Ecuador,Bilateral,constant,USD million,432.96887453777816
-2023,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,17411.716060143157
+2023,AGO,Angola,Bilateral,constant,USD million,3600.8491
+2023,ALB,Albania,Bilateral,constant,USD million,149.4053
+2023,ARG,Argentina,Bilateral,constant,USD million,1925.6255
+2023,ARM,Armenia,Bilateral,constant,USD million,73.2505
+2023,AZE,Azerbaijan,Bilateral,constant,USD million,16.9369
+2023,BDI,Burundi,Bilateral,constant,USD million,36.7207
+2023,BEN,Benin,Bilateral,constant,USD million,422.2096
+2023,BFA,Burkina Faso,Bilateral,constant,USD million,140.0563
+2023,BGD,Bangladesh,Bilateral,constant,USD million,7913.962
+2023,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,80.3866
+2023,BLR,Belarus,Bilateral,constant,USD million,1308.4717
+2023,BLZ,Belize,Bilateral,constant,USD million,35.9274
+2023,BOL,Bolivia,Bilateral,constant,USD million,295.2142
+2023,BRA,Brazil,Bilateral,constant,USD million,1258.0111
+2023,BTN,Bhutan,Bilateral,constant,USD million,253.5661
+2023,BWA,Botswana,Bilateral,constant,USD million,16.0317
+2023,CAF,Central African Republic,Bilateral,constant,USD million,17.6751
+2023,CIV,Cote d'Ivoire,Bilateral,constant,USD million,1127.5297
+2023,CMR,Cameroon,Bilateral,constant,USD million,524.5914
+2023,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,1363.9994
+2023,COG,"Congo, Rep.",Bilateral,constant,USD million,116.7913
+2023,COL,Colombia,Bilateral,constant,USD million,180.9583
+2023,COM,Comoros,Bilateral,constant,USD million,3.6851
+2023,CPV,Cabo Verde,Bilateral,constant,USD million,25.1082
+2023,CRI,Costa Rica,Bilateral,constant,USD million,63.1499
+2023,DJI,Djibouti,Bilateral,constant,USD million,70.4815
+2023,DMA,Dominica,Bilateral,constant,USD million,1.6886
+2023,DOM,Dominican Republic,Bilateral,constant,USD million,86.187
+2023,DZA,Algeria,Bilateral,constant,USD million,6.8142
+2023,ECU,Ecuador,Bilateral,constant,USD million,432.9689
+2023,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,17411.7161
 2023,ERI,Eritrea,Bilateral,constant,USD million,0.0
-2023,ETH,Ethiopia,Bilateral,constant,USD million,1073.3830779680463
-2023,GAB,Gabon,Bilateral,constant,USD million,206.1893008678464
-2023,GEO,Georgia,Bilateral,constant,USD million,175.18105737365912
-2023,GHA,Ghana,Bilateral,constant,USD million,748.7025775848738
-2023,GIN,Guinea,Bilateral,constant,USD million,311.4543900343081
-2023,GMB,"Gambia, The",Bilateral,constant,USD million,27.70046649839375
-2023,GNB,Guinea-Bissau,Bilateral,constant,USD million,5.802351276518906
-2023,GRD,Grenada,Bilateral,constant,USD million,24.864514503727825
-2023,GTM,Guatemala,Bilateral,constant,USD million,1.69609057651634
-2023,GUY,Guyana,Bilateral,constant,USD million,118.66784102480497
-2023,HND,Honduras,Bilateral,constant,USD million,89.36446240398267
-2023,HTI,Haiti,Bilateral,constant,USD million,6.2796893073210525
-2023,IDN,Indonesia,Bilateral,constant,USD million,1988.5979286133322
-2023,IND,India,Bilateral,constant,USD million,7360.700350901783
-2023,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,0.002299454023013602
-2023,IRQ,Iraq,Bilateral,constant,USD million,764.3427856236515
-2023,JAM,Jamaica,Bilateral,constant,USD million,46.339162934915116
-2023,JOR,Jordan,Bilateral,constant,USD million,297.9018645988163
-2023,KAZ,Kazakhstan,Bilateral,constant,USD million,504.0561735811945
-2023,KEN,Kenya,Bilateral,constant,USD million,1208.1742833805959
-2023,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,71.49796540538289
-2023,KHM,Cambodia,Bilateral,constant,USD million,682.5741029341498
-2023,LAO,Lao PDR,Bilateral,constant,USD million,1204.720846426974
+2023,ETH,Ethiopia,Bilateral,constant,USD million,1073.3831
+2023,GAB,Gabon,Bilateral,constant,USD million,206.1893
+2023,GEO,Georgia,Bilateral,constant,USD million,175.1811
+2023,GHA,Ghana,Bilateral,constant,USD million,748.7026
+2023,GIN,Guinea,Bilateral,constant,USD million,311.4544
+2023,GMB,"Gambia, The",Bilateral,constant,USD million,27.7005
+2023,GNB,Guinea-Bissau,Bilateral,constant,USD million,5.8024
+2023,GRD,Grenada,Bilateral,constant,USD million,24.8645
+2023,GTM,Guatemala,Bilateral,constant,USD million,1.6961
+2023,GUY,Guyana,Bilateral,constant,USD million,118.6678
+2023,HND,Honduras,Bilateral,constant,USD million,89.3645
+2023,HTI,Haiti,Bilateral,constant,USD million,6.2797
+2023,IDN,Indonesia,Bilateral,constant,USD million,1988.5979
+2023,IND,India,Bilateral,constant,USD million,7360.7004
+2023,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,0.0023
+2023,IRQ,Iraq,Bilateral,constant,USD million,764.3428
+2023,JAM,Jamaica,Bilateral,constant,USD million,46.3392
+2023,JOR,Jordan,Bilateral,constant,USD million,297.9019
+2023,KAZ,Kazakhstan,Bilateral,constant,USD million,504.0562
+2023,KEN,Kenya,Bilateral,constant,USD million,1208.1743
+2023,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,71.498
+2023,KHM,Cambodia,Bilateral,constant,USD million,682.5741
+2023,LAO,Lao PDR,Bilateral,constant,USD million,1204.7208
 2023,LBN,Lebanon,Bilateral,constant,USD million,0.0
-2023,LBR,Liberia,Bilateral,constant,USD million,18.48374457739288
-2023,LCA,St. Lucia,Bilateral,constant,USD million,42.22292647254779
+2023,LBR,Liberia,Bilateral,constant,USD million,18.4837
+2023,LCA,St. Lucia,Bilateral,constant,USD million,42.2229
 2023,LKA,Sri Lanka,Bilateral,constant,USD million,0.0
-2023,LSO,Lesotho,Bilateral,constant,USD million,39.20710157457409
-2023,MAR,Morocco,Bilateral,constant,USD million,1520.9750193780028
-2023,MDA,Moldova,Bilateral,constant,USD million,10.732407073125062
-2023,MDG,Madagascar,Bilateral,constant,USD million,181.42129179677528
-2023,MDV,Maldives,Bilateral,constant,USD million,614.9147664670413
-2023,MEX,Mexico,Bilateral,constant,USD million,66.35848577825662
-2023,MKD,North Macedonia,Bilateral,constant,USD million,134.69492546247176
-2023,MLI,Mali,Bilateral,constant,USD million,213.6021978278796
-2023,MMR,Myanmar,Bilateral,constant,USD million,1501.9166857246666
-2023,MNE,Montenegro,Bilateral,constant,USD million,71.13329085947308
-2023,MNG,Mongolia,Bilateral,constant,USD million,559.9709928030161
-2023,MOZ,Mozambique,Bilateral,constant,USD million,433.30966808053
-2023,MRT,Mauritania,Bilateral,constant,USD million,189.74734921356298
-2023,MUS,Mauritius,Bilateral,constant,USD million,398.4417819269992
-2023,MWI,Malawi,Bilateral,constant,USD million,42.40316756239396
-2023,NER,Niger,Bilateral,constant,USD million,122.2786647513009
-2023,NGA,Nigeria,Bilateral,constant,USD million,1796.719559161587
-2023,NIC,Nicaragua,Bilateral,constant,USD million,72.56671064227254
-2023,NPL,Nepal,Bilateral,constant,USD million,459.23575110084926
-2023,PAK,Pakistan,Bilateral,constant,USD million,1402.240090826387
-2023,PER,Peru,Bilateral,constant,USD million,248.06828194395032
-2023,PHL,Philippines,Bilateral,constant,USD million,2858.1134906294947
-2023,PNG,Papua New Guinea,Bilateral,constant,USD million,376.4577085254357
-2023,PRY,Paraguay,Bilateral,constant,USD million,18.725238175602723
-2023,RUS,Russian Federation,Bilateral,constant,USD million,71.96003825630969
-2023,RWA,Rwanda,Bilateral,constant,USD million,287.4245804974729
-2023,SDN,Sudan,Bilateral,constant,USD million,350.7374471739868
-2023,SEN,Senegal,Bilateral,constant,USD million,1011.5613815348223
-2023,SLE,Sierra Leone,Bilateral,constant,USD million,49.54785537291417
-2023,SLV,El Salvador,Bilateral,constant,USD million,21.983115438679338
-2023,SRB,Serbia,Bilateral,constant,USD million,1039.7649691841295
-2023,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.04259908439554256
-2023,SUR,Suriname,Bilateral,constant,USD million,93.51630341284576
-2023,SWZ,Eswatini,Bilateral,constant,USD million,34.82279756452501
-2023,TCD,Chad,Bilateral,constant,USD million,103.58897336529546
-2023,TGO,Togo,Bilateral,constant,USD million,139.91904482231683
-2023,THA,Thailand,Bilateral,constant,USD million,65.3792457443042
-2023,TJK,Tajikistan,Bilateral,constant,USD million,10.552635852178968
-2023,TKM,Turkmenistan,Bilateral,constant,USD million,30.584967067811775
-2023,TLS,Timor-Leste,Bilateral,constant,USD million,8.288949734826163
-2023,TUN,Tunisia,Bilateral,constant,USD million,1441.8774656330625
-2023,TUR,Turkiye,Bilateral,constant,USD million,1233.0682184941138
-2023,TZA,Tanzania,Bilateral,constant,USD million,659.0633126967068
-2023,UGA,Uganda,Bilateral,constant,USD million,629.0089488556121
-2023,UKR,Ukraine,Bilateral,constant,USD million,50.25782349884491
-2023,UZB,Uzbekistan,Bilateral,constant,USD million,1227.285390109428
-2023,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,27.507936759326302
-2023,VNM,Viet Nam,Bilateral,constant,USD million,2652.9210301390935
-2023,VUT,Vanuatu,Bilateral,constant,USD million,12.429101917575231
-2023,XKX,Kosovo,Bilateral,constant,USD million,17.636583030324243
-2023,YEM,"Yemen, Rep.",Bilateral,constant,USD million,162.1966075764209
-2023,ZAF,South Africa,Bilateral,constant,USD million,489.55490142592646
-2023,ZMB,Zambia,Bilateral,constant,USD million,456.027703017872
-2023,ZWE,Zimbabwe,Bilateral,constant,USD million,259.60913416232074
+2023,LSO,Lesotho,Bilateral,constant,USD million,39.2071
+2023,MAR,Morocco,Bilateral,constant,USD million,1520.975
+2023,MDA,Moldova,Bilateral,constant,USD million,10.7324
+2023,MDG,Madagascar,Bilateral,constant,USD million,181.4213
+2023,MDV,Maldives,Bilateral,constant,USD million,614.9148
+2023,MEX,Mexico,Bilateral,constant,USD million,66.3585
+2023,MKD,North Macedonia,Bilateral,constant,USD million,134.6949
+2023,MLI,Mali,Bilateral,constant,USD million,213.6022
+2023,MMR,Myanmar,Bilateral,constant,USD million,1501.9167
+2023,MNE,Montenegro,Bilateral,constant,USD million,71.1333
+2023,MNG,Mongolia,Bilateral,constant,USD million,559.971
+2023,MOZ,Mozambique,Bilateral,constant,USD million,433.3097
+2023,MRT,Mauritania,Bilateral,constant,USD million,189.7473
+2023,MUS,Mauritius,Bilateral,constant,USD million,398.4418
+2023,MWI,Malawi,Bilateral,constant,USD million,42.4032
+2023,NER,Niger,Bilateral,constant,USD million,122.2787
+2023,NGA,Nigeria,Bilateral,constant,USD million,1796.7196
+2023,NIC,Nicaragua,Bilateral,constant,USD million,72.5667
+2023,NPL,Nepal,Bilateral,constant,USD million,459.2358
+2023,PAK,Pakistan,Bilateral,constant,USD million,1402.2401
+2023,PER,Peru,Bilateral,constant,USD million,248.0683
+2023,PHL,Philippines,Bilateral,constant,USD million,2858.1135
+2023,PNG,Papua New Guinea,Bilateral,constant,USD million,376.4577
+2023,PRY,Paraguay,Bilateral,constant,USD million,18.7252
+2023,RUS,Russian Federation,Bilateral,constant,USD million,71.96
+2023,RWA,Rwanda,Bilateral,constant,USD million,287.4246
+2023,SDN,Sudan,Bilateral,constant,USD million,350.7374
+2023,SEN,Senegal,Bilateral,constant,USD million,1011.5614
+2023,SLE,Sierra Leone,Bilateral,constant,USD million,49.5479
+2023,SLV,El Salvador,Bilateral,constant,USD million,21.9831
+2023,SRB,Serbia,Bilateral,constant,USD million,1039.765
+2023,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.0426
+2023,SUR,Suriname,Bilateral,constant,USD million,93.5163
+2023,SWZ,Eswatini,Bilateral,constant,USD million,34.8228
+2023,TCD,Chad,Bilateral,constant,USD million,103.589
+2023,TGO,Togo,Bilateral,constant,USD million,139.919
+2023,THA,Thailand,Bilateral,constant,USD million,65.3792
+2023,TJK,Tajikistan,Bilateral,constant,USD million,10.5526
+2023,TKM,Turkmenistan,Bilateral,constant,USD million,30.585
+2023,TLS,Timor-Leste,Bilateral,constant,USD million,8.2889
+2023,TUN,Tunisia,Bilateral,constant,USD million,1441.8775
+2023,TUR,Turkiye,Bilateral,constant,USD million,1233.0682
+2023,TZA,Tanzania,Bilateral,constant,USD million,659.0633
+2023,UGA,Uganda,Bilateral,constant,USD million,629.0089
+2023,UKR,Ukraine,Bilateral,constant,USD million,50.2578
+2023,UZB,Uzbekistan,Bilateral,constant,USD million,1227.2854
+2023,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,27.5079
+2023,VNM,Viet Nam,Bilateral,constant,USD million,2652.921
+2023,VUT,Vanuatu,Bilateral,constant,USD million,12.4291
+2023,XKX,Kosovo,Bilateral,constant,USD million,17.6366
+2023,YEM,"Yemen, Rep.",Bilateral,constant,USD million,162.1966
+2023,ZAF,South Africa,Bilateral,constant,USD million,489.5549
+2023,ZMB,Zambia,Bilateral,constant,USD million,456.0277
+2023,ZWE,Zimbabwe,Bilateral,constant,USD million,259.6091
 2024,AFG,Afghanistan,Bilateral,constant,USD million,0.0
-2024,AGO,Angola,Bilateral,constant,USD million,1666.190819987607
-2024,ALB,Albania,Bilateral,constant,USD million,118.61560616004957
-2024,ARG,Argentina,Bilateral,constant,USD million,895.4897266813095
-2024,ARM,Armenia,Bilateral,constant,USD million,60.589858627615214
-2024,AZE,Azerbaijan,Bilateral,constant,USD million,8.505074397185288
-2024,BDI,Burundi,Bilateral,constant,USD million,68.3779590739725
-2024,BEN,Benin,Bilateral,constant,USD million,394.1150425577848
-2024,BFA,Burkina Faso,Bilateral,constant,USD million,124.67781908307487
-2024,BGD,Bangladesh,Bilateral,constant,USD million,5753.33476030221
-2024,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,77.30701330705355
-2024,BLR,Belarus,Bilateral,constant,USD million,888.2672032363411
-2024,BLZ,Belize,Bilateral,constant,USD million,36.12878236070448
-2024,BOL,Bolivia,Bilateral,constant,USD million,241.32396235282434
-2024,BRA,Brazil,Bilateral,constant,USD million,617.2841626132326
-2024,BTN,Bhutan,Bilateral,constant,USD million,87.89548347819935
-2024,BWA,Botswana,Bilateral,constant,USD million,10.189618156133191
-2024,CAF,Central African Republic,Bilateral,constant,USD million,20.804306071285943
-2024,CIV,Cote d'Ivoire,Bilateral,constant,USD million,850.4988694642634
-2024,CMR,Cameroon,Bilateral,constant,USD million,344.6074124350019
-2024,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,681.6770655463293
-2024,COG,"Congo, Rep.",Bilateral,constant,USD million,52.254454733446025
-2024,COL,Colombia,Bilateral,constant,USD million,95.74469380347783
-2024,COM,Comoros,Bilateral,constant,USD million,2.5156624629868762
-2024,CPV,Cabo Verde,Bilateral,constant,USD million,13.757316196211338
-2024,CRI,Costa Rica,Bilateral,constant,USD million,39.339354814341895
-2024,DJI,Djibouti,Bilateral,constant,USD million,63.88347893412675
-2024,DMA,Dominica,Bilateral,constant,USD million,1.0622401679231817
-2024,DOM,Dominican Republic,Bilateral,constant,USD million,60.43814516307643
-2024,DZA,Algeria,Bilateral,constant,USD million,3.4768859943054915
-2024,ECU,Ecuador,Bilateral,constant,USD million,284.9547389674864
-2024,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,11262.59906133158
+2024,AGO,Angola,Bilateral,constant,USD million,1666.1908
+2024,ALB,Albania,Bilateral,constant,USD million,118.6156
+2024,ARG,Argentina,Bilateral,constant,USD million,895.4897
+2024,ARM,Armenia,Bilateral,constant,USD million,60.5899
+2024,AZE,Azerbaijan,Bilateral,constant,USD million,8.5051
+2024,BDI,Burundi,Bilateral,constant,USD million,68.378
+2024,BEN,Benin,Bilateral,constant,USD million,394.115
+2024,BFA,Burkina Faso,Bilateral,constant,USD million,124.6778
+2024,BGD,Bangladesh,Bilateral,constant,USD million,5753.3348
+2024,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,77.307
+2024,BLR,Belarus,Bilateral,constant,USD million,888.2672
+2024,BLZ,Belize,Bilateral,constant,USD million,36.1288
+2024,BOL,Bolivia,Bilateral,constant,USD million,241.324
+2024,BRA,Brazil,Bilateral,constant,USD million,617.2842
+2024,BTN,Bhutan,Bilateral,constant,USD million,87.8955
+2024,BWA,Botswana,Bilateral,constant,USD million,10.1896
+2024,CAF,Central African Republic,Bilateral,constant,USD million,20.8043
+2024,CIV,Cote d'Ivoire,Bilateral,constant,USD million,850.4989
+2024,CMR,Cameroon,Bilateral,constant,USD million,344.6074
+2024,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,681.6771
+2024,COG,"Congo, Rep.",Bilateral,constant,USD million,52.2545
+2024,COL,Colombia,Bilateral,constant,USD million,95.7447
+2024,COM,Comoros,Bilateral,constant,USD million,2.5157
+2024,CPV,Cabo Verde,Bilateral,constant,USD million,13.7573
+2024,CRI,Costa Rica,Bilateral,constant,USD million,39.3394
+2024,DJI,Djibouti,Bilateral,constant,USD million,63.8835
+2024,DMA,Dominica,Bilateral,constant,USD million,1.0622
+2024,DOM,Dominican Republic,Bilateral,constant,USD million,60.4381
+2024,DZA,Algeria,Bilateral,constant,USD million,3.4769
+2024,ECU,Ecuador,Bilateral,constant,USD million,284.9547
+2024,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,11262.5991
 2024,ERI,Eritrea,Bilateral,constant,USD million,0.0
-2024,ETH,Ethiopia,Bilateral,constant,USD million,563.4268596725882
-2024,GAB,Gabon,Bilateral,constant,USD million,175.22262131451214
-2024,GEO,Georgia,Bilateral,constant,USD million,185.53343958073248
-2024,GHA,Ghana,Bilateral,constant,USD million,966.3594186646804
-2024,GIN,Guinea,Bilateral,constant,USD million,167.26720769658095
-2024,GMB,"Gambia, The",Bilateral,constant,USD million,19.858406282517425
-2024,GNB,Guinea-Bissau,Bilateral,constant,USD million,3.7855646854210563
-2024,GRD,Grenada,Bilateral,constant,USD million,11.71194944712401
-2024,GTM,Guatemala,Bilateral,constant,USD million,1.0852249040688093
-2024,GUY,Guyana,Bilateral,constant,USD million,72.61404234931811
-2024,HND,Honduras,Bilateral,constant,USD million,49.17720539589552
-2024,HTI,Haiti,Bilateral,constant,USD million,4.130213706750197
-2024,IDN,Indonesia,Bilateral,constant,USD million,1453.9920660809403
-2024,IND,India,Bilateral,constant,USD million,5875.600021655393
-2024,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,0.0005163969034786085
-2024,IRQ,Iraq,Bilateral,constant,USD million,558.1069657728498
-2024,JAM,Jamaica,Bilateral,constant,USD million,23.09323176889568
-2024,JOR,Jordan,Bilateral,constant,USD million,262.62119895377185
-2024,KAZ,Kazakhstan,Bilateral,constant,USD million,196.92665720563275
-2024,KEN,Kenya,Bilateral,constant,USD million,1335.232785389695
-2024,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,68.34300920095224
-2024,KHM,Cambodia,Bilateral,constant,USD million,650.5300615120398
-2024,LAO,Lao PDR,Bilateral,constant,USD million,836.0267450396722
+2024,ETH,Ethiopia,Bilateral,constant,USD million,563.4269
+2024,GAB,Gabon,Bilateral,constant,USD million,175.2226
+2024,GEO,Georgia,Bilateral,constant,USD million,185.5334
+2024,GHA,Ghana,Bilateral,constant,USD million,966.3594
+2024,GIN,Guinea,Bilateral,constant,USD million,167.2672
+2024,GMB,"Gambia, The",Bilateral,constant,USD million,19.8584
+2024,GNB,Guinea-Bissau,Bilateral,constant,USD million,3.7856
+2024,GRD,Grenada,Bilateral,constant,USD million,11.7119
+2024,GTM,Guatemala,Bilateral,constant,USD million,1.0852
+2024,GUY,Guyana,Bilateral,constant,USD million,72.614
+2024,HND,Honduras,Bilateral,constant,USD million,49.1772
+2024,HTI,Haiti,Bilateral,constant,USD million,4.1302
+2024,IDN,Indonesia,Bilateral,constant,USD million,1453.9921
+2024,IND,India,Bilateral,constant,USD million,5875.6
+2024,IRN,"Iran, Islamic Rep.",Bilateral,constant,USD million,0.0005
+2024,IRQ,Iraq,Bilateral,constant,USD million,558.107
+2024,JAM,Jamaica,Bilateral,constant,USD million,23.0932
+2024,JOR,Jordan,Bilateral,constant,USD million,262.6212
+2024,KAZ,Kazakhstan,Bilateral,constant,USD million,196.9267
+2024,KEN,Kenya,Bilateral,constant,USD million,1335.2328
+2024,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,68.343
+2024,KHM,Cambodia,Bilateral,constant,USD million,650.5301
+2024,LAO,Lao PDR,Bilateral,constant,USD million,836.0267
 2024,LBN,Lebanon,Bilateral,constant,USD million,0.0
-2024,LBR,Liberia,Bilateral,constant,USD million,16.822296879481854
-2024,LCA,St. Lucia,Bilateral,constant,USD million,19.351947998692985
+2024,LBR,Liberia,Bilateral,constant,USD million,16.8223
+2024,LCA,St. Lucia,Bilateral,constant,USD million,19.3519
 2024,LKA,Sri Lanka,Bilateral,constant,USD million,0.0
-2024,LSO,Lesotho,Bilateral,constant,USD million,26.225616775829206
-2024,MAR,Morocco,Bilateral,constant,USD million,1275.2561685522405
-2024,MDA,Moldova,Bilateral,constant,USD million,14.905606992377653
-2024,MDG,Madagascar,Bilateral,constant,USD million,148.16927938052686
-2024,MDV,Maldives,Bilateral,constant,USD million,417.63894733491975
-2024,MEX,Mexico,Bilateral,constant,USD million,23.791971356974095
-2024,MKD,North Macedonia,Bilateral,constant,USD million,116.22345900223608
-2024,MLI,Mali,Bilateral,constant,USD million,161.74345138438846
-2024,MMR,Myanmar,Bilateral,constant,USD million,1336.2410448692772
-2024,MNE,Montenegro,Bilateral,constant,USD million,34.981017302459115
-2024,MNG,Mongolia,Bilateral,constant,USD million,532.0665665183899
-2024,MOZ,Mozambique,Bilateral,constant,USD million,353.2842860733433
-2024,MRT,Mauritania,Bilateral,constant,USD million,267.80489778635234
-2024,MUS,Mauritius,Bilateral,constant,USD million,292.08875259064024
-2024,MWI,Malawi,Bilateral,constant,USD million,61.77620450643678
-2024,NER,Niger,Bilateral,constant,USD million,100.58331767229787
-2024,NGA,Nigeria,Bilateral,constant,USD million,2647.45715990597
-2024,NIC,Nicaragua,Bilateral,constant,USD million,83.34087334552646
-2024,NPL,Nepal,Bilateral,constant,USD million,328.9503307778055
+2024,LSO,Lesotho,Bilateral,constant,USD million,26.2256
+2024,MAR,Morocco,Bilateral,constant,USD million,1275.2562
+2024,MDA,Moldova,Bilateral,constant,USD million,14.9056
+2024,MDG,Madagascar,Bilateral,constant,USD million,148.1693
+2024,MDV,Maldives,Bilateral,constant,USD million,417.6389
+2024,MEX,Mexico,Bilateral,constant,USD million,23.792
+2024,MKD,North Macedonia,Bilateral,constant,USD million,116.2235
+2024,MLI,Mali,Bilateral,constant,USD million,161.7435
+2024,MMR,Myanmar,Bilateral,constant,USD million,1336.241
+2024,MNE,Montenegro,Bilateral,constant,USD million,34.981
+2024,MNG,Mongolia,Bilateral,constant,USD million,532.0666
+2024,MOZ,Mozambique,Bilateral,constant,USD million,353.2843
+2024,MRT,Mauritania,Bilateral,constant,USD million,267.8049
+2024,MUS,Mauritius,Bilateral,constant,USD million,292.0888
+2024,MWI,Malawi,Bilateral,constant,USD million,61.7762
+2024,NER,Niger,Bilateral,constant,USD million,100.5833
+2024,NGA,Nigeria,Bilateral,constant,USD million,2647.4572
+2024,NIC,Nicaragua,Bilateral,constant,USD million,83.3409
+2024,NPL,Nepal,Bilateral,constant,USD million,328.9503
 2024,PAK,Pakistan,Bilateral,constant,USD million,0.0
-2024,PER,Peru,Bilateral,constant,USD million,271.09879618337914
-2024,PHL,Philippines,Bilateral,constant,USD million,2296.911916988689
-2024,PNG,Papua New Guinea,Bilateral,constant,USD million,232.77553474579017
-2024,PRY,Paraguay,Bilateral,constant,USD million,7.7173397704808036
-2024,RUS,Russian Federation,Bilateral,constant,USD million,32.034171212085
-2024,RWA,Rwanda,Bilateral,constant,USD million,249.4781675270146
-2024,SDN,Sudan,Bilateral,constant,USD million,214.36149073137753
-2024,SEN,Senegal,Bilateral,constant,USD million,695.1221012096581
-2024,SLE,Sierra Leone,Bilateral,constant,USD million,52.97006089367795
-2024,SLV,El Salvador,Bilateral,constant,USD million,17.003451197579416
-2024,SRB,Serbia,Bilateral,constant,USD million,527.5459215159822
-2024,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.02552582497651601
-2024,SUR,Suriname,Bilateral,constant,USD million,144.10099439420358
-2024,SWZ,Eswatini,Bilateral,constant,USD million,19.11889791110987
-2024,TCD,Chad,Bilateral,constant,USD million,74.24479792304581
-2024,TGO,Togo,Bilateral,constant,USD million,113.30819233549383
-2024,THA,Thailand,Bilateral,constant,USD million,42.19333063087531
-2024,TJK,Tajikistan,Bilateral,constant,USD million,11.666568891590519
-2024,TKM,Turkmenistan,Bilateral,constant,USD million,40.15160680254618
-2024,TLS,Timor-Leste,Bilateral,constant,USD million,11.914433624984301
-2024,TUN,Tunisia,Bilateral,constant,USD million,944.3043058072373
-2024,TUR,Turkiye,Bilateral,constant,USD million,641.7053637818703
-2024,TZA,Tanzania,Bilateral,constant,USD million,815.1704284356393
-2024,UGA,Uganda,Bilateral,constant,USD million,328.23383588890874
-2024,UKR,Ukraine,Bilateral,constant,USD million,30.242920151028343
-2024,UZB,Uzbekistan,Bilateral,constant,USD million,1311.924424894897
-2024,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,14.664429223256143
-2024,VNM,Viet Nam,Bilateral,constant,USD million,2609.7506578724606
-2024,VUT,Vanuatu,Bilateral,constant,USD million,5.120803300447117
-2024,XKX,Kosovo,Bilateral,constant,USD million,19.723893244667448
-2024,YEM,"Yemen, Rep.",Bilateral,constant,USD million,145.7270142750038
-2024,ZAF,South Africa,Bilateral,constant,USD million,238.8443997599464
-2024,ZMB,Zambia,Bilateral,constant,USD million,606.99701871225
-2024,ZWE,Zimbabwe,Bilateral,constant,USD million,111.02180183817725
+2024,PER,Peru,Bilateral,constant,USD million,271.0988
+2024,PHL,Philippines,Bilateral,constant,USD million,2296.9119
+2024,PNG,Papua New Guinea,Bilateral,constant,USD million,232.7755
+2024,PRY,Paraguay,Bilateral,constant,USD million,7.7173
+2024,RUS,Russian Federation,Bilateral,constant,USD million,32.0342
+2024,RWA,Rwanda,Bilateral,constant,USD million,249.4782
+2024,SDN,Sudan,Bilateral,constant,USD million,214.3615
+2024,SEN,Senegal,Bilateral,constant,USD million,695.1221
+2024,SLE,Sierra Leone,Bilateral,constant,USD million,52.9701
+2024,SLV,El Salvador,Bilateral,constant,USD million,17.0035
+2024,SRB,Serbia,Bilateral,constant,USD million,527.5459
+2024,STP,Sao Tome and Principe,Bilateral,constant,USD million,0.0255
+2024,SUR,Suriname,Bilateral,constant,USD million,144.101
+2024,SWZ,Eswatini,Bilateral,constant,USD million,19.1189
+2024,TCD,Chad,Bilateral,constant,USD million,74.2448
+2024,TGO,Togo,Bilateral,constant,USD million,113.3082
+2024,THA,Thailand,Bilateral,constant,USD million,42.1933
+2024,TJK,Tajikistan,Bilateral,constant,USD million,11.6666
+2024,TKM,Turkmenistan,Bilateral,constant,USD million,40.1516
+2024,TLS,Timor-Leste,Bilateral,constant,USD million,11.9144
+2024,TUN,Tunisia,Bilateral,constant,USD million,944.3043
+2024,TUR,Turkiye,Bilateral,constant,USD million,641.7054
+2024,TZA,Tanzania,Bilateral,constant,USD million,815.1704
+2024,UGA,Uganda,Bilateral,constant,USD million,328.2338
+2024,UKR,Ukraine,Bilateral,constant,USD million,30.2429
+2024,UZB,Uzbekistan,Bilateral,constant,USD million,1311.9244
+2024,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,14.6644
+2024,VNM,Viet Nam,Bilateral,constant,USD million,2609.7507
+2024,VUT,Vanuatu,Bilateral,constant,USD million,5.1208
+2024,XKX,Kosovo,Bilateral,constant,USD million,19.7239
+2024,YEM,"Yemen, Rep.",Bilateral,constant,USD million,145.727
+2024,ZAF,South Africa,Bilateral,constant,USD million,238.8444
+2024,ZMB,Zambia,Bilateral,constant,USD million,606.997
+2024,ZWE,Zimbabwe,Bilateral,constant,USD million,111.0218
 2025,AFG,Afghanistan,Bilateral,constant,USD million,0.0
-2025,AGO,Angola,Bilateral,constant,USD million,706.302827883666
-2025,ALB,Albania,Bilateral,constant,USD million,62.12474671809894
-2025,ARG,Argentina,Bilateral,constant,USD million,407.5495971194911
-2025,ARM,Armenia,Bilateral,constant,USD million,30.99277376840233
-2025,AZE,Azerbaijan,Bilateral,constant,USD million,1.5042217175135606
-2025,BDI,Burundi,Bilateral,constant,USD million,47.36760884348737
-2025,BEN,Benin,Bilateral,constant,USD million,220.62854497859175
-2025,BFA,Burkina Faso,Bilateral,constant,USD million,73.07479234509421
-2025,BGD,Bangladesh,Bilateral,constant,USD million,3207.0082516059038
-2025,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,41.92052165513001
-2025,BLR,Belarus,Bilateral,constant,USD million,564.2038697532568
-2025,BLZ,Belize,Bilateral,constant,USD million,18.671488726952404
-2025,BOL,Bolivia,Bilateral,constant,USD million,140.86665014789418
-2025,BRA,Brazil,Bilateral,constant,USD million,224.62247665667678
-2025,BTN,Bhutan,Bilateral,constant,USD million,28.871710820741747
-2025,BWA,Botswana,Bilateral,constant,USD million,5.567128541478349
-2025,CAF,Central African Republic,Bilateral,constant,USD million,11.386784818739319
-2025,CIV,Cote d'Ivoire,Bilateral,constant,USD million,469.51262657850475
-2025,CMR,Cameroon,Bilateral,constant,USD million,181.28363991799398
-2025,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,298.25255321746744
-2025,COG,"Congo, Rep.",Bilateral,constant,USD million,19.651519250832507
-2025,COL,Colombia,Bilateral,constant,USD million,46.49670284051819
-2025,COM,Comoros,Bilateral,constant,USD million,1.7533629216292088
-2025,CPV,Cabo Verde,Bilateral,constant,USD million,5.944863905430516
-2025,CRI,Costa Rica,Bilateral,constant,USD million,22.866512526175693
-2025,DJI,Djibouti,Bilateral,constant,USD million,34.211980535019315
-2025,DMA,Dominica,Bilateral,constant,USD million,0.5680089464307773
-2025,DOM,Dominican Republic,Bilateral,constant,USD million,28.525702727481804
-2025,DZA,Algeria,Bilateral,constant,USD million,1.5293408181065777
-2025,ECU,Ecuador,Bilateral,constant,USD million,133.07305176189345
-2025,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5555.646159166897
-2025,ETH,Ethiopia,Bilateral,constant,USD million,264.89039072006835
-2025,GAB,Gabon,Bilateral,constant,USD million,91.98917748537829
-2025,GEO,Georgia,Bilateral,constant,USD million,111.63826306621218
-2025,GHA,Ghana,Bilateral,constant,USD million,557.3437290448607
-2025,GIN,Guinea,Bilateral,constant,USD million,82.5552488592356
-2025,GMB,"Gambia, The",Bilateral,constant,USD million,11.610515966039571
-2025,GNB,Guinea-Bissau,Bilateral,constant,USD million,2.417576623164898
-2025,GRD,Grenada,Bilateral,constant,USD million,4.876757606783795
-2025,GUY,Guyana,Bilateral,constant,USD million,34.09318838002961
-2025,HND,Honduras,Bilateral,constant,USD million,26.585195030261094
-2025,HTI,Haiti,Bilateral,constant,USD million,1.3270872797218098
-2025,IDN,Indonesia,Bilateral,constant,USD million,775.3806807127662
-2025,IND,India,Bilateral,constant,USD million,3410.43050811506
-2025,IRQ,Iraq,Bilateral,constant,USD million,320.8670283104124
-2025,JAM,Jamaica,Bilateral,constant,USD million,10.236182614929628
-2025,JOR,Jordan,Bilateral,constant,USD million,146.3845472051647
-2025,KAZ,Kazakhstan,Bilateral,constant,USD million,89.09444060980735
-2025,KEN,Kenya,Bilateral,constant,USD million,758.9660869023255
-2025,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,38.95554733493506
-2025,KHM,Cambodia,Bilateral,constant,USD million,410.56278838653066
-2025,LAO,Lao PDR,Bilateral,constant,USD million,416.20720766135804
+2025,AGO,Angola,Bilateral,constant,USD million,706.3028
+2025,ALB,Albania,Bilateral,constant,USD million,62.1247
+2025,ARG,Argentina,Bilateral,constant,USD million,407.5496
+2025,ARM,Armenia,Bilateral,constant,USD million,30.9928
+2025,AZE,Azerbaijan,Bilateral,constant,USD million,1.5042
+2025,BDI,Burundi,Bilateral,constant,USD million,47.3676
+2025,BEN,Benin,Bilateral,constant,USD million,220.6285
+2025,BFA,Burkina Faso,Bilateral,constant,USD million,73.0748
+2025,BGD,Bangladesh,Bilateral,constant,USD million,3207.0083
+2025,BIH,Bosnia and Herzegovina,Bilateral,constant,USD million,41.9205
+2025,BLR,Belarus,Bilateral,constant,USD million,564.2039
+2025,BLZ,Belize,Bilateral,constant,USD million,18.6715
+2025,BOL,Bolivia,Bilateral,constant,USD million,140.8667
+2025,BRA,Brazil,Bilateral,constant,USD million,224.6225
+2025,BTN,Bhutan,Bilateral,constant,USD million,28.8717
+2025,BWA,Botswana,Bilateral,constant,USD million,5.5671
+2025,CAF,Central African Republic,Bilateral,constant,USD million,11.3868
+2025,CIV,Cote d'Ivoire,Bilateral,constant,USD million,469.5126
+2025,CMR,Cameroon,Bilateral,constant,USD million,181.2836
+2025,COD,"Congo, Dem. Rep.",Bilateral,constant,USD million,298.2526
+2025,COG,"Congo, Rep.",Bilateral,constant,USD million,19.6515
+2025,COL,Colombia,Bilateral,constant,USD million,46.4967
+2025,COM,Comoros,Bilateral,constant,USD million,1.7534
+2025,CPV,Cabo Verde,Bilateral,constant,USD million,5.9449
+2025,CRI,Costa Rica,Bilateral,constant,USD million,22.8665
+2025,DJI,Djibouti,Bilateral,constant,USD million,34.212
+2025,DMA,Dominica,Bilateral,constant,USD million,0.568
+2025,DOM,Dominican Republic,Bilateral,constant,USD million,28.5257
+2025,DZA,Algeria,Bilateral,constant,USD million,1.5293
+2025,ECU,Ecuador,Bilateral,constant,USD million,133.0731
+2025,EGY,"Egypt, Arab Rep.",Bilateral,constant,USD million,5555.6462
+2025,ETH,Ethiopia,Bilateral,constant,USD million,264.8904
+2025,GAB,Gabon,Bilateral,constant,USD million,91.9892
+2025,GEO,Georgia,Bilateral,constant,USD million,111.6383
+2025,GHA,Ghana,Bilateral,constant,USD million,557.3437
+2025,GIN,Guinea,Bilateral,constant,USD million,82.5552
+2025,GMB,"Gambia, The",Bilateral,constant,USD million,11.6105
+2025,GNB,Guinea-Bissau,Bilateral,constant,USD million,2.4176
+2025,GRD,Grenada,Bilateral,constant,USD million,4.8768
+2025,GUY,Guyana,Bilateral,constant,USD million,34.0932
+2025,HND,Honduras,Bilateral,constant,USD million,26.5852
+2025,HTI,Haiti,Bilateral,constant,USD million,1.3271
+2025,IDN,Indonesia,Bilateral,constant,USD million,775.3807
+2025,IND,India,Bilateral,constant,USD million,3410.4305
+2025,IRQ,Iraq,Bilateral,constant,USD million,320.867
+2025,JAM,Jamaica,Bilateral,constant,USD million,10.2362
+2025,JOR,Jordan,Bilateral,constant,USD million,146.3845
+2025,KAZ,Kazakhstan,Bilateral,constant,USD million,89.0944
+2025,KEN,Kenya,Bilateral,constant,USD million,758.9661
+2025,KGZ,Kyrgyz Republic,Bilateral,constant,USD million,38.9555
+2025,KHM,Cambodia,Bilateral,constant,USD million,410.5628
+2025,LAO,Lao PDR,Bilateral,constant,USD million,416.2072
 2025,LBN,Lebanon,Bilateral,constant,USD million,0.0
-2025,LBR,Liberia,Bilateral,constant,USD million,4.585325183138249
-2025,LCA,St. Lucia,Bilateral,constant,USD million,7.412188854113255
+2025,LBR,Liberia,Bilateral,constant,USD million,4.5853
+2025,LCA,St. Lucia,Bilateral,constant,USD million,7.4122
 2025,LKA,Sri Lanka,Bilateral,constant,USD million,0.0
-2025,LSO,Lesotho,Bilateral,constant,USD million,14.070810987859318
-2025,MAR,Morocco,Bilateral,constant,USD million,664.4980271076381
-2025,MDA,Moldova,Bilateral,constant,USD million,10.664362898320627
-2025,MDG,Madagascar,Bilateral,constant,USD million,84.26048672400239
-2025,MDV,Maldives,Bilateral,constant,USD million,212.6273653185333
-2025,MEX,Mexico,Bilateral,constant,USD million,9.79286988104502
-2025,MKD,North Macedonia,Bilateral,constant,USD million,61.40350362228786
-2025,MLI,Mali,Bilateral,constant,USD million,89.57763703275934
-2025,MMR,Myanmar,Bilateral,constant,USD million,811.0625839239198
-2025,MNE,Montenegro,Bilateral,constant,USD million,14.497933891847321
-2025,MNG,Mongolia,Bilateral,constant,USD million,377.2362865451385
-2025,MOZ,Mozambique,Bilateral,constant,USD million,229.9573895707294
-2025,MRT,Mauritania,Bilateral,constant,USD million,116.37679457472343
-2025,MUS,Mauritius,Bilateral,constant,USD million,143.50639981772406
-2025,MWI,Malawi,Bilateral,constant,USD million,48.19059972922754
-2025,NER,Niger,Bilateral,constant,USD million,60.47552096215152
-2025,NGA,Nigeria,Bilateral,constant,USD million,1514.116134655511
-2025,NIC,Nicaragua,Bilateral,constant,USD million,45.44795268178091
-2025,NPL,Nepal,Bilateral,constant,USD million,206.79501742691406
+2025,LSO,Lesotho,Bilateral,constant,USD million,14.0708
+2025,MAR,Morocco,Bilateral,constant,USD million,664.498
+2025,MDA,Moldova,Bilateral,constant,USD million,10.6644
+2025,MDG,Madagascar,Bilateral,constant,USD million,84.2605
+2025,MDV,Maldives,Bilateral,constant,USD million,212.6274
+2025,MEX,Mexico,Bilateral,constant,USD million,9.7929
+2025,MKD,North Macedonia,Bilateral,constant,USD million,61.4035
+2025,MLI,Mali,Bilateral,constant,USD million,89.5776
+2025,MMR,Myanmar,Bilateral,constant,USD million,811.0626
+2025,MNE,Montenegro,Bilateral,constant,USD million,14.4979
+2025,MNG,Mongolia,Bilateral,constant,USD million,377.2363
+2025,MOZ,Mozambique,Bilateral,constant,USD million,229.9574
+2025,MRT,Mauritania,Bilateral,constant,USD million,116.3768
+2025,MUS,Mauritius,Bilateral,constant,USD million,143.5064
+2025,MWI,Malawi,Bilateral,constant,USD million,48.1906
+2025,NER,Niger,Bilateral,constant,USD million,60.4755
+2025,NGA,Nigeria,Bilateral,constant,USD million,1514.1161
+2025,NIC,Nicaragua,Bilateral,constant,USD million,45.448
+2025,NPL,Nepal,Bilateral,constant,USD million,206.795
 2025,PAK,Pakistan,Bilateral,constant,USD million,0.0
-2025,PER,Peru,Bilateral,constant,USD million,157.3184409757246
-2025,PHL,Philippines,Bilateral,constant,USD million,1401.3035626482167
-2025,PNG,Papua New Guinea,Bilateral,constant,USD million,108.1436652642954
-2025,PRY,Paraguay,Bilateral,constant,USD million,3.160045081969999
-2025,RUS,Russian Federation,Bilateral,constant,USD million,16.044603152427896
-2025,RWA,Rwanda,Bilateral,constant,USD million,159.24625996397134
-2025,SDN,Sudan,Bilateral,constant,USD million,136.36045465064024
-2025,SEN,Senegal,Bilateral,constant,USD million,361.37973946600346
-2025,SLE,Sierra Leone,Bilateral,constant,USD million,35.76780723786118
-2025,SLV,El Salvador,Bilateral,constant,USD million,9.331812033237698
-2025,SRB,Serbia,Bilateral,constant,USD million,226.37958620958975
-2025,SUR,Suriname,Bilateral,constant,USD million,80.06975102770436
-2025,SWZ,Eswatini,Bilateral,constant,USD million,8.883872828517084
-2025,TCD,Chad,Bilateral,constant,USD million,42.229110424587475
-2025,TGO,Togo,Bilateral,constant,USD million,67.34684813202904
-2025,THA,Thailand,Bilateral,constant,USD million,9.387147935321112
-2025,TJK,Tajikistan,Bilateral,constant,USD million,7.79885489830485
-2025,TKM,Turkmenistan,Bilateral,constant,USD million,22.890655736608572
-2025,TLS,Timor-Leste,Bilateral,constant,USD million,7.344911164552685
-2025,TUN,Tunisia,Bilateral,constant,USD million,475.09915278650146
-2025,TUR,Turkiye,Bilateral,constant,USD million,284.7550659481774
-2025,TZA,Tanzania,Bilateral,constant,USD million,506.6740711828987
-2025,UGA,Uganda,Bilateral,constant,USD million,161.85826974316512
-2025,UKR,Ukraine,Bilateral,constant,USD million,16.385455928640084
-2025,UZB,Uzbekistan,Bilateral,constant,USD million,747.4031290333503
-2025,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,6.406770323455258
-2025,VNM,Viet Nam,Bilateral,constant,USD million,1730.6931558418894
-2025,VUT,Vanuatu,Bilateral,constant,USD million,1.404616923274288
-2025,XKX,Kosovo,Bilateral,constant,USD million,12.09322828441548
-2025,YEM,"Yemen, Rep.",Bilateral,constant,USD million,96.35099704417802
-2025,ZAF,South Africa,Bilateral,constant,USD million,102.01489231642931
-2025,ZMB,Zambia,Bilateral,constant,USD million,331.9386270443611
-2025,ZWE,Zimbabwe,Bilateral,constant,USD million,46.20100326858441
+2025,PER,Peru,Bilateral,constant,USD million,157.3184
+2025,PHL,Philippines,Bilateral,constant,USD million,1401.3036
+2025,PNG,Papua New Guinea,Bilateral,constant,USD million,108.1437
+2025,PRY,Paraguay,Bilateral,constant,USD million,3.16
+2025,RUS,Russian Federation,Bilateral,constant,USD million,16.0446
+2025,RWA,Rwanda,Bilateral,constant,USD million,159.2463
+2025,SDN,Sudan,Bilateral,constant,USD million,136.3605
+2025,SEN,Senegal,Bilateral,constant,USD million,361.3797
+2025,SLE,Sierra Leone,Bilateral,constant,USD million,35.7678
+2025,SLV,El Salvador,Bilateral,constant,USD million,9.3318
+2025,SRB,Serbia,Bilateral,constant,USD million,226.3796
+2025,SUR,Suriname,Bilateral,constant,USD million,80.0698
+2025,SWZ,Eswatini,Bilateral,constant,USD million,8.8839
+2025,TCD,Chad,Bilateral,constant,USD million,42.2291
+2025,TGO,Togo,Bilateral,constant,USD million,67.3468
+2025,THA,Thailand,Bilateral,constant,USD million,9.3871
+2025,TJK,Tajikistan,Bilateral,constant,USD million,7.7989
+2025,TKM,Turkmenistan,Bilateral,constant,USD million,22.8907
+2025,TLS,Timor-Leste,Bilateral,constant,USD million,7.3449
+2025,TUN,Tunisia,Bilateral,constant,USD million,475.0992
+2025,TUR,Turkiye,Bilateral,constant,USD million,284.7551
+2025,TZA,Tanzania,Bilateral,constant,USD million,506.6741
+2025,UGA,Uganda,Bilateral,constant,USD million,161.8583
+2025,UKR,Ukraine,Bilateral,constant,USD million,16.3855
+2025,UZB,Uzbekistan,Bilateral,constant,USD million,747.4031
+2025,VCT,St. Vincent and the Grenadines,Bilateral,constant,USD million,6.4068
+2025,VNM,Viet Nam,Bilateral,constant,USD million,1730.6932
+2025,VUT,Vanuatu,Bilateral,constant,USD million,1.4046
+2025,XKX,Kosovo,Bilateral,constant,USD million,12.0932
+2025,YEM,"Yemen, Rep.",Bilateral,constant,USD million,96.351
+2025,ZAF,South Africa,Bilateral,constant,USD million,102.0149
+2025,ZMB,Zambia,Bilateral,constant,USD million,331.9386
+2025,ZWE,Zimbabwe,Bilateral,constant,USD million,46.201

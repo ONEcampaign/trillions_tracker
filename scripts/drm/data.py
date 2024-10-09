@@ -113,6 +113,8 @@ def export_drm_oecd(
         ["year", "entity_name", "iso_code", "estimate", "indicator_name", "value"]
     ).assign(units="USD million")
 
+    df.value = df.value.round(4)
+
     df.to_csv(
         config.Paths.output / "oecd" / f"domestic_revenues_{suffix}.csv",
         index=False,
