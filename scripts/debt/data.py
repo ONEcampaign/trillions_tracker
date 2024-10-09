@@ -306,6 +306,8 @@ def export_debt_oecd(
     end_year = df.loc[lambda d: (d.value != 0) & d.value.notna()].year.max()
     suffix += f"_{start_year}_{end_year}"
 
+    df.value = df.value.round(4)
+
     df.to_csv(
         config.Paths.output / "oecd" / f"{indicator}_{suffix}.csv",
         index=False,
