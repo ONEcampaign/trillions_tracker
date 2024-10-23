@@ -122,9 +122,9 @@ year,iso_code,country,prices,units,value
 2015,ZMB,Zambia,constant,USD million,344.7602
 2015,ZWE,Zimbabwe,constant,USD million,157.0519
 2016,AFG,Afghanistan,constant,USD million,34.4207
-2016,AGO,Angola,constant,USD million,10444.6694
+2016,AGO,Angola,constant,USD million,10522.5886
 2016,ALB,Albania,constant,USD million,272.7176
-2016,ARG,Argentina,constant,USD million,19962.2105
+2016,ARG,Argentina,constant,USD million,19962.2277
 2016,ARM,Armenia,constant,USD million,196.3594
 2016,AZE,Azerbaijan,constant,USD million,1351.342
 2016,BDI,Burundi,constant,USD million,15.9228
@@ -140,12 +140,12 @@ year,iso_code,country,prices,units,value
 2016,BTN,Bhutan,constant,USD million,78.1528
 2016,BWA,Botswana,constant,USD million,153.667
 2016,CAF,Central African Republic,constant,USD million,5.6725
-2016,CHN,China,constant,USD million,19577.3281
+2016,CHN,China,constant,USD million,19577.1339
 2016,CIV,Cote d'Ivoire,constant,USD million,1055.443
 2016,CMR,Cameroon,constant,USD million,443.3092
 2016,COD,"Congo, Dem. Rep.",constant,USD million,371.8515
 2016,COG,"Congo, Rep.",constant,USD million,366.9485
-2016,COL,Colombia,constant,USD million,6191.8642
+2016,COL,Colombia,constant,USD million,6191.8701
 2016,COM,Comoros,constant,USD million,4.4701
 2016,CPV,Cabo Verde,constant,USD million,42.9934
 2016,CRI,Costa Rica,constant,USD million,1043.6071
@@ -167,12 +167,12 @@ year,iso_code,country,prices,units,value
 2016,GRD,Grenada,constant,USD million,45.5718
 2016,GTM,Guatemala,constant,USD million,681.8773
 2016,GUY,Guyana,constant,USD million,49.2586
-2016,HND,Honduras,constant,USD million,397.7144
+2016,HND,Honduras,constant,USD million,397.6952
 2016,HTI,Haiti,constant,USD million,93.1394
 2016,IDN,Indonesia,constant,USD million,15514.4576
 2016,IND,India,constant,USD million,22404.5721
-2016,IRN,"Iran, Islamic Rep.",constant,USD million,1960.5266
-2016,IRQ,Iraq,constant,USD million,1534.3545
+2016,IRN,"Iran, Islamic Rep.",constant,USD million,1960.5268
+2016,IRQ,Iraq,constant,USD million,1541.6051
 2016,JAM,Jamaica,constant,USD million,1776.4597
 2016,JOR,Jordan,constant,USD million,1823.1732
 2016,KAZ,Kazakhstan,constant,USD million,1668.0444
@@ -180,15 +180,15 @@ year,iso_code,country,prices,units,value
 2016,KGZ,Kyrgyz Republic,constant,USD million,136.0635
 2016,KHM,Cambodia,constant,USD million,182.9376
 2016,LAO,Lao PDR,constant,USD million,363.1492
-2016,LBN,Lebanon,constant,USD million,4307.8146
+2016,LBN,Lebanon,constant,USD million,4307.9413
 2016,LBR,Liberia,constant,USD million,4.3775
-2016,LCA,St. Lucia,constant,USD million,44.4478
+2016,LCA,St. Lucia,constant,USD million,44.4687
 2016,LKA,Sri Lanka,constant,USD million,2143.739
 2016,LSO,Lesotho,constant,USD million,55.2675
 2016,MAR,Morocco,constant,USD million,3013.393
 2016,MDA,Moldova,constant,USD million,52.2024
 2016,MDG,Madagascar,constant,USD million,95.5664
-2016,MDV,Maldives,constant,USD million,97.6497
+2016,MDV,Maldives,constant,USD million,97.4362
 2016,MEX,Mexico,constant,USD million,45286.7561
 2016,MKD,North Macedonia,constant,USD million,382.8038
 2016,MLI,Mali,constant,USD million,118.9993
@@ -201,20 +201,20 @@ year,iso_code,country,prices,units,value
 2016,MWI,Malawi,constant,USD million,59.4108
 2016,NER,Niger,constant,USD million,103.0873
 2016,NGA,Nigeria,constant,USD million,424.7575
-2016,NIC,Nicaragua,constant,USD million,163.6431
+2016,NIC,Nicaragua,constant,USD million,163.6423
 2016,NPL,Nepal,constant,USD million,204.5414
 2016,PAK,Pakistan,constant,USD million,3732.1791
-2016,PER,Peru,constant,USD million,1895.5148
+2016,PER,Peru,constant,USD million,1895.1225
 2016,PHL,Philippines,constant,USD million,6709.1294
 2016,PNG,Papua New Guinea,constant,USD million,108.3834
 2016,PRY,Paraguay,constant,USD million,429.6049
-2016,RUS,Russian Federation,constant,USD million,55518.8321
-2016,RWA,Rwanda,constant,USD million,67.4438
+2016,RUS,Russian Federation,constant,USD million,55519.4544
+2016,RWA,Rwanda,constant,USD million,67.4441
 2016,SDN,Sudan,constant,USD million,294.1194
 2016,SEN,Senegal,constant,USD million,264.472
 2016,SLB,Solomon Islands,constant,USD million,7.6214
-2016,SLE,Sierra Leone,constant,USD million,37.6996
-2016,SLV,El Salvador,constant,USD million,963.0721
+2016,SLE,Sierra Leone,constant,USD million,37.7003
+2016,SLV,El Salvador,constant,USD million,963.3463
 2016,SOM,Somalia,constant,USD million,0.0
 2016,SRB,Serbia,constant,USD million,1629.5709
 2016,STP,Sao Tome and Principe,constant,USD million,1.6638
@@ -223,17 +223,17 @@ year,iso_code,country,prices,units,value
 2016,SYR,Syrian Arab Republic,constant,USD million,0.0
 2016,TCD,Chad,constant,USD million,163.6661
 2016,TGO,Togo,constant,USD million,65.397
-2016,THA,Thailand,constant,USD million,801.209
+2016,THA,Thailand,constant,USD million,800.7645
 2016,TJK,Tajikistan,constant,USD million,177.014
 2016,TKM,Turkmenistan,constant,USD million,1562.0377
 2016,TLS,Timor-Leste,constant,USD million,0.8089
-2016,TON,Tonga,constant,USD million,6.8414
+2016,TON,Tonga,constant,USD million,6.8574
 2016,TUN,Tunisia,constant,USD million,1729.9201
-2016,TUR,Turkiye,constant,USD million,13290.0505
+2016,TUR,Turkiye,constant,USD million,13337.0974
 2016,TZA,Tanzania,constant,USD million,628.6337
-2016,UGA,Uganda,constant,USD million,101.1857
-2016,UKR,Ukraine,constant,USD million,3408.7403
-2016,UZB,Uzbekistan,constant,USD million,457.6777
+2016,UGA,Uganda,constant,USD million,101.3396
+2016,UKR,Ukraine,constant,USD million,3409.5388
+2016,UZB,Uzbekistan,constant,USD million,457.6788
 2016,VCT,St. Vincent and the Grenadines,constant,USD million,30.8474
 2016,VNM,Viet Nam,constant,USD million,3668.5586
 2016,VUT,Vanuatu,constant,USD million,8.0908
@@ -242,9 +242,9 @@ year,iso_code,country,prices,units,value
 2016,YEM,"Yemen, Rep.",constant,USD million,158.2483
 2016,ZAF,South Africa,constant,USD million,6140.327
 2016,ZMB,Zambia,constant,USD million,576.192
-2016,ZWE,Zimbabwe,constant,USD million,151.6288
+2016,ZWE,Zimbabwe,constant,USD million,147.2909
 2017,AFG,Afghanistan,constant,USD million,34.0822
-2017,AGO,Angola,constant,USD million,7518.1475
+2017,AGO,Angola,constant,USD million,7501.6365
 2017,ALB,Albania,constant,USD million,285.5776
 2017,ARG,Argentina,constant,USD million,30393.6117
 2017,ARM,Armenia,constant,USD million,227.2708
@@ -262,14 +262,14 @@ year,iso_code,country,prices,units,value
 2017,BTN,Bhutan,constant,USD million,74.7482
 2017,BWA,Botswana,constant,USD million,162.4212
 2017,CAF,Central African Republic,constant,USD million,16.5184
-2017,CHN,China,constant,USD million,19460.9937
+2017,CHN,China,constant,USD million,19460.8079
 2017,CIV,Cote d'Ivoire,constant,USD million,1754.6246
 2017,CMR,Cameroon,constant,USD million,400.7774
 2017,COD,"Congo, Dem. Rep.",constant,USD million,264.072
 2017,COG,"Congo, Rep.",constant,USD million,366.117
-2017,COL,Colombia,constant,USD million,9911.53
+2017,COL,Colombia,constant,USD million,9911.5725
 2017,COM,Comoros,constant,USD million,1.8861
-2017,CPV,Cabo Verde,constant,USD million,49.2242
+2017,CPV,Cabo Verde,constant,USD million,49.2244
 2017,CRI,Costa Rica,constant,USD million,1136.4652
 2017,DJI,Djibouti,constant,USD million,60.2108
 2017,DMA,Dominica,constant,USD million,27.3175
@@ -289,28 +289,28 @@ year,iso_code,country,prices,units,value
 2017,GRD,Grenada,constant,USD million,52.5476
 2017,GTM,Guatemala,constant,USD million,765.6025
 2017,GUY,Guyana,constant,USD million,56.0446
-2017,HND,Honduras,constant,USD million,417.4029
+2017,HND,Honduras,constant,USD million,417.3515
 2017,HTI,Haiti,constant,USD million,10.708
 2017,IDN,Indonesia,constant,USD million,17161.2963
 2017,IND,India,constant,USD million,12963.6353
-2017,IRN,"Iran, Islamic Rep.",constant,USD million,384.0797
-2017,IRQ,Iraq,constant,USD million,1430.9911
+2017,IRN,"Iran, Islamic Rep.",constant,USD million,384.0796
+2017,IRQ,Iraq,constant,USD million,1489.0789
 2017,JAM,Jamaica,constant,USD million,1216.938
 2017,JOR,Jordan,constant,USD million,910.5741
 2017,KAZ,Kazakhstan,constant,USD million,2216.9746
 2017,KEN,Kenya,constant,USD million,1090.4306
 2017,KGZ,Kyrgyz Republic,constant,USD million,125.4802
 2017,KHM,Cambodia,constant,USD million,203.9167
-2017,LAO,Lao PDR,constant,USD million,458.6068
-2017,LBN,Lebanon,constant,USD million,4622.8708
+2017,LAO,Lao PDR,constant,USD million,458.7851
+2017,LBN,Lebanon,constant,USD million,4623.4421
 2017,LBR,Liberia,constant,USD million,8.7609
-2017,LCA,St. Lucia,constant,USD million,41.1454
+2017,LCA,St. Lucia,constant,USD million,41.1657
 2017,LKA,Sri Lanka,constant,USD million,3485.1804
 2017,LSO,Lesotho,constant,USD million,44.4304
 2017,MAR,Morocco,constant,USD million,3266.8252
 2017,MDA,Moldova,constant,USD million,61.3914
 2017,MDG,Madagascar,constant,USD million,106.3473
-2017,MDV,Maldives,constant,USD million,115.6501
+2017,MDV,Maldives,constant,USD million,114.7159
 2017,MEX,Mexico,constant,USD million,38398.0747
 2017,MKD,North Macedonia,constant,USD million,345.6321
 2017,MLI,Mali,constant,USD million,137.8004
@@ -323,20 +323,20 @@ year,iso_code,country,prices,units,value
 2017,MWI,Malawi,constant,USD million,51.7523
 2017,NER,Niger,constant,USD million,120.651
 2017,NGA,Nigeria,constant,USD million,447.0946
-2017,NIC,Nicaragua,constant,USD million,201.8102
+2017,NIC,Nicaragua,constant,USD million,201.8092
 2017,NPL,Nepal,constant,USD million,191.7526
 2017,PAK,Pakistan,constant,USD million,5729.6569
-2017,PER,Peru,constant,USD million,4476.0401
+2017,PER,Peru,constant,USD million,4473.9546
 2017,PHL,Philippines,constant,USD million,5627.1071
 2017,PNG,Papua New Guinea,constant,USD million,140.1184
 2017,PRY,Paraguay,constant,USD million,425.9436
-2017,RUS,Russian Federation,constant,USD million,23805.1761
-2017,RWA,Rwanda,constant,USD million,74.5912
+2017,RUS,Russian Federation,constant,USD million,23805.345
+2017,RWA,Rwanda,constant,USD million,74.581
 2017,SDN,Sudan,constant,USD million,326.2414
 2017,SEN,Senegal,constant,USD million,425.3958
 2017,SLB,Solomon Islands,constant,USD million,6.0343
-2017,SLE,Sierra Leone,constant,USD million,45.962
-2017,SLV,El Salvador,constant,USD million,965.8242
+2017,SLE,Sierra Leone,constant,USD million,45.9554
+2017,SLV,El Salvador,constant,USD million,965.9844
 2017,SOM,Somalia,constant,USD million,0.0
 2017,SRB,Serbia,constant,USD million,2624.7307
 2017,STP,Sao Tome and Principe,constant,USD million,2.8817
@@ -345,17 +345,17 @@ year,iso_code,country,prices,units,value
 2017,SYR,Syrian Arab Republic,constant,USD million,0.0
 2017,TCD,Chad,constant,USD million,165.7555
 2017,TGO,Togo,constant,USD million,73.979
-2017,THA,Thailand,constant,USD million,756.3825
+2017,THA,Thailand,constant,USD million,756.2043
 2017,TJK,Tajikistan,constant,USD million,179.0622
 2017,TKM,Turkmenistan,constant,USD million,1697.2839
-2017,TLS,Timor-Leste,constant,USD million,1.712
-2017,TON,Tonga,constant,USD million,5.8332
-2017,TUN,Tunisia,constant,USD million,2506.8299
-2017,TUR,Turkiye,constant,USD million,18701.6311
-2017,TZA,Tanzania,constant,USD million,712.8754
+2017,TLS,Timor-Leste,constant,USD million,1.7335
+2017,TON,Tonga,constant,USD million,5.8746
+2017,TUN,Tunisia,constant,USD million,2507.195
+2017,TUR,Turkiye,constant,USD million,18764.2715
+2017,TZA,Tanzania,constant,USD million,703.3027
 2017,UGA,Uganda,constant,USD million,181.0508
-2017,UKR,Ukraine,constant,USD million,4289.671
-2017,UZB,Uzbekistan,constant,USD million,700.2547
+2017,UKR,Ukraine,constant,USD million,4293.1112
+2017,UZB,Uzbekistan,constant,USD million,623.6745
 2017,VCT,St. Vincent and the Grenadines,constant,USD million,32.121
 2017,VNM,Viet Nam,constant,USD million,3595.4277
 2017,VUT,Vanuatu,constant,USD million,8.0308
@@ -364,11 +364,11 @@ year,iso_code,country,prices,units,value
 2017,YEM,"Yemen, Rep.",constant,USD million,107.3191
 2017,ZAF,South Africa,constant,USD million,5122.1523
 2017,ZMB,Zambia,constant,USD million,510.3741
-2017,ZWE,Zimbabwe,constant,USD million,135.9392
+2017,ZWE,Zimbabwe,constant,USD million,138.5443
 2018,AFG,Afghanistan,constant,USD million,37.9275
-2018,AGO,Angola,constant,USD million,10174.1864
+2018,AGO,Angola,constant,USD million,10402.0648
 2018,ALB,Albania,constant,USD million,564.3206
-2018,ARG,Argentina,constant,USD million,32169.134
+2018,ARG,Argentina,constant,USD million,32169.1031
 2018,ARM,Armenia,constant,USD million,288.0396
 2018,AZE,Azerbaijan,constant,USD million,2328.3848
 2018,BDI,Burundi,constant,USD million,12.7034
@@ -384,14 +384,14 @@ year,iso_code,country,prices,units,value
 2018,BTN,Bhutan,constant,USD million,80.122
 2018,BWA,Botswana,constant,USD million,161.8345
 2018,CAF,Central African Republic,constant,USD million,10.4329
-2018,CHN,China,constant,USD million,20985.5462
+2018,CHN,China,constant,USD million,20984.9658
 2018,CIV,Cote d'Ivoire,constant,USD million,1047.4755
 2018,CMR,Cameroon,constant,USD million,547.6266
 2018,COD,"Congo, Dem. Rep.",constant,USD million,207.5946
 2018,COG,"Congo, Rep.",constant,USD million,329.387
-2018,COL,Colombia,constant,USD million,9634.7824
+2018,COL,Colombia,constant,USD million,9634.8032
 2018,COM,Comoros,constant,USD million,2.6477
-2018,CPV,Cabo Verde,constant,USD million,53.3207
+2018,CPV,Cabo Verde,constant,USD million,53.3196
 2018,CRI,Costa Rica,constant,USD million,1595.4214
 2018,DJI,Djibouti,constant,USD million,58.5405
 2018,DMA,Dominica,constant,USD million,31.111
@@ -404,19 +404,19 @@ year,iso_code,country,prices,units,value
 2018,FJI,Fiji,constant,USD million,61.5641
 2018,GAB,Gabon,constant,USD million,629.0846
 2018,GEO,Georgia,constant,USD million,457.9187
-2018,GHA,Ghana,constant,USD million,2096.6726
+2018,GHA,Ghana,constant,USD million,2096.2051
 2018,GIN,Guinea,constant,USD million,106.6443
 2018,GMB,"Gambia, The",constant,USD million,35.8145
 2018,GNB,Guinea-Bissau,constant,USD million,12.9825
 2018,GRD,Grenada,constant,USD million,48.9793
 2018,GTM,Guatemala,constant,USD million,565.4886
 2018,GUY,Guyana,constant,USD million,77.415
-2018,HND,Honduras,constant,USD million,516.1213
+2018,HND,Honduras,constant,USD million,516.0089
 2018,HTI,Haiti,constant,USD million,8.0681
 2018,IDN,Indonesia,constant,USD million,16796.9242
 2018,IND,India,constant,USD million,22634.94
-2018,IRN,"Iran, Islamic Rep.",constant,USD million,209.2056
-2018,IRQ,Iraq,constant,USD million,1600.7894
+2018,IRN,"Iran, Islamic Rep.",constant,USD million,209.7889
+2018,IRQ,Iraq,constant,USD million,1592.3011
 2018,JAM,Jamaica,constant,USD million,985.3809
 2018,JOR,Jordan,constant,USD million,1037.9029
 2018,KAZ,Kazakhstan,constant,USD million,1675.9402
@@ -424,18 +424,18 @@ year,iso_code,country,prices,units,value
 2018,KGZ,Kyrgyz Republic,constant,USD million,141.8854
 2018,KHM,Cambodia,constant,USD million,246.0939
 2018,LAO,Lao PDR,constant,USD million,618.122
-2018,LBN,Lebanon,constant,USD million,4333.5971
+2018,LBN,Lebanon,constant,USD million,4335.7911
 2018,LBR,Liberia,constant,USD million,11.8457
-2018,LCA,St. Lucia,constant,USD million,42.6092
+2018,LCA,St. Lucia,constant,USD million,42.6471
 2018,LKA,Sri Lanka,constant,USD million,4571.9715
-2018,LSO,Lesotho,constant,USD million,51.2341
+2018,LSO,Lesotho,constant,USD million,51.2577
 2018,MAR,Morocco,constant,USD million,2897.0239
 2018,MDA,Moldova,constant,USD million,86.5143
 2018,MDG,Madagascar,constant,USD million,92.5309
-2018,MDV,Maldives,constant,USD million,372.808
+2018,MDV,Maldives,constant,USD million,367.4136
 2018,MEX,Mexico,constant,USD million,31600.6229
 2018,MKD,North Macedonia,constant,USD million,433.9011
-2018,MLI,Mali,constant,USD million,144.2255
+2018,MLI,Mali,constant,USD million,144.225
 2018,MMR,Myanmar,constant,USD million,920.9777
 2018,MNE,Montenegro,constant,USD million,578.1651
 2018,MNG,Mongolia,constant,USD million,888.5413
@@ -445,20 +445,20 @@ year,iso_code,country,prices,units,value
 2018,MWI,Malawi,constant,USD million,55.1632
 2018,NER,Niger,constant,USD million,103.7833
 2018,NGA,Nigeria,constant,USD million,1692.8983
-2018,NIC,Nicaragua,constant,USD million,236.9159
+2018,NIC,Nicaragua,constant,USD million,236.9147
 2018,NPL,Nepal,constant,USD million,186.257
 2018,PAK,Pakistan,constant,USD million,4598.2991
-2018,PER,Peru,constant,USD million,2106.9735
+2018,PER,Peru,constant,USD million,2107.4192
 2018,PHL,Philippines,constant,USD million,5040.5046
 2018,PNG,Papua New Guinea,constant,USD million,177.5232
 2018,PRY,Paraguay,constant,USD million,469.273
-2018,RUS,Russian Federation,constant,USD million,53356.8315
-2018,RWA,Rwanda,constant,USD million,85.1218
-2018,SDN,Sudan,constant,USD million,415.0454
+2018,RUS,Russian Federation,constant,USD million,53356.9789
+2018,RWA,Rwanda,constant,USD million,85.0911
+2018,SDN,Sudan,constant,USD million,413.0928
 2018,SEN,Senegal,constant,USD million,559.2041
 2018,SLB,Solomon Islands,constant,USD million,5.3651
-2018,SLE,Sierra Leone,constant,USD million,42.9458
-2018,SLV,El Salvador,constant,USD million,991.7101
+2018,SLE,Sierra Leone,constant,USD million,42.9437
+2018,SLV,El Salvador,constant,USD million,991.5791
 2018,SOM,Somalia,constant,USD million,0.0
 2018,SRB,Serbia,constant,USD million,2631.4059
 2018,STP,Sao Tome and Principe,constant,USD million,3.0803
@@ -467,17 +467,17 @@ year,iso_code,country,prices,units,value
 2018,SYR,Syrian Arab Republic,constant,USD million,0.0
 2018,TCD,Chad,constant,USD million,162.0688
 2018,TGO,Togo,constant,USD million,77.0565
-2018,THA,Thailand,constant,USD million,1487.4264
+2018,THA,Thailand,constant,USD million,1487.5976
 2018,TJK,Tajikistan,constant,USD million,249.388
 2018,TKM,Turkmenistan,constant,USD million,1697.9359
-2018,TLS,Timor-Leste,constant,USD million,3.1681
-2018,TON,Tonga,constant,USD million,9.5375
-2018,TUN,Tunisia,constant,USD million,2197.309
-2018,TUR,Turkiye,constant,USD million,19938.8034
+2018,TLS,Timor-Leste,constant,USD million,3.2087
+2018,TON,Tonga,constant,USD million,9.6615
+2018,TUN,Tunisia,constant,USD million,2197.2349
+2018,TUR,Turkiye,constant,USD million,19568.2857
 2018,TZA,Tanzania,constant,USD million,972.6468
 2018,UGA,Uganda,constant,USD million,320.6279
-2018,UKR,Ukraine,constant,USD million,3884.7669
-2018,UZB,Uzbekistan,constant,USD million,997.7639
+2018,UKR,Ukraine,constant,USD million,3885.1847
+2018,UZB,Uzbekistan,constant,USD million,896.0047
 2018,VCT,St. Vincent and the Grenadines,constant,USD million,36.3225
 2018,VNM,Viet Nam,constant,USD million,3942.6757
 2018,VUT,Vanuatu,constant,USD million,14.8596
@@ -486,9 +486,9 @@ year,iso_code,country,prices,units,value
 2018,YEM,"Yemen, Rep.",constant,USD million,142.8487
 2018,ZAF,South Africa,constant,USD million,13895.4092
 2018,ZMB,Zambia,constant,USD million,757.5015
-2018,ZWE,Zimbabwe,constant,USD million,53.5713
+2018,ZWE,Zimbabwe,constant,USD million,54.5245
 2019,AFG,Afghanistan,constant,USD million,38.4068
-2019,AGO,Angola,constant,USD million,13138.8521
+2019,AGO,Angola,constant,USD million,13579.3116
 2019,ALB,Albania,constant,USD million,301.9823
 2019,ARG,Argentina,constant,USD million,38936.0
 2019,ARM,Armenia,constant,USD million,714.9006
@@ -505,15 +505,15 @@ year,iso_code,country,prices,units,value
 2019,BRA,Brazil,constant,USD million,40642.4235
 2019,BTN,Bhutan,constant,USD million,54.3875
 2019,BWA,Botswana,constant,USD million,175.838
-2019,CAF,Central African Republic,constant,USD million,14.5857
-2019,CHN,China,constant,USD million,29350.0242
+2019,CAF,Central African Republic,constant,USD million,14.5858
+2019,CHN,China,constant,USD million,29349.2291
 2019,CIV,Cote d'Ivoire,constant,USD million,2407.2568
 2019,CMR,Cameroon,constant,USD million,629.6224
 2019,COD,"Congo, Dem. Rep.",constant,USD million,870.6583
 2019,COG,"Congo, Rep.",constant,USD million,375.1532
-2019,COL,Colombia,constant,USD million,8431.848
+2019,COL,Colombia,constant,USD million,8431.8663
 2019,COM,Comoros,constant,USD million,1.9935
-2019,CPV,Cabo Verde,constant,USD million,57.4784
+2019,CPV,Cabo Verde,constant,USD million,57.4789
 2019,CRI,Costa Rica,constant,USD million,1746.5834
 2019,DJI,Djibouti,constant,USD million,62.6166
 2019,DMA,Dominica,constant,USD million,23.1994
@@ -524,21 +524,21 @@ year,iso_code,country,prices,units,value
 2019,ERI,Eritrea,constant,USD million,24.253
 2019,ETH,Ethiopia,constant,USD million,2000.9464
 2019,FJI,Fiji,constant,USD million,176.2872
-2019,GAB,Gabon,constant,USD million,620.338
+2019,GAB,Gabon,constant,USD million,618.6101
 2019,GEO,Georgia,constant,USD million,533.5029
-2019,GHA,Ghana,constant,USD million,2031.8988
+2019,GHA,Ghana,constant,USD million,2031.9285
 2019,GIN,Guinea,constant,USD million,91.4208
 2019,GMB,"Gambia, The",constant,USD million,34.4887
 2019,GNB,Guinea-Bissau,constant,USD million,15.3699
 2019,GRD,Grenada,constant,USD million,47.9132
 2019,GTM,Guatemala,constant,USD million,736.2688
 2019,GUY,Guyana,constant,USD million,75.5215
-2019,HND,Honduras,constant,USD million,564.1216
+2019,HND,Honduras,constant,USD million,568.3473
 2019,HTI,Haiti,constant,USD million,10.0133
 2019,IDN,Indonesia,constant,USD million,19929.2089
 2019,IND,India,constant,USD million,15651.3368
-2019,IRN,"Iran, Islamic Rep.",constant,USD million,194.7383
-2019,IRQ,Iraq,constant,USD million,1800.0763
+2019,IRN,"Iran, Islamic Rep.",constant,USD million,194.7384
+2019,IRQ,Iraq,constant,USD million,1786.3278
 2019,JAM,Jamaica,constant,USD million,1845.6337
 2019,JOR,Jordan,constant,USD million,2005.8907
 2019,KAZ,Kazakhstan,constant,USD million,2921.3016
@@ -546,18 +546,18 @@ year,iso_code,country,prices,units,value
 2019,KGZ,Kyrgyz Republic,constant,USD million,149.6545
 2019,KHM,Cambodia,constant,USD million,280.4736
 2019,LAO,Lao PDR,constant,USD million,753.6504
-2019,LBN,Lebanon,constant,USD million,4646.012
+2019,LBN,Lebanon,constant,USD million,4649.6001
 2019,LBR,Liberia,constant,USD million,12.7286
-2019,LCA,St. Lucia,constant,USD million,43.4486
+2019,LCA,St. Lucia,constant,USD million,43.4229
 2019,LKA,Sri Lanka,constant,USD million,5419.8661
-2019,LSO,Lesotho,constant,USD million,54.7464
+2019,LSO,Lesotho,constant,USD million,54.854
 2019,MAR,Morocco,constant,USD million,2935.5967
 2019,MDA,Moldova,constant,USD million,95.9685
 2019,MDG,Madagascar,constant,USD million,90.6478
-2019,MDV,Maldives,constant,USD million,400.6455
-2019,MEX,Mexico,constant,USD million,41459.2493
+2019,MDV,Maldives,constant,USD million,394.3632
+2019,MEX,Mexico,constant,USD million,41400.4796
 2019,MKD,North Macedonia,constant,USD million,296.8679
-2019,MLI,Mali,constant,USD million,174.7108
+2019,MLI,Mali,constant,USD million,174.6958
 2019,MMR,Myanmar,constant,USD million,733.9264
 2019,MNE,Montenegro,constant,USD million,472.3412
 2019,MNG,Mongolia,constant,USD million,478.6718
@@ -566,41 +566,41 @@ year,iso_code,country,prices,units,value
 2019,MUS,Mauritius,constant,USD million,180.9447
 2019,MWI,Malawi,constant,USD million,75.5948
 2019,NER,Niger,constant,USD million,121.5622
-2019,NGA,Nigeria,constant,USD million,1579.2675
-2019,NIC,Nicaragua,constant,USD million,304.3069
+2019,NGA,Nigeria,constant,USD million,1491.4738
+2019,NIC,Nicaragua,constant,USD million,304.3054
 2019,NPL,Nepal,constant,USD million,219.9005
 2019,PAK,Pakistan,constant,USD million,10068.8587
-2019,PER,Peru,constant,USD million,2186.9393
+2019,PER,Peru,constant,USD million,2188.9015
 2019,PHL,Philippines,constant,USD million,6861.763
 2019,PNG,Papua New Guinea,constant,USD million,430.2553
 2019,PRY,Paraguay,constant,USD million,575.9095
-2019,RUS,Russian Federation,constant,USD million,34545.8904
-2019,RWA,Rwanda,constant,USD million,94.2879
-2019,SDN,Sudan,constant,USD million,345.2567
+2019,RUS,Russian Federation,constant,USD million,34545.9823
+2019,RWA,Rwanda,constant,USD million,94.1977
+2019,SDN,Sudan,constant,USD million,368.3075
 2019,SEN,Senegal,constant,USD million,766.7105
 2019,SLB,Solomon Islands,constant,USD million,5.7202
-2019,SLE,Sierra Leone,constant,USD million,62.7155
-2019,SLV,El Salvador,constant,USD million,1786.5245
+2019,SLE,Sierra Leone,constant,USD million,61.4504
+2019,SLV,El Salvador,constant,USD million,1786.2914
 2019,SOM,Somalia,constant,USD million,0.0
 2019,SRB,Serbia,constant,USD million,2884.085
-2019,STP,Sao Tome and Principe,constant,USD million,6.0256
+2019,STP,Sao Tome and Principe,constant,USD million,6.0248
 2019,SUR,Suriname,constant,USD million,238.7968
 2019,SWZ,Eswatini,constant,USD million,52.0589
 2019,SYR,Syrian Arab Republic,constant,USD million,0.0
 2019,TCD,Chad,constant,USD million,133.3712
 2019,TGO,Togo,constant,USD million,86.1197
-2019,THA,Thailand,constant,USD million,1738.2704
+2019,THA,Thailand,constant,USD million,1738.094
 2019,TJK,Tajikistan,constant,USD million,255.6546
 2019,TKM,Turkmenistan,constant,USD million,1813.2502
-2019,TLS,Timor-Leste,constant,USD million,5.5837
-2019,TON,Tonga,constant,USD million,5.2027
-2019,TUN,Tunisia,constant,USD million,2948.5963
-2019,TUR,Turkiye,constant,USD million,24215.5285
+2019,TLS,Timor-Leste,constant,USD million,6.7906
+2019,TON,Tonga,constant,USD million,5.4247
+2019,TUN,Tunisia,constant,USD million,2947.4132
+2019,TUR,Turkiye,constant,USD million,24303.345
 2019,TZA,Tanzania,constant,USD million,1198.9561
-2019,UGA,Uganda,constant,USD million,271.4785
-2019,UKR,Ukraine,constant,USD million,3155.6559
-2019,UZB,Uzbekistan,constant,USD million,1209.4817
-2019,VCT,St. Vincent and the Grenadines,constant,USD million,34.2674
+2019,UGA,Uganda,constant,USD million,271.4722
+2019,UKR,Ukraine,constant,USD million,3153.7107
+2019,UZB,Uzbekistan,constant,USD million,1088.3458
+2019,VCT,St. Vincent and the Grenadines,constant,USD million,34.3038
 2019,VNM,Viet Nam,constant,USD million,4175.2443
 2019,VUT,Vanuatu,constant,USD million,8.498
 2019,WSM,Samoa,constant,USD million,27.6636
@@ -608,12 +608,12 @@ year,iso_code,country,prices,units,value
 2019,YEM,"Yemen, Rep.",constant,USD million,144.22
 2019,ZAF,South Africa,constant,USD million,7085.9021
 2019,ZMB,Zambia,constant,USD million,1117.2078
-2019,ZWE,Zimbabwe,constant,USD million,55.2841
+2019,ZWE,Zimbabwe,constant,USD million,55.2566
 2020,AFG,Afghanistan,constant,USD million,30.7815
-2020,AGO,Angola,constant,USD million,12740.1133
+2020,AGO,Angola,constant,USD million,12883.6806
 2020,ALB,Albania,constant,USD million,522.8972
-2020,ARG,Argentina,constant,USD million,15425.8714
-2020,ARM,Armenia,constant,USD million,454.2359
+2020,ARG,Argentina,constant,USD million,15425.8643
+2020,ARM,Armenia,constant,USD million,454.4599
 2020,AZE,Azerbaijan,constant,USD million,1635.1292
 2020,BDI,Burundi,constant,USD million,14.7532
 2020,BEN,Benin,constant,USD million,197.792
@@ -627,15 +627,15 @@ year,iso_code,country,prices,units,value
 2020,BRA,Brazil,constant,USD million,36840.0977
 2020,BTN,Bhutan,constant,USD million,46.2252
 2020,BWA,Botswana,constant,USD million,167.4967
-2020,CAF,Central African Republic,constant,USD million,3.4589
-2020,CHN,China,constant,USD million,33415.8616
+2020,CAF,Central African Republic,constant,USD million,3.4575
+2020,CHN,China,constant,USD million,33414.9678
 2020,CIV,Cote d'Ivoire,constant,USD million,1737.7886
 2020,CMR,Cameroon,constant,USD million,877.9973
 2020,COD,"Congo, Dem. Rep.",constant,USD million,206.8669
 2020,COG,"Congo, Rep.",constant,USD million,546.7124
-2020,COL,Colombia,constant,USD million,7807.1888
+2020,COL,Colombia,constant,USD million,7807.2619
 2020,COM,Comoros,constant,USD million,2.9761
-2020,CPV,Cabo Verde,constant,USD million,54.284
+2020,CPV,Cabo Verde,constant,USD million,54.2545
 2020,CRI,Costa Rica,constant,USD million,1602.3034
 2020,DJI,Djibouti,constant,USD million,51.3197
 2020,DMA,Dominica,constant,USD million,24.0281
@@ -646,39 +646,39 @@ year,iso_code,country,prices,units,value
 2020,ERI,Eritrea,constant,USD million,0.0
 2020,ETH,Ethiopia,constant,USD million,1906.9499
 2020,FJI,Fiji,constant,USD million,249.4444
-2020,GAB,Gabon,constant,USD million,1390.9219
+2020,GAB,Gabon,constant,USD million,1388.4702
 2020,GEO,Georgia,constant,USD million,1011.4945
-2020,GHA,Ghana,constant,USD million,2197.6057
+2020,GHA,Ghana,constant,USD million,2197.6999
 2020,GIN,Guinea,constant,USD million,70.3608
 2020,GMB,"Gambia, The",constant,USD million,27.9031
 2020,GNB,Guinea-Bissau,constant,USD million,21.1461
 2020,GRD,Grenada,constant,USD million,41.5689
-2020,GTM,Guatemala,constant,USD million,948.6208
+2020,GTM,Guatemala,constant,USD million,948.6337
 2020,GUY,Guyana,constant,USD million,101.6801
-2020,HND,Honduras,constant,USD million,1046.0964
+2020,HND,Honduras,constant,USD million,1066.4318
 2020,HTI,Haiti,constant,USD million,10.044
 2020,IDN,Indonesia,constant,USD million,27203.9376
 2020,IND,India,constant,USD million,24629.8941
 2020,IRN,"Iran, Islamic Rep.",constant,USD million,229.3919
-2020,IRQ,Iraq,constant,USD million,2934.6936
+2020,IRQ,Iraq,constant,USD million,2933.0255
 2020,JAM,Jamaica,constant,USD million,1035.6887
 2020,JOR,Jordan,constant,USD million,2175.8641
 2020,KAZ,Kazakhstan,constant,USD million,2498.6199
 2020,KEN,Kenya,constant,USD million,2056.1975
 2020,KGZ,Kyrgyz Republic,constant,USD million,160.0367
-2020,KHM,Cambodia,constant,USD million,331.1505
+2020,KHM,Cambodia,constant,USD million,329.0913
 2020,LAO,Lao PDR,constant,USD million,631.1175
-2020,LBN,Lebanon,constant,USD million,499.1505
+2020,LBN,Lebanon,constant,USD million,499.0289
 2020,LBR,Liberia,constant,USD million,23.7341
-2020,LCA,St. Lucia,constant,USD million,42.3027
-2020,LKA,Sri Lanka,constant,USD million,4777.2941
-2020,LSO,Lesotho,constant,USD million,56.4108
-2020,MAR,Morocco,constant,USD million,4061.2912
+2020,LCA,St. Lucia,constant,USD million,42.3559
+2020,LKA,Sri Lanka,constant,USD million,4785.068
+2020,LSO,Lesotho,constant,USD million,56.5451
+2020,MAR,Morocco,constant,USD million,4061.2947
 2020,MDA,Moldova,constant,USD million,101.967
 2020,MDG,Madagascar,constant,USD million,97.5484
-2020,MDV,Maldives,constant,USD million,258.8139
-2020,MEX,Mexico,constant,USD million,43772.2114
-2020,MKD,North Macedonia,constant,USD million,635.1117
+2020,MDV,Maldives,constant,USD million,262.3963
+2020,MEX,Mexico,constant,USD million,43839.6049
+2020,MKD,North Macedonia,constant,USD million,635.1159
 2020,MLI,Mali,constant,USD million,208.6884
 2020,MMR,Myanmar,constant,USD million,520.4198
 2020,MNE,Montenegro,constant,USD million,529.8464
@@ -686,56 +686,56 @@ year,iso_code,country,prices,units,value
 2020,MOZ,Mozambique,constant,USD million,807.6893
 2020,MRT,Mauritania,constant,USD million,227.8699
 2020,MUS,Mauritius,constant,USD million,382.4606
-2020,MWI,Malawi,constant,USD million,65.2738
+2020,MWI,Malawi,constant,USD million,65.3388
 2020,NER,Niger,constant,USD million,158.5796
-2020,NGA,Nigeria,constant,USD million,1821.8571
-2020,NIC,Nicaragua,constant,USD million,352.1889
+2020,NGA,Nigeria,constant,USD million,1807.9926
+2020,NIC,Nicaragua,constant,USD million,352.1872
 2020,NPL,Nepal,constant,USD million,231.1151
 2020,PAK,Pakistan,constant,USD million,9418.8944
-2020,PER,Peru,constant,USD million,1138.1149
+2020,PER,Peru,constant,USD million,1140.5486
 2020,PHL,Philippines,constant,USD million,5601.4792
 2020,PNG,Papua New Guinea,constant,USD million,992.2135
 2020,PRY,Paraguay,constant,USD million,656.2175
-2020,RUS,Russian Federation,constant,USD million,57503.3278
-2020,RWA,Rwanda,constant,USD million,120.3754
-2020,SDN,Sudan,constant,USD million,256.4363
+2020,RUS,Russian Federation,constant,USD million,57503.5571
+2020,RWA,Rwanda,constant,USD million,120.3065
+2020,SDN,Sudan,constant,USD million,250.826
 2020,SEN,Senegal,constant,USD million,752.4558
 2020,SLB,Solomon Islands,constant,USD million,5.8987
-2020,SLE,Sierra Leone,constant,USD million,62.6973
-2020,SLV,El Salvador,constant,USD million,996.0878
-2020,SOM,Somalia,constant,USD million,401.8039
+2020,SLE,Sierra Leone,constant,USD million,60.1495
+2020,SLV,El Salvador,constant,USD million,996.0433
+2020,SOM,Somalia,constant,USD million,417.9072
 2020,SRB,Serbia,constant,USD million,2285.3685
-2020,STP,Sao Tome and Principe,constant,USD million,1.6186
+2020,STP,Sao Tome and Principe,constant,USD million,1.618
 2020,SUR,Suriname,constant,USD million,151.6771
 2020,SWZ,Eswatini,constant,USD million,64.281
 2020,SYR,Syrian Arab Republic,constant,USD million,0.0
 2020,TCD,Chad,constant,USD million,186.5926
 2020,TGO,Togo,constant,USD million,82.3338
-2020,THA,Thailand,constant,USD million,5916.6911
+2020,THA,Thailand,constant,USD million,5914.5641
 2020,TJK,Tajikistan,constant,USD million,219.528
 2020,TKM,Turkmenistan,constant,USD million,1739.4011
-2020,TLS,Timor-Leste,constant,USD million,5.5932
-2020,TON,Tonga,constant,USD million,5.9725
-2020,TUN,Tunisia,constant,USD million,2541.1407
-2020,TUR,Turkiye,constant,USD million,25686.5818
+2020,TLS,Timor-Leste,constant,USD million,7.6521
+2020,TON,Tonga,constant,USD million,6.018
+2020,TUN,Tunisia,constant,USD million,2532.1973
+2020,TUR,Turkiye,constant,USD million,25884.7051
 2020,TZA,Tanzania,constant,USD million,1224.4156
-2020,UGA,Uganda,constant,USD million,305.8508
-2020,UKR,Ukraine,constant,USD million,4303.4013
-2020,UZB,Uzbekistan,constant,USD million,1482.3113
-2020,VCT,St. Vincent and the Grenadines,constant,USD million,30.3324
+2020,UGA,Uganda,constant,USD million,305.8812
+2020,UKR,Ukraine,constant,USD million,4305.8113
+2020,UZB,Uzbekistan,constant,USD million,1343.8921
+2020,VCT,St. Vincent and the Grenadines,constant,USD million,30.2976
 2020,VNM,Viet Nam,constant,USD million,4732.9046
 2020,VUT,Vanuatu,constant,USD million,11.98
 2020,WSM,Samoa,constant,USD million,22.8489
 2020,XKX,Kosovo,constant,USD million,35.0951
 2020,YEM,"Yemen, Rep.",constant,USD million,146.2636
-2020,ZAF,South Africa,constant,USD million,11108.1206
+2020,ZAF,South Africa,constant,USD million,11094.3033
 2020,ZMB,Zambia,constant,USD million,942.5676
-2020,ZWE,Zimbabwe,constant,USD million,30.4589
-2021,AFG,Afghanistan,constant,USD million,24.8442
-2021,AGO,Angola,constant,USD million,12555.3216
+2020,ZWE,Zimbabwe,constant,USD million,30.412
+2021,AFG,Afghanistan,constant,USD million,24.8617
+2021,AGO,Angola,constant,USD million,13231.5807
 2021,ALB,Albania,constant,USD million,358.1182
-2021,ARG,Argentina,constant,USD million,7280.6347
-2021,ARM,Armenia,constant,USD million,355.6063
+2021,ARG,Argentina,constant,USD million,7282.452
+2021,ARM,Armenia,constant,USD million,356.0718
 2021,AZE,Azerbaijan,constant,USD million,1787.4775
 2021,BDI,Burundi,constant,USD million,18.5164
 2021,BEN,Benin,constant,USD million,649.6337
@@ -745,19 +745,19 @@ year,iso_code,country,prices,units,value
 2021,BIH,Bosnia and Herzegovina,constant,USD million,393.1914
 2021,BLR,Belarus,constant,USD million,2452.3803
 2021,BLZ,Belize,constant,USD million,583.6919
-2021,BOL,Bolivia,constant,USD million,732.7427
+2021,BOL,Bolivia,constant,USD million,732.7769
 2021,BRA,Brazil,constant,USD million,31866.0885
 2021,BTN,Bhutan,constant,USD million,109.5079
-2021,BWA,Botswana,constant,USD million,131.5137
-2021,CAF,Central African Republic,constant,USD million,5.2697
-2021,CHN,China,constant,USD million,45164.0004
+2021,BWA,Botswana,constant,USD million,131.4749
+2021,CAF,Central African Republic,constant,USD million,5.2676
+2021,CHN,China,constant,USD million,45162.827
 2021,CIV,Cote d'Ivoire,constant,USD million,1124.5287
-2021,CMR,Cameroon,constant,USD million,687.4387
-2021,COD,"Congo, Dem. Rep.",constant,USD million,263.6513
+2021,CMR,Cameroon,constant,USD million,688.7814
+2021,COD,"Congo, Dem. Rep.",constant,USD million,265.9746
 2021,COG,"Congo, Rep.",constant,USD million,287.679
-2021,COL,Colombia,constant,USD million,13852.7951
+2021,COL,Colombia,constant,USD million,13852.8251
 2021,COM,Comoros,constant,USD million,1.3894
-2021,CPV,Cabo Verde,constant,USD million,48.2237
+2021,CPV,Cabo Verde,constant,USD million,47.5863
 2021,CRI,Costa Rica,constant,USD million,1526.6793
 2021,DJI,Djibouti,constant,USD million,45.9363
 2021,DMA,Dominica,constant,USD million,15.4784
@@ -768,38 +768,38 @@ year,iso_code,country,prices,units,value
 2021,ERI,Eritrea,constant,USD million,0.0
 2021,ETH,Ethiopia,constant,USD million,2014.9641
 2021,FJI,Fiji,constant,USD million,22.962
-2021,GAB,Gabon,constant,USD million,851.9309
+2021,GAB,Gabon,constant,USD million,885.8245
 2021,GEO,Georgia,constant,USD million,1200.8711
 2021,GHA,Ghana,constant,USD million,2443.6698
 2021,GIN,Guinea,constant,USD million,92.5906
 2021,GMB,"Gambia, The",constant,USD million,28.7435
-2021,GNB,Guinea-Bissau,constant,USD million,37.8721
+2021,GNB,Guinea-Bissau,constant,USD million,37.8668
 2021,GRD,Grenada,constant,USD million,41.732
-2021,GTM,Guatemala,constant,USD million,775.612
+2021,GTM,Guatemala,constant,USD million,772.0585
 2021,GUY,Guyana,constant,USD million,90.5826
-2021,HND,Honduras,constant,USD million,478.3192
+2021,HND,Honduras,constant,USD million,483.9049
 2021,HTI,Haiti,constant,USD million,10.4163
 2021,IDN,Indonesia,constant,USD million,34052.8968
 2021,IND,India,constant,USD million,14224.036
 2021,IRN,"Iran, Islamic Rep.",constant,USD million,153.8278
-2021,IRQ,Iraq,constant,USD million,3023.5052
+2021,IRQ,Iraq,constant,USD million,2973.6453
 2021,JAM,Jamaica,constant,USD million,995.6532
 2021,JOR,Jordan,constant,USD million,2431.7462
 2021,KAZ,Kazakhstan,constant,USD million,1493.7383
 2021,KEN,Kenya,constant,USD million,1718.8663
 2021,KGZ,Kyrgyz Republic,constant,USD million,131.3635
-2021,KHM,Cambodia,constant,USD million,358.5883
+2021,KHM,Cambodia,constant,USD million,353.7353
 2021,LAO,Lao PDR,constant,USD million,668.5651
-2021,LBN,Lebanon,constant,USD million,379.6179
+2021,LBN,Lebanon,constant,USD million,454.0502
 2021,LBR,Liberia,constant,USD million,17.7286
-2021,LCA,St. Lucia,constant,USD million,39.9487
-2021,LKA,Sri Lanka,constant,USD million,4489.4607
-2021,LSO,Lesotho,constant,USD million,245.3463
-2021,MAR,Morocco,constant,USD million,3948.7295
+2021,LCA,St. Lucia,constant,USD million,39.1091
+2021,LKA,Sri Lanka,constant,USD million,4516.5083
+2021,LSO,Lesotho,constant,USD million,245.9515
+2021,MAR,Morocco,constant,USD million,3947.9373
 2021,MDA,Moldova,constant,USD million,111.098
 2021,MDG,Madagascar,constant,USD million,114.5554
-2021,MDV,Maldives,constant,USD million,692.0323
-2021,MEX,Mexico,constant,USD million,48974.7267
+2021,MDV,Maldives,constant,USD million,715.3199
+2021,MEX,Mexico,constant,USD million,49193.9079
 2021,MKD,North Macedonia,constant,USD million,762.671
 2021,MLI,Mali,constant,USD million,222.5231
 2021,MMR,Myanmar,constant,USD million,819.0366
@@ -808,57 +808,57 @@ year,iso_code,country,prices,units,value
 2021,MOZ,Mozambique,constant,USD million,637.904
 2021,MRT,Mauritania,constant,USD million,310.4491
 2021,MUS,Mauritius,constant,USD million,195.402
-2021,MWI,Malawi,constant,USD million,72.8956
-2021,NER,Niger,constant,USD million,165.6067
-2021,NGA,Nigeria,constant,USD million,3103.7956
-2021,NIC,Nicaragua,constant,USD million,370.3259
+2021,MWI,Malawi,constant,USD million,72.968
+2021,NER,Niger,constant,USD million,165.5445
+2021,NGA,Nigeria,constant,USD million,3102.3338
+2021,NIC,Nicaragua,constant,USD million,370.3241
 2021,NPL,Nepal,constant,USD million,234.4899
 2021,PAK,Pakistan,constant,USD million,10450.799
-2021,PER,Peru,constant,USD million,1464.0877
+2021,PER,Peru,constant,USD million,1468.1674
 2021,PHL,Philippines,constant,USD million,7458.9769
 2021,PNG,Papua New Guinea,constant,USD million,586.1883
 2021,PRY,Paraguay,constant,USD million,963.8687
-2021,RUS,Russian Federation,constant,USD million,27750.7294
-2021,RWA,Rwanda,constant,USD million,500.0008
-2021,SDN,Sudan,constant,USD million,3044.8792
+2021,RUS,Russian Federation,constant,USD million,27719.1589
+2021,RWA,Rwanda,constant,USD million,499.0896
+2021,SDN,Sudan,constant,USD million,3014.7318
 2021,SEN,Senegal,constant,USD million,1276.4652
-2021,SLB,Solomon Islands,constant,USD million,6.4329
-2021,SLE,Sierra Leone,constant,USD million,65.5328
-2021,SLV,El Salvador,constant,USD million,1014.638
-2021,SOM,Somalia,constant,USD million,13.436
+2021,SLB,Solomon Islands,constant,USD million,6.2893
+2021,SLE,Sierra Leone,constant,USD million,62.4387
+2021,SLV,El Salvador,constant,USD million,1014.6514
+2021,SOM,Somalia,constant,USD million,13.6095
 2021,SRB,Serbia,constant,USD million,1642.2251
-2021,STP,Sao Tome and Principe,constant,USD million,1.554
+2021,STP,Sao Tome and Principe,constant,USD million,1.5534
 2021,SUR,Suriname,constant,USD million,126.7814
 2021,SWZ,Eswatini,constant,USD million,62.7552
 2021,SYR,Syrian Arab Republic,constant,USD million,0.0
-2021,TCD,Chad,constant,USD million,289.7223
+2021,TCD,Chad,constant,USD million,291.7941
 2021,TGO,Togo,constant,USD million,97.2162
-2021,THA,Thailand,constant,USD million,1339.2
+2021,THA,Thailand,constant,USD million,1338.8204
 2021,TJK,Tajikistan,constant,USD million,293.9325
 2021,TKM,Turkmenistan,constant,USD million,1166.6563
-2021,TLS,Timor-Leste,constant,USD million,4.0466
-2021,TON,Tonga,constant,USD million,4.8406
-2021,TUN,Tunisia,constant,USD million,3501.2401
-2021,TUR,Turkiye,constant,USD million,30487.4017
+2021,TLS,Timor-Leste,constant,USD million,9.3953
+2021,TON,Tonga,constant,USD million,4.6017
+2021,TUN,Tunisia,constant,USD million,3480.1763
+2021,TUR,Turkiye,constant,USD million,30988.1374
 2021,TZA,Tanzania,constant,USD million,1536.2381
-2021,UGA,Uganda,constant,USD million,552.4266
-2021,UKR,Ukraine,constant,USD million,2569.6926
-2021,UZB,Uzbekistan,constant,USD million,1823.7708
-2021,VCT,St. Vincent and the Grenadines,constant,USD million,28.6471
+2021,UGA,Uganda,constant,USD million,552.1486
+2021,UKR,Ukraine,constant,USD million,2569.5744
+2021,UZB,Uzbekistan,constant,USD million,1651.2949
+2021,VCT,St. Vincent and the Grenadines,constant,USD million,28.3132
 2021,VNM,Viet Nam,constant,USD million,4005.6331
 2021,VUT,Vanuatu,constant,USD million,15.1334
 2021,WSM,Samoa,constant,USD million,13.9016
 2021,XKX,Kosovo,constant,USD million,37.0658
 2021,YEM,"Yemen, Rep.",constant,USD million,160.284
-2021,ZAF,South Africa,constant,USD million,9548.2012
+2021,ZAF,South Africa,constant,USD million,9532.8142
 2021,ZMB,Zambia,constant,USD million,450.676
-2021,ZWE,Zimbabwe,constant,USD million,63.4709
-2022,AFG,Afghanistan,constant,USD million,14.3735
-2022,AGO,Angola,constant,USD million,7711.0399
-2022,ALB,Albania,constant,USD million,308.4206
-2022,ARG,Argentina,constant,USD million,8196.5182
-2022,ARM,Armenia,constant,USD million,304.7472
-2022,AZE,Azerbaijan,constant,USD million,1018.9504
+2021,ZWE,Zimbabwe,constant,USD million,63.3942
+2022,AFG,Afghanistan,constant,USD million,14.3398
+2022,AGO,Angola,constant,USD million,8016.0779
+2022,ALB,Albania,constant,USD million,308.4566
+2022,ARG,Argentina,constant,USD million,8179.0193
+2022,ARM,Armenia,constant,USD million,305.0502
+2022,AZE,Azerbaijan,constant,USD million,1019.1841
 2022,BDI,Burundi,constant,USD million,22.0731
 2022,BEN,Benin,constant,USD million,438.0607
 2022,BFA,Burkina Faso,constant,USD million,161.0432
@@ -866,478 +866,478 @@ year,iso_code,country,prices,units,value
 2022,BGR,Bulgaria,constant,USD million,1321.4314
 2022,BIH,Bosnia and Herzegovina,constant,USD million,358.6059
 2022,BLR,Belarus,constant,USD million,2794.4195
-2022,BLZ,Belize,constant,USD million,63.5095
-2022,BOL,Bolivia,constant,USD million,1575.4696
+2022,BLZ,Belize,constant,USD million,64.1311
+2022,BOL,Bolivia,constant,USD million,1574.9701
 2022,BRA,Brazil,constant,USD million,30099.518
 2022,BTN,Bhutan,constant,USD million,104.5084
-2022,BWA,Botswana,constant,USD million,136.8672
-2022,CAF,Central African Republic,constant,USD million,5.9171
-2022,CHN,China,constant,USD million,66961.2766
-2022,CIV,Cote d'Ivoire,constant,USD million,1552.4848
-2022,CMR,Cameroon,constant,USD million,1505.2674
-2022,COD,"Congo, Dem. Rep.",constant,USD million,524.5648
-2022,COG,"Congo, Rep.",constant,USD million,601.0077
-2022,COL,Colombia,constant,USD million,9035.0971
+2022,BWA,Botswana,constant,USD million,136.747
+2022,CAF,Central African Republic,constant,USD million,5.9147
+2022,CHN,China,constant,USD million,66934.5524
+2022,CIV,Cote d'Ivoire,constant,USD million,1580.9179
+2022,CMR,Cameroon,constant,USD million,1500.6924
+2022,COD,"Congo, Dem. Rep.",constant,USD million,525.0755
+2022,COG,"Congo, Rep.",constant,USD million,601.0371
+2022,COL,Colombia,constant,USD million,9035.1167
 2022,COM,Comoros,constant,USD million,1.5507
-2022,CPV,Cabo Verde,constant,USD million,89.5623
+2022,CPV,Cabo Verde,constant,USD million,88.5309
 2022,CRI,Costa Rica,constant,USD million,1162.9925
 2022,DJI,Djibouti,constant,USD million,46.3907
-2022,DMA,Dominica,constant,USD million,24.1677
+2022,DMA,Dominica,constant,USD million,24.1493
 2022,DOM,Dominican Republic,constant,USD million,2725.2399
 2022,DZA,Algeria,constant,USD million,114.8586
 2022,ECU,Ecuador,constant,USD million,2947.4217
 2022,EGY,"Egypt, Arab Rep.",constant,USD million,14885.6026
 2022,ERI,Eritrea,constant,USD million,0.0
-2022,ETH,Ethiopia,constant,USD million,1770.7917
-2022,FJI,Fiji,constant,USD million,102.6704
-2022,GAB,Gabon,constant,USD million,370.0902
+2022,ETH,Ethiopia,constant,USD million,1770.8628
+2022,FJI,Fiji,constant,USD million,102.6858
+2022,GAB,Gabon,constant,USD million,380.7704
 2022,GEO,Georgia,constant,USD million,422.3933
-2022,GHA,Ghana,constant,USD million,1831.3136
+2022,GHA,Ghana,constant,USD million,1801.7321
 2022,GIN,Guinea,constant,USD million,136.902
 2022,GMB,"Gambia, The",constant,USD million,26.645
-2022,GNB,Guinea-Bissau,constant,USD million,55.5818
+2022,GNB,Guinea-Bissau,constant,USD million,55.5932
 2022,GRD,Grenada,constant,USD million,41.3225
-2022,GTM,Guatemala,constant,USD million,1312.7825
+2022,GTM,Guatemala,constant,USD million,1305.6589
 2022,GUY,Guyana,constant,USD million,81.696
-2022,HND,Honduras,constant,USD million,571.0091
+2022,HND,Honduras,constant,USD million,576.2977
 2022,HTI,Haiti,constant,USD million,22.0113
 2022,IDN,Indonesia,constant,USD million,30323.8127
 2022,IND,India,constant,USD million,15599.5723
-2022,IRN,"Iran, Islamic Rep.",constant,USD million,82.9927
-2022,IRQ,Iraq,constant,USD million,3470.952
+2022,IRN,"Iran, Islamic Rep.",constant,USD million,76.6384
+2022,IRQ,Iraq,constant,USD million,3184.7556
 2022,JAM,Jamaica,constant,USD million,940.1616
 2022,JOR,Jordan,constant,USD million,3261.1749
 2022,KAZ,Kazakhstan,constant,USD million,2885.1647
-2022,KEN,Kenya,constant,USD million,2477.33
-2022,KGZ,Kyrgyz Republic,constant,USD million,171.8292
-2022,KHM,Cambodia,constant,USD million,414.6399
+2022,KEN,Kenya,constant,USD million,2455.3581
+2022,KGZ,Kyrgyz Republic,constant,USD million,167.5202
+2022,KHM,Cambodia,constant,USD million,406.5736
 2022,LAO,Lao PDR,constant,USD million,530.9862
-2022,LBN,Lebanon,constant,USD million,205.0229
+2022,LBN,Lebanon,constant,USD million,212.5072
 2022,LBR,Liberia,constant,USD million,25.7286
-2022,LCA,St. Lucia,constant,USD million,41.5633
-2022,LKA,Sri Lanka,constant,USD million,2380.1625
-2022,LSO,Lesotho,constant,USD million,247.7076
-2022,MAR,Morocco,constant,USD million,4471.2929
+2022,LCA,St. Lucia,constant,USD million,41.9018
+2022,LKA,Sri Lanka,constant,USD million,2416.9505
+2022,LSO,Lesotho,constant,USD million,254.5897
+2022,MAR,Morocco,constant,USD million,4487.3786
 2022,MDA,Moldova,constant,USD million,83.8557
-2022,MDG,Madagascar,constant,USD million,119.8897
-2022,MDV,Maldives,constant,USD million,555.4515
-2022,MEX,Mexico,constant,USD million,21536.0188
+2022,MDG,Madagascar,constant,USD million,121.078
+2022,MDV,Maldives,constant,USD million,565.1443
+2022,MEX,Mexico,constant,USD million,21578.0745
 2022,MKD,North Macedonia,constant,USD million,285.7537
-2022,MLI,Mali,constant,USD million,259.5957
+2022,MLI,Mali,constant,USD million,265.2919
 2022,MMR,Myanmar,constant,USD million,991.0206
 2022,MNE,Montenegro,constant,USD million,313.4967
 2022,MNG,Mongolia,constant,USD million,1175.0187
-2022,MOZ,Mozambique,constant,USD million,707.0554
-2022,MRT,Mauritania,constant,USD million,255.444
-2022,MUS,Mauritius,constant,USD million,190.7342
-2022,MWI,Malawi,constant,USD million,90.87
-2022,NER,Niger,constant,USD million,235.8118
-2022,NGA,Nigeria,constant,USD million,3266.6483
-2022,NIC,Nicaragua,constant,USD million,402.6082
-2022,NPL,Nepal,constant,USD million,250.5771
-2022,PAK,Pakistan,constant,USD million,14596.5438
-2022,PER,Peru,constant,USD million,2089.249
-2022,PHL,Philippines,constant,USD million,5553.9868
+2022,MOZ,Mozambique,constant,USD million,689.2264
+2022,MRT,Mauritania,constant,USD million,262.7843
+2022,MUS,Mauritius,constant,USD million,191.0436
+2022,MWI,Malawi,constant,USD million,90.9972
+2022,NER,Niger,constant,USD million,235.4844
+2022,NGA,Nigeria,constant,USD million,3272.8734
+2022,NIC,Nicaragua,constant,USD million,402.6063
+2022,NPL,Nepal,constant,USD million,248.4596
+2022,PAK,Pakistan,constant,USD million,14594.1748
+2022,PER,Peru,constant,USD million,2102.7008
+2022,PHL,Philippines,constant,USD million,5553.585
 2022,PNG,Papua New Guinea,constant,USD million,292.2242
 2022,PRY,Paraguay,constant,USD million,1005.2572
-2022,RUS,Russian Federation,constant,USD million,29628.6621
-2022,RWA,Rwanda,constant,USD million,161.8489
-2022,SDN,Sudan,constant,USD million,308.4042
+2022,RUS,Russian Federation,constant,USD million,29612.084
+2022,RWA,Rwanda,constant,USD million,161.6868
+2022,SDN,Sudan,constant,USD million,310.6307
 2022,SEN,Senegal,constant,USD million,927.6837
-2022,SLB,Solomon Islands,constant,USD million,5.8869
-2022,SLE,Sierra Leone,constant,USD million,81.9094
-2022,SLV,El Salvador,constant,USD million,1553.0905
-2022,SOM,Somalia,constant,USD million,12.0085
+2022,SLB,Solomon Islands,constant,USD million,5.8643
+2022,SLE,Sierra Leone,constant,USD million,77.0503
+2022,SLV,El Salvador,constant,USD million,1553.0755
+2022,SOM,Somalia,constant,USD million,12.0083
 2022,SRB,Serbia,constant,USD million,1190.0002
-2022,STP,Sao Tome and Principe,constant,USD million,4.1025
+2022,STP,Sao Tome and Principe,constant,USD million,4.1216
 2022,SUR,Suriname,constant,USD million,105.2924
 2022,SWZ,Eswatini,constant,USD million,53.7296
 2022,SYR,Syrian Arab Republic,constant,USD million,0.0
-2022,TCD,Chad,constant,USD million,201.1194
+2022,TCD,Chad,constant,USD million,204.1006
 2022,TGO,Togo,constant,USD million,172.8583
-2022,THA,Thailand,constant,USD million,1457.6939
+2022,THA,Thailand,constant,USD million,1457.4078
 2022,TJK,Tajikistan,constant,USD million,326.0428
 2022,TKM,Turkmenistan,constant,USD million,651.3664
-2022,TLS,Timor-Leste,constant,USD million,7.1792
-2022,TON,Tonga,constant,USD million,10.0243
-2022,TUN,Tunisia,constant,USD million,2952.3863
-2022,TUR,Turkiye,constant,USD million,28203.2762
-2022,TZA,Tanzania,constant,USD million,1480.1281
-2022,UGA,Uganda,constant,USD million,590.3849
-2022,UKR,Ukraine,constant,USD million,1074.2445
-2022,UZB,Uzbekistan,constant,USD million,1901.5442
-2022,VCT,St. Vincent and the Grenadines,constant,USD million,32.9169
+2022,TLS,Timor-Leste,constant,USD million,13.7616
+2022,TON,Tonga,constant,USD million,9.9545
+2022,TUN,Tunisia,constant,USD million,3054.7431
+2022,TUR,Turkiye,constant,USD million,28301.9226
+2022,TZA,Tanzania,constant,USD million,1479.0142
+2022,UGA,Uganda,constant,USD million,591.9347
+2022,UKR,Ukraine,constant,USD million,1076.9891
+2022,UZB,Uzbekistan,constant,USD million,1728.3326
+2022,VCT,St. Vincent and the Grenadines,constant,USD million,31.0483
 2022,VNM,Viet Nam,constant,USD million,3835.6608
 2022,VUT,Vanuatu,constant,USD million,16.4596
 2022,WSM,Samoa,constant,USD million,32.5635
-2022,XKX,Kosovo,constant,USD million,42.7691
+2022,XKX,Kosovo,constant,USD million,42.6784
 2022,YEM,"Yemen, Rep.",constant,USD million,128.8681
-2022,ZAF,South Africa,constant,USD million,11837.7363
+2022,ZAF,South Africa,constant,USD million,11792.3912
 2022,ZMB,Zambia,constant,USD million,391.3228
-2022,ZWE,Zimbabwe,constant,USD million,22.7402
-2023,AFG,Afghanistan,constant,USD million,0.0
-2023,AGO,Angola,constant,USD million,14038.1557
-2023,ALB,Albania,constant,USD million,388.0116
-2023,ARG,Argentina,constant,USD million,31591.9328
-2023,ARM,Armenia,constant,USD million,347.5258
-2023,AZE,Azerbaijan,constant,USD million,1252.4622
-2023,BDI,Burundi,constant,USD million,35.5704
-2023,BEN,Benin,constant,USD million,614.5858
-2023,BFA,Burkina Faso,constant,USD million,291.8631
-2023,BGD,Bangladesh,constant,USD million,4296.4942
+2022,ZWE,Zimbabwe,constant,USD million,21.7727
+2023,AFG,Afghanistan,constant,USD million,126.0046
+2023,AGO,Angola,constant,USD million,14590.469
+2023,ALB,Albania,constant,USD million,387.2926
+2023,ARG,Argentina,constant,USD million,32052.9415
+2023,ARM,Armenia,constant,USD million,347.5927
+2023,AZE,Azerbaijan,constant,USD million,1328.6749
+2023,BDI,Burundi,constant,USD million,35.3607
+2023,BEN,Benin,constant,USD million,609.2247
+2023,BFA,Burkina Faso,constant,USD million,291.8575
+2023,BGD,Bangladesh,constant,USD million,4237.122
 2023,BGR,Bulgaria,constant,USD million,1171.4311
-2023,BIH,Bosnia and Herzegovina,constant,USD million,637.0039
-2023,BLR,Belarus,constant,USD million,3860.7473
-2023,BLZ,Belize,constant,USD million,130.2273
-2023,BOL,Bolivia,constant,USD million,1154.1713
+2023,BIH,Bosnia and Herzegovina,constant,USD million,640.0121
+2023,BLR,Belarus,constant,USD million,3863.1939
+2023,BLZ,Belize,constant,USD million,127.9539
+2023,BOL,Bolivia,constant,USD million,1186.3807
 2023,BRA,Brazil,constant,USD million,17783.5191
-2023,BTN,Bhutan,constant,USD million,212.7731
-2023,BWA,Botswana,constant,USD million,209.223
-2023,CAF,Central African Republic,constant,USD million,17.8532
-2023,CHN,China,constant,USD million,55717.7892
-2023,CIV,Cote d'Ivoire,constant,USD million,2257.839
-2023,CMR,Cameroon,constant,USD million,1552.929
-2023,COD,"Congo, Dem. Rep.",constant,USD million,693.6308
-2023,COG,"Congo, Rep.",constant,USD million,704.4946
-2023,COL,Colombia,constant,USD million,10527.1873
+2023,BTN,Bhutan,constant,USD million,212.7374
+2023,BWA,Botswana,constant,USD million,218.9311
+2023,CAF,Central African Republic,constant,USD million,17.86
+2023,CHN,China,constant,USD million,55399.3526
+2023,CIV,Cote d'Ivoire,constant,USD million,2275.2666
+2023,CMR,Cameroon,constant,USD million,1524.9514
+2023,COD,"Congo, Dem. Rep.",constant,USD million,710.7647
+2023,COG,"Congo, Rep.",constant,USD million,703.288
+2023,COL,Colombia,constant,USD million,10528.3164
 2023,COM,Comoros,constant,USD million,24.9712
-2023,CPV,Cabo Verde,constant,USD million,127.0192
+2023,CPV,Cabo Verde,constant,USD million,126.0214
 2023,CRI,Costa Rica,constant,USD million,2056.3486
-2023,DJI,Djibouti,constant,USD million,253.0982
-2023,DMA,Dominica,constant,USD million,27.353
-2023,DOM,Dominican Republic,constant,USD million,2317.1648
-2023,DZA,Algeria,constant,USD million,85.791
-2023,ECU,Ecuador,constant,USD million,3422.8518
-2023,EGY,"Egypt, Arab Rep.",constant,USD million,19408.2726
+2023,DJI,Djibouti,constant,USD million,253.8557
+2023,DMA,Dominica,constant,USD million,27.5045
+2023,DOM,Dominican Republic,constant,USD million,2281.489
+2023,DZA,Algeria,constant,USD million,87.3938
+2023,ECU,Ecuador,constant,USD million,3463.5592
+2023,EGY,"Egypt, Arab Rep.",constant,USD million,19411.9835
 2023,ERI,Eritrea,constant,USD million,0.0
 2023,ETH,Ethiopia,constant,USD million,2156.0025
-2023,FJI,Fiji,constant,USD million,142.6202
-2023,GAB,Gabon,constant,USD million,546.2278
+2023,FJI,Fiji,constant,USD million,143.1014
+2023,GAB,Gabon,constant,USD million,559.8753
 2023,GEO,Georgia,constant,USD million,437.4916
-2023,GHA,Ghana,constant,USD million,2734.8379
+2023,GHA,Ghana,constant,USD million,2768.4031
 2023,GIN,Guinea,constant,USD million,294.1071
-2023,GMB,"Gambia, The",constant,USD million,83.824
-2023,GNB,Guinea-Bissau,constant,USD million,51.1064
-2023,GRD,Grenada,constant,USD million,48.0949
-2023,GTM,Guatemala,constant,USD million,731.8582
-2023,GUY,Guyana,constant,USD million,132.9118
-2023,HND,Honduras,constant,USD million,557.8044
-2023,HTI,Haiti,constant,USD million,104.7131
+2023,GMB,"Gambia, The",constant,USD million,83.669
+2023,GNB,Guinea-Bissau,constant,USD million,50.7693
+2023,GRD,Grenada,constant,USD million,48.2004
+2023,GTM,Guatemala,constant,USD million,716.2181
+2023,GUY,Guyana,constant,USD million,132.9121
+2023,HND,Honduras,constant,USD million,565.4907
+2023,HTI,Haiti,constant,USD million,115.0225
 2023,IDN,Indonesia,constant,USD million,20204.3919
-2023,IND,India,constant,USD million,26293.7763
-2023,IRN,"Iran, Islamic Rep.",constant,USD million,57.9593
-2023,IRQ,Iraq,constant,USD million,3516.8565
-2023,JAM,Jamaica,constant,USD million,721.1174
-2023,JOR,Jordan,constant,USD million,2063.8079
-2023,KAZ,Kazakhstan,constant,USD million,2263.7947
-2023,KEN,Kenya,constant,USD million,3323.4115
-2023,KGZ,Kyrgyz Republic,constant,USD million,207.3566
-2023,KHM,Cambodia,constant,USD million,566.107
-2023,LAO,Lao PDR,constant,USD million,2101.0466
-2023,LBN,Lebanon,constant,USD million,0.0
+2023,IND,India,constant,USD million,26406.7123
+2023,IRN,"Iran, Islamic Rep.",constant,USD million,62.9341
+2023,IRQ,Iraq,constant,USD million,3558.1557
+2023,JAM,Jamaica,constant,USD million,707.8172
+2023,JOR,Jordan,constant,USD million,2068.3397
+2023,KAZ,Kazakhstan,constant,USD million,2239.1789
+2023,KEN,Kenya,constant,USD million,3330.7569
+2023,KGZ,Kyrgyz Republic,constant,USD million,197.6385
+2023,KHM,Cambodia,constant,USD million,547.1644
+2023,LAO,Lao PDR,constant,USD million,2135.9627
+2023,LBN,Lebanon,constant,USD million,5750.2496
 2023,LBR,Liberia,constant,USD million,46.4913
-2023,LCA,St. Lucia,constant,USD million,33.8229
+2023,LCA,St. Lucia,constant,USD million,34.9867
 2023,LKA,Sri Lanka,constant,USD million,0.0
-2023,LSO,Lesotho,constant,USD million,80.0898
-2023,MAR,Morocco,constant,USD million,3569.8997
-2023,MDA,Moldova,constant,USD million,149.2898
-2023,MDG,Madagascar,constant,USD million,180.2833
-2023,MDV,Maldives,constant,USD million,437.1482
-2023,MEX,Mexico,constant,USD million,23469.6489
+2023,LSO,Lesotho,constant,USD million,81.8948
+2023,MAR,Morocco,constant,USD million,3585.4148
+2023,MDA,Moldova,constant,USD million,153.0648
+2023,MDG,Madagascar,constant,USD million,179.8612
+2023,MDV,Maldives,constant,USD million,444.8394
+2023,MEX,Mexico,constant,USD million,23509.9858
 2023,MKD,North Macedonia,constant,USD million,879.9222
-2023,MLI,Mali,constant,USD million,332.8745
-2023,MMR,Myanmar,constant,USD million,1197.5138
+2023,MLI,Mali,constant,USD million,340.1953
+2023,MMR,Myanmar,constant,USD million,1197.2679
 2023,MNE,Montenegro,constant,USD million,223.7409
-2023,MNG,Mongolia,constant,USD million,1007.6753
-2023,MOZ,Mozambique,constant,USD million,801.128
-2023,MRT,Mauritania,constant,USD million,431.0321
-2023,MUS,Mauritius,constant,USD million,1079.8319
-2023,MWI,Malawi,constant,USD million,110.3928
-2023,NER,Niger,constant,USD million,287.2123
-2023,NGA,Nigeria,constant,USD million,5965.0313
-2023,NIC,Nicaragua,constant,USD million,568.3008
-2023,NPL,Nepal,constant,USD million,335.789
-2023,PAK,Pakistan,constant,USD million,15671.6733
-2023,PER,Peru,constant,USD million,2197.1149
-2023,PHL,Philippines,constant,USD million,5062.2619
-2023,PNG,Papua New Guinea,constant,USD million,474.4578
-2023,PRY,Paraguay,constant,USD million,1399.2821
-2023,RUS,Russian Federation,constant,USD million,17782.4598
-2023,RWA,Rwanda,constant,USD million,267.6645
-2023,SDN,Sudan,constant,USD million,893.6811
-2023,SEN,Senegal,constant,USD million,1220.6057
-2023,SLB,Solomon Islands,constant,USD million,6.8285
-2023,SLE,Sierra Leone,constant,USD million,95.7798
-2023,SLV,El Salvador,constant,USD million,1481.6898
-2023,SOM,Somalia,constant,USD million,38.1232
-2023,SRB,Serbia,constant,USD million,1062.3396
-2023,STP,Sao Tome and Principe,constant,USD million,4.9335
-2023,SUR,Suriname,constant,USD million,357.281
-2023,SWZ,Eswatini,constant,USD million,80.0598
+2023,MNG,Mongolia,constant,USD million,988.8805
+2023,MOZ,Mozambique,constant,USD million,811.8314
+2023,MRT,Mauritania,constant,USD million,435.411
+2023,MUS,Mauritius,constant,USD million,1066.9341
+2023,MWI,Malawi,constant,USD million,114.432
+2023,NER,Niger,constant,USD million,284.8853
+2023,NGA,Nigeria,constant,USD million,6147.5322
+2023,NIC,Nicaragua,constant,USD million,553.8685
+2023,NPL,Nepal,constant,USD million,340.4756
+2023,PAK,Pakistan,constant,USD million,15703.2587
+2023,PER,Peru,constant,USD million,2210.1702
+2023,PHL,Philippines,constant,USD million,5055.6517
+2023,PNG,Papua New Guinea,constant,USD million,476.3724
+2023,PRY,Paraguay,constant,USD million,1432.3676
+2023,RUS,Russian Federation,constant,USD million,17650.8051
+2023,RWA,Rwanda,constant,USD million,269.2422
+2023,SDN,Sudan,constant,USD million,602.9133
+2023,SEN,Senegal,constant,USD million,1245.1041
+2023,SLB,Solomon Islands,constant,USD million,6.8287
+2023,SLE,Sierra Leone,constant,USD million,97.7829
+2023,SLV,El Salvador,constant,USD million,1481.8481
+2023,SOM,Somalia,constant,USD million,40.2996
+2023,SRB,Serbia,constant,USD million,1062.3395
+2023,STP,Sao Tome and Principe,constant,USD million,4.7694
+2023,SUR,Suriname,constant,USD million,357.6605
+2023,SWZ,Eswatini,constant,USD million,80.0953
 2023,SYR,Syrian Arab Republic,constant,USD million,0.0
-2023,TCD,Chad,constant,USD million,363.812
-2023,TGO,Togo,constant,USD million,183.1028
-2023,THA,Thailand,constant,USD million,2462.8104
+2023,TCD,Chad,constant,USD million,365.19
+2023,TGO,Togo,constant,USD million,182.9246
+2023,THA,Thailand,constant,USD million,2462.7665
 2023,TJK,Tajikistan,constant,USD million,325.4962
-2023,TKM,Turkmenistan,constant,USD million,702.0125
-2023,TLS,Timor-Leste,constant,USD million,20.7707
-2023,TON,Tonga,constant,USD million,18.4788
-2023,TUN,Tunisia,constant,USD million,2998.0642
-2023,TUR,Turkiye,constant,USD million,27277.9583
-2023,TZA,Tanzania,constant,USD million,1618.4162
-2023,UGA,Uganda,constant,USD million,878.4432
-2023,UKR,Ukraine,constant,USD million,2382.7988
-2023,UZB,Uzbekistan,constant,USD million,3388.8726
-2023,VCT,St. Vincent and the Grenadines,constant,USD million,42.1338
+2023,TKM,Turkmenistan,constant,USD million,696.64
+2023,TLS,Timor-Leste,constant,USD million,26.4932
+2023,TON,Tonga,constant,USD million,18.3074
+2023,TUN,Tunisia,constant,USD million,3146.8484
+2023,TUR,Turkiye,constant,USD million,27003.4906
+2023,TZA,Tanzania,constant,USD million,1625.1266
+2023,UGA,Uganda,constant,USD million,889.6849
+2023,UKR,Ukraine,constant,USD million,2386.0874
+2023,UZB,Uzbekistan,constant,USD million,3068.5693
+2023,VCT,St. Vincent and the Grenadines,constant,USD million,39.7289
 2023,VNM,Viet Nam,constant,USD million,4944.3595
-2023,VUT,Vanuatu,constant,USD million,16.4336
+2023,VUT,Vanuatu,constant,USD million,17.1067
 2023,WSM,Samoa,constant,USD million,31.0283
-2023,XKX,Kosovo,constant,USD million,67.2437
-2023,YEM,"Yemen, Rep.",constant,USD million,1014.8055
-2023,ZAF,South Africa,constant,USD million,6809.2927
-2023,ZMB,Zambia,constant,USD million,1958.7227
-2023,ZWE,Zimbabwe,constant,USD million,118.732
+2023,XKX,Kosovo,constant,USD million,67.504
+2023,YEM,"Yemen, Rep.",constant,USD million,994.1921
+2023,ZAF,South Africa,constant,USD million,6765.1611
+2023,ZMB,Zambia,constant,USD million,1995.818
+2023,ZWE,Zimbabwe,constant,USD million,108.0836
 2024,AFG,Afghanistan,constant,USD million,0.0
-2024,AGO,Angola,constant,USD million,14086.9482
-2024,ALB,Albania,constant,USD million,354.9352
-2024,ARG,Argentina,constant,USD million,6856.867
-2024,ARM,Armenia,constant,USD million,364.1006
-2024,AZE,Azerbaijan,constant,USD million,2482.7912
-2024,BDI,Burundi,constant,USD million,72.2979
-2024,BEN,Benin,constant,USD million,716.1908
-2024,BFA,Burkina Faso,constant,USD million,301.7228
-2024,BGD,Bangladesh,constant,USD million,5381.4093
-2024,BGR,Bulgaria,constant,USD million,1344.0623
-2024,BIH,Bosnia and Herzegovina,constant,USD million,415.0663
-2024,BLR,Belarus,constant,USD million,3289.8837
-2024,BLZ,Belize,constant,USD million,124.3925
-2024,BOL,Bolivia,constant,USD million,1073.1845
-2024,BRA,Brazil,constant,USD million,21185.4336
-2024,BTN,Bhutan,constant,USD million,261.2885
-2024,BWA,Botswana,constant,USD million,197.6266
-2024,CAF,Central African Republic,constant,USD million,17.1056
-2024,CHN,China,constant,USD million,63952.2665
-2024,CIV,Cote d'Ivoire,constant,USD million,2822.7734
-2024,CMR,Cameroon,constant,USD million,1376.7846
-2024,COD,"Congo, Dem. Rep.",constant,USD million,506.7847
-2024,COG,"Congo, Rep.",constant,USD million,594.0895
-2024,COL,Colombia,constant,USD million,8692.8809
-2024,COM,Comoros,constant,USD million,27.7028
-2024,CPV,Cabo Verde,constant,USD million,128.0272
-2024,CRI,Costa Rica,constant,USD million,1097.1157
-2024,DJI,Djibouti,constant,USD million,264.3845
-2024,DMA,Dominica,constant,USD million,38.7416
-2024,DOM,Dominican Republic,constant,USD million,2365.5164
-2024,DZA,Algeria,constant,USD million,80.7899
-2024,ECU,Ecuador,constant,USD million,3554.6909
-2024,EGY,"Egypt, Arab Rep.",constant,USD million,28045.7033
+2024,AGO,Angola,constant,USD million,13816.1537
+2024,ALB,Albania,constant,USD million,346.5672
+2024,ARG,Argentina,constant,USD million,6805.3523
+2024,ARM,Armenia,constant,USD million,365.4839
+2024,AZE,Azerbaijan,constant,USD million,2598.875
+2024,BDI,Burundi,constant,USD million,50.8621
+2024,BEN,Benin,constant,USD million,724.9343
+2024,BFA,Burkina Faso,constant,USD million,300.943
+2024,BGD,Bangladesh,constant,USD million,5397.2804
+2024,BGR,Bulgaria,constant,USD million,1332.5194
+2024,BIH,Bosnia and Herzegovina,constant,USD million,424.3959
+2024,BLR,Belarus,constant,USD million,3143.4541
+2024,BLZ,Belize,constant,USD million,121.9262
+2024,BOL,Bolivia,constant,USD million,1105.3106
+2024,BRA,Brazil,constant,USD million,22766.2638
+2024,BTN,Bhutan,constant,USD million,261.0747
+2024,BWA,Botswana,constant,USD million,205.1943
+2024,CAF,Central African Republic,constant,USD million,17.0561
+2024,CHN,China,constant,USD million,64952.7483
+2024,CIV,Cote d'Ivoire,constant,USD million,2803.1165
+2024,CMR,Cameroon,constant,USD million,1351.6993
+2024,COD,"Congo, Dem. Rep.",constant,USD million,525.8087
+2024,COG,"Congo, Rep.",constant,USD million,591.1394
+2024,COL,Colombia,constant,USD million,8084.1752
+2024,COM,Comoros,constant,USD million,27.1679
+2024,CPV,Cabo Verde,constant,USD million,128.614
+2024,CRI,Costa Rica,constant,USD million,1107.6041
+2024,DJI,Djibouti,constant,USD million,266.2136
+2024,DMA,Dominica,constant,USD million,38.9704
+2024,DOM,Dominican Republic,constant,USD million,2380.5064
+2024,DZA,Algeria,constant,USD million,82.7876
+2024,ECU,Ecuador,constant,USD million,3571.6148
+2024,EGY,"Egypt, Arab Rep.",constant,USD million,25577.3821
 2024,ERI,Eritrea,constant,USD million,0.0
-2024,ETH,Ethiopia,constant,USD million,2282.2511
-2024,FJI,Fiji,constant,USD million,137.6802
-2024,GAB,Gabon,constant,USD million,631.7891
-2024,GEO,Georgia,constant,USD million,495.7029
-2024,GHA,Ghana,constant,USD million,2654.4909
-2024,GIN,Guinea,constant,USD million,436.9631
-2024,GMB,"Gambia, The",constant,USD million,85.0189
-2024,GNB,Guinea-Bissau,constant,USD million,54.3413
-2024,GRD,Grenada,constant,USD million,46.6827
-2024,GTM,Guatemala,constant,USD million,763.8892
-2024,GUY,Guyana,constant,USD million,149.1741
-2024,HND,Honduras,constant,USD million,814.2417
-2024,HTI,Haiti,constant,USD million,90.2101
-2024,IDN,Indonesia,constant,USD million,32627.33
-2024,IND,India,constant,USD million,28574.3297
-2024,IRN,"Iran, Islamic Rep.",constant,USD million,53.3814
-2024,IRQ,Iraq,constant,USD million,2589.2321
-2024,JAM,Jamaica,constant,USD million,809.7676
-2024,JOR,Jordan,constant,USD million,1356.225
-2024,KAZ,Kazakhstan,constant,USD million,3035.3914
-2024,KEN,Kenya,constant,USD million,5529.1531
-2024,KGZ,Kyrgyz Republic,constant,USD million,210.6823
-2024,KHM,Cambodia,constant,USD million,626.8721
-2024,LAO,Lao PDR,constant,USD million,1804.4102
+2024,ETH,Ethiopia,constant,USD million,3223.2595
+2024,FJI,Fiji,constant,USD million,137.3467
+2024,GAB,Gabon,constant,USD million,637.9362
+2024,GEO,Georgia,constant,USD million,499.2477
+2024,GHA,Ghana,constant,USD million,2698.2411
+2024,GIN,Guinea,constant,USD million,436.4999
+2024,GMB,"Gambia, The",constant,USD million,84.5534
+2024,GNB,Guinea-Bissau,constant,USD million,54.0404
+2024,GRD,Grenada,constant,USD million,46.5636
+2024,GTM,Guatemala,constant,USD million,749.0466
+2024,GUY,Guyana,constant,USD million,147.3213
+2024,HND,Honduras,constant,USD million,823.5846
+2024,HTI,Haiti,constant,USD million,81.7092
+2024,IDN,Indonesia,constant,USD million,34325.7256
+2024,IND,India,constant,USD million,29071.4878
+2024,IRN,"Iran, Islamic Rep.",constant,USD million,57.4339
+2024,IRQ,Iraq,constant,USD million,2582.0623
+2024,JAM,Jamaica,constant,USD million,789.802
+2024,JOR,Jordan,constant,USD million,1360.4992
+2024,KAZ,Kazakhstan,constant,USD million,3090.5663
+2024,KEN,Kenya,constant,USD million,4949.1977
+2024,KGZ,Kyrgyz Republic,constant,USD million,193.3291
+2024,KHM,Cambodia,constant,USD million,597.2751
+2024,LAO,Lao PDR,constant,USD million,1835.2506
 2024,LBN,Lebanon,constant,USD million,0.0
-2024,LBR,Liberia,constant,USD million,55.3122
-2024,LCA,St. Lucia,constant,USD million,30.9209
+2024,LBR,Liberia,constant,USD million,55.175
+2024,LCA,St. Lucia,constant,USD million,32.1478
 2024,LKA,Sri Lanka,constant,USD million,0.0
-2024,LSO,Lesotho,constant,USD million,91.1988
-2024,MAR,Morocco,constant,USD million,6689.6055
-2024,MDA,Moldova,constant,USD million,188.7632
-2024,MDG,Madagascar,constant,USD million,427.624
-2024,MDV,Maldives,constant,USD million,408.4524
-2024,MEX,Mexico,constant,USD million,24752.9047
-2024,MKD,North Macedonia,constant,USD million,588.3494
-2024,MLI,Mali,constant,USD million,346.1789
-2024,MMR,Myanmar,constant,USD million,1048.8069
-2024,MNE,Montenegro,constant,USD million,207.3023
-2024,MNG,Mongolia,constant,USD million,2342.8336
-2024,MOZ,Mozambique,constant,USD million,778.2922
-2024,MRT,Mauritania,constant,USD million,424.9567
-2024,MUS,Mauritius,constant,USD million,489.253
-2024,MWI,Malawi,constant,USD million,154.4304
-2024,NER,Niger,constant,USD million,291.8477
-2024,NGA,Nigeria,constant,USD million,7491.7628
-2024,NIC,Nicaragua,constant,USD million,599.0143
-2024,NPL,Nepal,constant,USD million,389.9668
-2024,PAK,Pakistan,constant,USD million,0.0
-2024,PER,Peru,constant,USD million,1991.855
-2024,PHL,Philippines,constant,USD million,6769.3119
-2024,PNG,Papua New Guinea,constant,USD million,568.3942
-2024,PRY,Paraguay,constant,USD million,1267.5401
-2024,RUS,Russian Federation,constant,USD million,15476.2196
-2024,RWA,Rwanda,constant,USD million,280.0478
-2024,SDN,Sudan,constant,USD million,817.279
-2024,SEN,Senegal,constant,USD million,1433.1293
-2024,SLB,Solomon Islands,constant,USD million,7.1971
-2024,SLE,Sierra Leone,constant,USD million,96.4975
-2024,SLV,El Salvador,constant,USD million,1078.0746
-2024,SOM,Somalia,constant,USD million,37.5263
-2024,SRB,Serbia,constant,USD million,1728.7977
-2024,STP,Sao Tome and Principe,constant,USD million,7.6439
-2024,SUR,Suriname,constant,USD million,319.7208
-2024,SWZ,Eswatini,constant,USD million,92.3202
+2024,LSO,Lesotho,constant,USD million,95.9806
+2024,MAR,Morocco,constant,USD million,6516.3383
+2024,MDA,Moldova,constant,USD million,191.1848
+2024,MDG,Madagascar,constant,USD million,409.0648
+2024,MDV,Maldives,constant,USD million,419.5376
+2024,MEX,Mexico,constant,USD million,26818.1817
+2024,MKD,North Macedonia,constant,USD million,585.9283
+2024,MLI,Mali,constant,USD million,345.0002
+2024,MMR,Myanmar,constant,USD million,1104.1564
+2024,MNE,Montenegro,constant,USD million,204.771
+2024,MNG,Mongolia,constant,USD million,2158.4425
+2024,MOZ,Mozambique,constant,USD million,785.9097
+2024,MRT,Mauritania,constant,USD million,425.4913
+2024,MUS,Mauritius,constant,USD million,510.0735
+2024,MWI,Malawi,constant,USD million,157.8763
+2024,NER,Niger,constant,USD million,281.2217
+2024,NGA,Nigeria,constant,USD million,9436.9744
+2024,NIC,Nicaragua,constant,USD million,583.0877
+2024,NPL,Nepal,constant,USD million,399.0399
+2024,PAK,Pakistan,constant,USD million,10709.0506
+2024,PER,Peru,constant,USD million,2001.4683
+2024,PHL,Philippines,constant,USD million,6763.3852
+2024,PNG,Papua New Guinea,constant,USD million,566.8259
+2024,PRY,Paraguay,constant,USD million,1295.2996
+2024,RUS,Russian Federation,constant,USD million,14624.1552
+2024,RWA,Rwanda,constant,USD million,284.2174
+2024,SDN,Sudan,constant,USD million,613.2108
+2024,SEN,Senegal,constant,USD million,1483.9788
+2024,SLB,Solomon Islands,constant,USD million,7.1078
+2024,SLE,Sierra Leone,constant,USD million,99.2212
+2024,SLV,El Salvador,constant,USD million,1062.6951
+2024,SOM,Somalia,constant,USD million,37.5774
+2024,SRB,Serbia,constant,USD million,1722.0894
+2024,STP,Sao Tome and Principe,constant,USD million,7.0015
+2024,SUR,Suriname,constant,USD million,281.9487
+2024,SWZ,Eswatini,constant,USD million,91.8597
 2024,SYR,Syrian Arab Republic,constant,USD million,0.0
-2024,TCD,Chad,constant,USD million,351.9104
-2024,TGO,Togo,constant,USD million,212.5284
-2024,THA,Thailand,constant,USD million,2663.1673
-2024,TJK,Tajikistan,constant,USD million,391.4947
-2024,TKM,Turkmenistan,constant,USD million,584.5933
-2024,TLS,Timor-Leste,constant,USD million,28.1951
-2024,TON,Tonga,constant,USD million,17.9154
-2024,TUN,Tunisia,constant,USD million,3594.4688
-2024,TUR,Turkiye,constant,USD million,25131.9626
-2024,TZA,Tanzania,constant,USD million,1613.591
-2024,UGA,Uganda,constant,USD million,945.86
-2024,UKR,Ukraine,constant,USD million,3732.9454
-2024,UZB,Uzbekistan,constant,USD million,3631.4853
-2024,VCT,St. Vincent and the Grenadines,constant,USD million,39.8045
-2024,VNM,Viet Nam,constant,USD million,5108.7664
-2024,VUT,Vanuatu,constant,USD million,15.3303
-2024,WSM,Samoa,constant,USD million,29.5801
-2024,XKX,Kosovo,constant,USD million,125.0828
-2024,YEM,"Yemen, Rep.",constant,USD million,1085.2547
-2024,ZAF,South Africa,constant,USD million,8764.1873
-2024,ZMB,Zambia,constant,USD million,2835.532
-2024,ZWE,Zimbabwe,constant,USD million,109.1882
+2024,TCD,Chad,constant,USD million,356.9982
+2024,TGO,Togo,constant,USD million,214.3709
+2024,THA,Thailand,constant,USD million,2765.7755
+2024,TJK,Tajikistan,constant,USD million,391.4924
+2024,TKM,Turkmenistan,constant,USD million,571.0973
+2024,TLS,Timor-Leste,constant,USD million,28.2761
+2024,TON,Tonga,constant,USD million,17.8532
+2024,TUN,Tunisia,constant,USD million,3702.6789
+2024,TUR,Turkiye,constant,USD million,20989.5917
+2024,TZA,Tanzania,constant,USD million,1607.6176
+2024,UGA,Uganda,constant,USD million,959.0713
+2024,UKR,Ukraine,constant,USD million,3853.6168
+2024,UZB,Uzbekistan,constant,USD million,3208.5152
+2024,VCT,St. Vincent and the Grenadines,constant,USD million,37.2609
+2024,VNM,Viet Nam,constant,USD million,5091.3954
+2024,VUT,Vanuatu,constant,USD million,16.5564
+2024,WSM,Samoa,constant,USD million,29.5308
+2024,XKX,Kosovo,constant,USD million,126.7681
+2024,YEM,"Yemen, Rep.",constant,USD million,1135.3889
+2024,ZAF,South Africa,constant,USD million,8139.5016
+2024,ZMB,Zambia,constant,USD million,3226.143
+2024,ZWE,Zimbabwe,constant,USD million,102.8603
 2025,AFG,Afghanistan,constant,USD million,0.0
-2025,AGO,Angola,constant,USD million,14011.7211
-2025,ALB,Albania,constant,USD million,662.9084
-2025,ARG,Argentina,constant,USD million,7769.6974
-2025,ARM,Armenia,constant,USD million,678.7304
-2025,AZE,Azerbaijan,constant,USD million,1069.2358
-2025,BDI,Burundi,constant,USD million,78.9661
-2025,BEN,Benin,constant,USD million,753.4337
-2025,BFA,Burkina Faso,constant,USD million,318.1309
-2025,BGD,Bangladesh,constant,USD million,5790.0004
-2025,BGR,Bulgaria,constant,USD million,750.6058
-2025,BIH,Bosnia and Herzegovina,constant,USD million,391.9876
-2025,BLR,Belarus,constant,USD million,2869.8941
-2025,BLZ,Belize,constant,USD million,101.5692
-2025,BOL,Bolivia,constant,USD million,1083.5755
-2025,BRA,Brazil,constant,USD million,19442.2223
-2025,BTN,Bhutan,constant,USD million,241.5568
-2025,BWA,Botswana,constant,USD million,204.5368
-2025,CAF,Central African Republic,constant,USD million,19.6089
-2025,CHN,China,constant,USD million,53104.7393
-2025,CIV,Cote d'Ivoire,constant,USD million,3116.464
-2025,CMR,Cameroon,constant,USD million,1385.2291
-2025,COD,"Congo, Dem. Rep.",constant,USD million,393.842
-2025,COG,"Congo, Rep.",constant,USD million,550.6268
-2025,COL,Colombia,constant,USD million,9048.4888
-2025,COM,Comoros,constant,USD million,26.8441
-2025,CPV,Cabo Verde,constant,USD million,121.634
-2025,CRI,Costa Rica,constant,USD million,1467.4392
-2025,DJI,Djibouti,constant,USD million,244.7968
-2025,DMA,Dominica,constant,USD million,19.4392
-2025,DOM,Dominican Republic,constant,USD million,3301.9516
-2025,DZA,Algeria,constant,USD million,69.3165
-2025,ECU,Ecuador,constant,USD million,3348.149
-2025,EGY,"Egypt, Arab Rep.",constant,USD million,20591.2767
+2025,AGO,Angola,constant,USD million,13568.7017
+2025,ALB,Albania,constant,USD million,639.3327
+2025,ARG,Argentina,constant,USD million,7507.5273
+2025,ARM,Armenia,constant,USD million,689.4901
+2025,AZE,Azerbaijan,constant,USD million,1138.878
+2025,BDI,Burundi,constant,USD million,116.5041
+2025,BEN,Benin,constant,USD million,765.7688
+2025,BFA,Burkina Faso,constant,USD million,316.6428
+2025,BGD,Bangladesh,constant,USD million,5763.1496
+2025,BGR,Bulgaria,constant,USD million,737.7446
+2025,BIH,Bosnia and Herzegovina,constant,USD million,403.1729
+2025,BLR,Belarus,constant,USD million,2705.898
+2025,BLZ,Belize,constant,USD million,99.9603
+2025,BOL,Bolivia,constant,USD million,1115.5986
+2025,BRA,Brazil,constant,USD million,20731.1269
+2025,BTN,Bhutan,constant,USD million,241.1699
+2025,BWA,Botswana,constant,USD million,205.1528
+2025,CAF,Central African Republic,constant,USD million,19.617
+2025,CHN,China,constant,USD million,54081.1159
+2025,CIV,Cote d'Ivoire,constant,USD million,3046.7263
+2025,CMR,Cameroon,constant,USD million,1359.3146
+2025,COD,"Congo, Dem. Rep.",constant,USD million,418.5565
+2025,COG,"Congo, Rep.",constant,USD million,544.3782
+2025,COL,Colombia,constant,USD million,8685.8541
+2025,COM,Comoros,constant,USD million,26.5118
+2025,CPV,Cabo Verde,constant,USD million,122.4782
+2025,CRI,Costa Rica,constant,USD million,1491.704
+2025,DJI,Djibouti,constant,USD million,247.4204
+2025,DMA,Dominica,constant,USD million,19.5346
+2025,DOM,Dominican Republic,constant,USD million,3314.9061
+2025,DZA,Algeria,constant,USD million,72.6415
+2025,ECU,Ecuador,constant,USD million,3338.8684
+2025,EGY,"Egypt, Arab Rep.",constant,USD million,19454.0049
 2025,ERI,Eritrea,constant,USD million,0.0
-2025,ETH,Ethiopia,constant,USD million,1562.352
-2025,FJI,Fiji,constant,USD million,136.9541
-2025,GAB,Gabon,constant,USD million,1120.8671
-2025,GEO,Georgia,constant,USD million,509.656
-2025,GHA,Ghana,constant,USD million,3330.1872
-2025,GIN,Guinea,constant,USD million,365.5352
-2025,GMB,"Gambia, The",constant,USD million,67.2972
-2025,GNB,Guinea-Bissau,constant,USD million,52.0666
-2025,GRD,Grenada,constant,USD million,44.857
-2025,GTM,Guatemala,constant,USD million,745.4855
-2025,GUY,Guyana,constant,USD million,198.5945
-2025,HND,Honduras,constant,USD million,764.9821
-2025,HTI,Haiti,constant,USD million,87.8344
-2025,IDN,Indonesia,constant,USD million,18074.5819
-2025,IND,India,constant,USD million,22347.4042
-2025,IRN,"Iran, Islamic Rep.",constant,USD million,56.1088
-2025,IRQ,Iraq,constant,USD million,2070.831
-2025,JAM,Jamaica,constant,USD million,972.0738
-2025,JOR,Jordan,constant,USD million,1575.4632
-2025,KAZ,Kazakhstan,constant,USD million,3772.6052
-2025,KEN,Kenya,constant,USD million,3919.9329
-2025,KGZ,Kyrgyz Republic,constant,USD million,267.8783
-2025,KHM,Cambodia,constant,USD million,648.4454
-2025,LAO,Lao PDR,constant,USD million,2180.5246
+2025,ETH,Ethiopia,constant,USD million,3045.9508
+2025,FJI,Fiji,constant,USD million,136.422
+2025,GAB,Gabon,constant,USD million,1131.8574
+2025,GEO,Georgia,constant,USD million,516.915
+2025,GHA,Ghana,constant,USD million,3398.9986
+2025,GIN,Guinea,constant,USD million,364.6764
+2025,GMB,"Gambia, The",constant,USD million,66.7108
+2025,GNB,Guinea-Bissau,constant,USD million,51.9082
+2025,GRD,Grenada,constant,USD million,44.6705
+2025,GTM,Guatemala,constant,USD million,727.4194
+2025,GUY,Guyana,constant,USD million,198.9121
+2025,HND,Honduras,constant,USD million,771.6385
+2025,HTI,Haiti,constant,USD million,68.926
+2025,IDN,Indonesia,constant,USD million,19544.9555
+2025,IND,India,constant,USD million,22817.2974
+2025,IRN,"Iran, Islamic Rep.",constant,USD million,59.2214
+2025,IRQ,Iraq,constant,USD million,2086.7443
+2025,JAM,Jamaica,constant,USD million,941.9798
+2025,JOR,Jordan,constant,USD million,1583.5321
+2025,KAZ,Kazakhstan,constant,USD million,3828.3038
+2025,KEN,Kenya,constant,USD million,3677.7541
+2025,KGZ,Kyrgyz Republic,constant,USD million,242.3719
+2025,KHM,Cambodia,constant,USD million,612.5835
+2025,LAO,Lao PDR,constant,USD million,2439.7847
 2025,LBN,Lebanon,constant,USD million,0.0
-2025,LBR,Liberia,constant,USD million,54.2678
-2025,LCA,St. Lucia,constant,USD million,35.1974
+2025,LBR,Liberia,constant,USD million,54.1268
+2025,LCA,St. Lucia,constant,USD million,36.8423
 2025,LKA,Sri Lanka,constant,USD million,0.0
-2025,LSO,Lesotho,constant,USD million,85.8162
-2025,MAR,Morocco,constant,USD million,4512.8266
-2025,MDA,Moldova,constant,USD million,152.0171
-2025,MDG,Madagascar,constant,USD million,282.0082
-2025,MDV,Maldives,constant,USD million,499.1829
-2025,MEX,Mexico,constant,USD million,18685.2383
-2025,MKD,North Macedonia,constant,USD million,956.1952
-2025,MLI,Mali,constant,USD million,352.6501
-2025,MMR,Myanmar,constant,USD million,938.8685
-2025,MNE,Montenegro,constant,USD million,539.6859
-2025,MNG,Mongolia,constant,USD million,565.9777
-2025,MOZ,Mozambique,constant,USD million,701.3397
-2025,MRT,Mauritania,constant,USD million,369.069
-2025,MUS,Mauritius,constant,USD million,166.9826
-2025,MWI,Malawi,constant,USD million,169.4517
-2025,NER,Niger,constant,USD million,311.9103
-2025,NGA,Nigeria,constant,USD million,10469.4281
-2025,NIC,Nicaragua,constant,USD million,640.1821
-2025,NPL,Nepal,constant,USD million,421.8708
+2025,LSO,Lesotho,constant,USD million,90.0033
+2025,MAR,Morocco,constant,USD million,4352.0078
+2025,MDA,Moldova,constant,USD million,153.9668
+2025,MDG,Madagascar,constant,USD million,279.095
+2025,MDV,Maldives,constant,USD million,505.3839
+2025,MEX,Mexico,constant,USD million,21695.5899
+2025,MKD,North Macedonia,constant,USD million,940.2746
+2025,MLI,Mali,constant,USD million,347.3408
+2025,MMR,Myanmar,constant,USD million,1047.257
+2025,MNE,Montenegro,constant,USD million,519.9114
+2025,MNG,Mongolia,constant,USD million,490.2671
+2025,MOZ,Mozambique,constant,USD million,707.5314
+2025,MRT,Mauritania,constant,USD million,378.7148
+2025,MUS,Mauritius,constant,USD million,181.2952
+2025,MWI,Malawi,constant,USD million,176.0375
+2025,NER,Niger,constant,USD million,295.0785
+2025,NGA,Nigeria,constant,USD million,13453.5696
+2025,NIC,Nicaragua,constant,USD million,623.1638
+2025,NPL,Nepal,constant,USD million,435.1076
 2025,PAK,Pakistan,constant,USD million,0.0
-2025,PER,Peru,constant,USD million,3404.6626
-2025,PHL,Philippines,constant,USD million,5627.8561
-2025,PNG,Papua New Guinea,constant,USD million,605.3767
-2025,PRY,Paraguay,constant,USD million,1325.7785
-2025,RUS,Russian Federation,constant,USD million,22469.5736
-2025,RWA,Rwanda,constant,USD million,356.6794
-2025,SDN,Sudan,constant,USD million,827.9261
-2025,SEN,Senegal,constant,USD million,1448.1225
-2025,SLB,Solomon Islands,constant,USD million,7.7386
-2025,SLE,Sierra Leone,constant,USD million,102.2714
-2025,SLV,El Salvador,constant,USD million,1246.7763
-2025,SOM,Somalia,constant,USD million,36.515
-2025,SRB,Serbia,constant,USD million,1078.5389
-2025,STP,Sao Tome and Principe,constant,USD million,7.2019
-2025,SUR,Suriname,constant,USD million,313.8305
-2025,SWZ,Eswatini,constant,USD million,104.6495
+2025,PER,Peru,constant,USD million,3428.0698
+2025,PHL,Philippines,constant,USD million,5620.9846
+2025,PNG,Papua New Guinea,constant,USD million,606.9738
+2025,PRY,Paraguay,constant,USD million,1363.7042
+2025,RUS,Russian Federation,constant,USD million,21370.0925
+2025,RWA,Rwanda,constant,USD million,362.2969
+2025,SDN,Sudan,constant,USD million,647.7759
+2025,SEN,Senegal,constant,USD million,1493.9992
+2025,SLB,Solomon Islands,constant,USD million,7.6793
+2025,SLE,Sierra Leone,constant,USD million,100.6672
+2025,SLV,El Salvador,constant,USD million,1230.4385
+2025,SOM,Somalia,constant,USD million,36.3985
+2025,SRB,Serbia,constant,USD million,1068.8842
+2025,STP,Sao Tome and Principe,constant,USD million,6.104
+2025,SUR,Suriname,constant,USD million,291.2288
+2025,SWZ,Eswatini,constant,USD million,104.0154
 2025,SYR,Syrian Arab Republic,constant,USD million,0.0
-2025,TCD,Chad,constant,USD million,339.8294
-2025,TGO,Togo,constant,USD million,211.8777
-2025,THA,Thailand,constant,USD million,2261.2736
-2025,TJK,Tajikistan,constant,USD million,563.9049
-2025,TKM,Turkmenistan,constant,USD million,384.7611
-2025,TLS,Timor-Leste,constant,USD million,29.5263
-2025,TON,Tonga,constant,USD million,17.59
-2025,TUN,Tunisia,constant,USD million,2971.6456
-2025,TUR,Turkiye,constant,USD million,31837.1145
-2025,TZA,Tanzania,constant,USD million,1565.9705
-2025,UGA,Uganda,constant,USD million,951.2175
-2025,UKR,Ukraine,constant,USD million,2215.5963
-2025,UZB,Uzbekistan,constant,USD million,3757.9746
-2025,VCT,St. Vincent and the Grenadines,constant,USD million,40.4659
-2025,VNM,Viet Nam,constant,USD million,4026.7519
-2025,VUT,Vanuatu,constant,USD million,15.2344
-2025,WSM,Samoa,constant,USD million,26.8712
-2025,XKX,Kosovo,constant,USD million,83.0472
-2025,YEM,"Yemen, Rep.",constant,USD million,832.0736
-2025,ZAF,South Africa,constant,USD million,9171.9256
-2025,ZMB,Zambia,constant,USD million,2063.6429
-2025,ZWE,Zimbabwe,constant,USD million,140.7018
+2025,TCD,Chad,constant,USD million,345.4999
+2025,TGO,Togo,constant,USD million,214.2693
+2025,THA,Thailand,constant,USD million,2381.6879
+2025,TJK,Tajikistan,constant,USD million,563.895
+2025,TKM,Turkmenistan,constant,USD million,375.9294
+2025,TLS,Timor-Leste,constant,USD million,29.7249
+2025,TON,Tonga,constant,USD million,17.4406
+2025,TUN,Tunisia,constant,USD million,3003.316
+2025,TUR,Turkiye,constant,USD million,24298.0406
+2025,TZA,Tanzania,constant,USD million,1577.2332
+2025,UGA,Uganda,constant,USD million,947.1303
+2025,UKR,Ukraine,constant,USD million,2188.2463
+2025,UZB,Uzbekistan,constant,USD million,3302.0473
+2025,VCT,St. Vincent and the Grenadines,constant,USD million,37.8524
+2025,VNM,Viet Nam,constant,USD million,4012.3504
+2025,VUT,Vanuatu,constant,USD million,16.8761
+2025,WSM,Samoa,constant,USD million,26.877
+2025,XKX,Kosovo,constant,USD million,85.713
+2025,YEM,"Yemen, Rep.",constant,USD million,881.17
+2025,ZAF,South Africa,constant,USD million,8489.57
+2025,ZMB,Zambia,constant,USD million,2108.767
+2025,ZWE,Zimbabwe,constant,USD million,135.931
