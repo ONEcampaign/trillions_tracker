@@ -20,7 +20,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,1,Austria,218,South Africa,0.45686,ZAF
 2015,1,Austria,225,Angola,0.009822,AGO
 2015,1,Austria,228,Burundi,0.019644,BDI
-2015,1,Austria,229,Cameroon,0.33056800000000003,CMR
+2015,1,Austria,229,Cameroon,0.330568,CMR
 2015,1,Austria,230,Cabo Verde,0.026124,CPV
 2015,1,Austria,231,Central African Republic,0.117303,CAF
 2015,1,Austria,232,Chad,0.110926,TCD
@@ -94,7 +94,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,1,Austria,573,Syrian Arab Republic,2.162778,SYR
 2015,1,Austria,580,Yemen,0.577601,YEM
 2015,1,Austria,589,"Middle East, regional",9.597337,
-2015,1,Austria,610,Armenia,3.1954029999999998,ARM
+2015,1,Austria,610,Armenia,3.195403,ARM
 2015,1,Austria,611,Azerbaijan,0.7996,AZE
 2015,1,Austria,612,Georgia,9.760475,GEO
 2015,1,Austria,613,Kazakhstan,1.760494,KAZ
@@ -556,7 +556,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,5,Germany,610,Armenia,99.417079,ARM
 2015,5,Germany,611,Azerbaijan,6.937195,AZE
 2015,5,Germany,612,Georgia,53.625797,GEO
-2015,5,Germany,613,Kazakhstan,12.386819000000001,KAZ
+2015,5,Germany,613,Kazakhstan,12.386819,KAZ
 2015,5,Germany,614,Kyrgyzstan,22.160103,KGZ
 2015,5,Germany,615,Tajikistan,15.314693,TJK
 2015,5,Germany,616,Turkmenistan,1.047972,TKM
@@ -569,7 +569,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,5,Germany,645,India,1009.345556,IND
 2015,5,Germany,655,Maldives,0.077812,MDV
 2015,5,Germany,660,Nepal,95.414582,NPL
-2015,5,Germany,665,Pakistan,139.46799,PAK
+2015,5,Germany,665,Pakistan,139.46799000000001,PAK
 2015,5,Germany,666,Bangladesh,112.973645,BGD
 2015,5,Germany,679,"South Asia, regional",8.732112,
 2015,5,Germany,728,Cambodia,38.334464,KHM
@@ -676,7 +676,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,6,Italy,428,Bolivia,6.073326,BOL
 2015,6,Italy,431,Brazil,5.329775,BRA
 2015,6,Italy,434,Chile,0.551715,CHL
-2015,6,Italy,437,Colombia,2.5755500000000002,COL
+2015,6,Italy,437,Colombia,2.57555,COL
 2015,6,Italy,440,Ecuador,14.988481,ECU
 2015,6,Italy,451,Paraguay,0.736855,PRY
 2015,6,Italy,454,Peru,4.198097,PER
@@ -793,7 +793,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,7,Netherlands,798,"Asia, regional",2.742914,
 2015,7,Netherlands,854,Vanuatu,2.937139,VUT
 2015,7,Netherlands,9998,"Bilateral, unspecified",3877.362127,
-2015,8,Norway,55,TÃ¼rkiye,5.267833,TUR
+2015,8,Norway,55,TÃ¼rkiye,5.2678329999999995,TUR
 2015,8,Norway,57,Kosovo,18.418168,XKX
 2015,8,Norway,63,Serbia,5.967778,SRB
 2015,8,Norway,64,Bosnia and Herzegovina,17.929757,BIH
@@ -825,7 +825,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,8,Norway,243,Guinea,0.124519,GIN
 2015,8,Norway,244,Guinea-Bissau,0.147926,GNB
 2015,8,Norway,247,Côte d'Ivoire,1.583601,CIV
-2015,8,Norway,248,Kenya,11.882091,KEN
+2015,8,Norway,248,Kenya,11.882090999999999,KEN
 2015,8,Norway,249,Lesotho,0.099715,LSO
 2015,8,Norway,251,Liberia,17.787631,LBR
 2015,8,Norway,252,Madagascar,19.066127,MDG
@@ -857,7 +857,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,8,Norway,338,Cuba,2.584677,CUB
 2015,8,Norway,340,Dominican Republic,0.060266,DOM
 2015,8,Norway,342,El Salvador,0.620016,SLV
-2015,8,Norway,347,Guatemala,9.362241000000001,GTM
+2015,8,Norway,347,Guatemala,9.362241,GTM
 2015,8,Norway,349,Haiti,5.210847,HTI
 2015,8,Norway,351,Honduras,1.47077,HND
 2015,8,Norway,358,Mexico,0.029459,MEX
@@ -941,7 +941,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,9,Portugal,259,Mozambique,19.08806,MOZ
 2015,9,Portugal,265,Zimbabwe,0.046891,ZWE
 2015,9,Portugal,266,Rwanda,0.215079,RWA
-2015,9,Portugal,268,Sao Tome and Principe,26.694755999999998,STP
+2015,9,Portugal,268,Sao Tome and Principe,26.694756,STP
 2015,9,Portugal,269,Senegal,0.277125,SEN
 2015,9,Portugal,273,Somalia,0.113527,SOM
 2015,9,Portugal,275,Namibia,0.351023,NAM
@@ -1032,7 +1032,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,10,Sweden,287,Burkina Faso,6.831681,BFA
 2015,10,Sweden,288,Zambia,70.329191,ZMB
 2015,10,Sweden,289,"South of Sahara, regional",28.949378,
-2015,10,Sweden,298,"Africa, regional",29.751481000000002,
+2015,10,Sweden,298,"Africa, regional",29.751481,
 2015,10,Sweden,336,Costa Rica,0.067016,CRI
 2015,10,Sweden,340,Dominican Republic,0.021924,DOM
 2015,10,Sweden,342,El Salvador,1.864229,SLV
@@ -1134,7 +1134,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,11,Switzerland,247,Côte d'Ivoire,1.746606,CIV
 2015,11,Switzerland,248,Kenya,17.699201,KEN
 2015,11,Switzerland,249,Lesotho,0.022862,LSO
-2015,11,Switzerland,251,Liberia,6.264783,LBR
+2015,11,Switzerland,251,Liberia,6.2647829999999995,LBR
 2015,11,Switzerland,252,Madagascar,4.466348,MDG
 2015,11,Switzerland,253,Malawi,0.021657,MWI
 2015,11,Switzerland,255,Mali,26.223501,MLI
@@ -1314,7 +1314,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,12,United Kingdom,440,Ecuador,0.480579,ECU
 2015,12,United Kingdom,446,Guyana,1.185645,GUY
 2015,12,United Kingdom,451,Paraguay,0.746138,PRY
-2015,12,United Kingdom,454,Peru,8.724666000000001,PER
+2015,12,United Kingdom,454,Peru,8.724666,PER
 2015,12,United Kingdom,457,Suriname,0.048691,SUR
 2015,12,United Kingdom,460,Uruguay,2.3275,URY
 2015,12,United Kingdom,463,Venezuela,2.15159,VEN
@@ -1535,7 +1535,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,21,Ireland,259,Mozambique,40.921193,MOZ
 2015,21,Ireland,260,Niger,2.161113,NER
 2015,21,Ireland,261,Nigeria,1.299154,NGA
-2015,21,Ireland,265,Zimbabwe,7.2264100000000004,ZWE
+2015,21,Ireland,265,Zimbabwe,7.22641,ZWE
 2015,21,Ireland,266,Rwanda,2.372601,RWA
 2015,21,Ireland,269,Senegal,0.242438,SEN
 2015,21,Ireland,271,Eritrea,0.765489,ERI
@@ -1571,7 +1571,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,21,Ireland,555,Lebanon,1.578327,LBN
 2015,21,Ireland,573,Syrian Arab Republic,9.885164,SYR
 2015,21,Ireland,580,Yemen,1.94944,YEM
-2015,21,Ireland,589,"Middle East, regional",1.820299,
+2015,21,Ireland,589,"Middle East, regional",1.8202990000000001,
 2015,21,Ireland,612,Georgia,0.09576,GEO
 2015,21,Ireland,625,Afghanistan,2.757057,AFG
 2015,21,Ireland,635,Myanmar,1.262798,MMR
@@ -1876,7 +1876,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,50,Spain,751,Malaysia,0.025761,MYS
 2015,50,Spain,755,Philippines,3.290164,PHL
 2015,50,Spain,764,Thailand,0.027487,THA
-2015,50,Spain,769,Viet Nam,0.164007,VNM
+2015,50,Spain,769,Viet Nam,0.16400700000000001,VNM
 2015,50,Spain,798,"Asia, regional",0.165279,
 2015,50,Spain,854,Vanuatu,0.055463,VUT
 2015,50,Spain,862,Papua New Guinea,0.061009,PNG
@@ -1987,7 +1987,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,68,Czechia,611,Azerbaijan,0.040984,AZE
 2015,68,Czechia,612,Georgia,2.802745,GEO
 2015,68,Czechia,613,Kazakhstan,0.043906,KAZ
-2015,68,Czechia,614,Kyrgyzstan,0.20633,KGZ
+2015,68,Czechia,614,Kyrgyzstan,0.20632999999999999,KGZ
 2015,68,Czechia,615,Tajikistan,0.04776,TJK
 2015,68,Czechia,616,Turkmenistan,0.008206,TKM
 2015,68,Czechia,617,Uzbekistan,0.108968,UZB
@@ -2060,7 +2060,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,75,Hungary,64,Bosnia and Herzegovina,0.438907,BIH
 2015,75,Hungary,65,Montenegro,0.276336,MNE
 2015,75,Hungary,66,North Macedonia,0.106407,MKD
-2015,75,Hungary,71,Albania,0.039717999999999996,ALB
+2015,75,Hungary,71,Albania,0.039718,ALB
 2015,75,Hungary,85,Ukraine,2.28558,UKR
 2015,75,Hungary,86,Belarus,0.050561,BLR
 2015,75,Hungary,89,"Europe, regional",0.133328,
@@ -2177,7 +2177,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,76,Poland,230,Cabo Verde,0.002139,CPV
 2015,76,Poland,234,Congo,0.002387,COG
 2015,76,Poland,235,Democratic Republic of the Congo,0.014323,COD
-2015,76,Poland,236,Benin,0.00595,BEN
+2015,76,Poland,236,Benin,0.0059499999999999996,BEN
 2015,76,Poland,238,Ethiopia,27.294456,ETH
 2015,76,Poland,240,Gambia,0.002387,GMB
 2015,76,Poland,241,Ghana,0.024423,GHA
@@ -2254,7 +2254,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,76,Poland,9998,"Bilateral, unspecified",16.777262,
 2015,77,Romania,55,TÃ¼rkiye,0.058365,TUR
 2015,77,Romania,63,Serbia,0.24691,SRB
-2015,77,Romania,85,Ukraine,0.030034,UKR
+2015,77,Romania,85,Ukraine,0.030033999999999998,UKR
 2015,77,Romania,86,Belarus,0.003032,BLR
 2015,77,Romania,89,"Europe, regional",0.414791,
 2015,77,Romania,93,Moldova,1.308649,MDA
@@ -2314,7 +2314,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,84,Lithuania,64,Bosnia and Herzegovina,0.002773,BIH
 2015,84,Lithuania,65,Montenegro,0.001664,MNE
 2015,84,Lithuania,66,North Macedonia,0.005709,MKD
-2015,84,Lithuania,85,Ukraine,1.6781760000000001,UKR
+2015,84,Lithuania,85,Ukraine,1.678176,UKR
 2015,84,Lithuania,86,Belarus,1.147414,BLR
 2015,84,Lithuania,89,"Europe, regional",1.574043,
 2015,84,Lithuania,93,Moldova,0.069912,MDA
@@ -2748,7 +2748,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,576,United Arab Emirates,282,Tanzania,2.536493,TZA
 2015,576,United Arab Emirates,283,Togo,10.258077,TGO
 2015,576,United Arab Emirates,285,Uganda,1.025195,UGA
-2015,576,United Arab Emirates,287,Burkina Faso,0.741647,BFA
+2015,576,United Arab Emirates,287,Burkina Faso,0.7416470000000001,BFA
 2015,576,United Arab Emirates,298,"Africa, regional",1.155186,
 2015,576,United Arab Emirates,336,Costa Rica,0.013549,CRI
 2015,576,United Arab Emirates,338,Cuba,15.047567,CUB
@@ -2807,7 +2807,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,576,United Arab Emirates,880,Samoa,0.020072,WSM
 2015,576,United Arab Emirates,9998,"Bilateral, unspecified",31.536296,
 2015,701,Japan,55,TÃ¼rkiye,388.988563,TUR
-2015,701,Japan,57,Kosovo,3.984043,XKX
+2015,701,Japan,57,Kosovo,3.9840430000000002,XKX
 2015,701,Japan,63,Serbia,3.868368,SRB
 2015,701,Japan,64,Bosnia and Herzegovina,11.461045,BIH
 2015,701,Japan,65,Montenegro,0.401388,MNE
@@ -2903,7 +2903,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,701,Japan,463,Venezuela,0.53049,VEN
 2015,701,Japan,498,"America, regional",9.504652,
 2015,701,Japan,540,Iran,13.181317,IRN
-2015,701,Japan,543,Iraq,974.352599,IRQ
+2015,701,Japan,543,Iraq,974.3525989999999,IRQ
 2015,701,Japan,549,Jordan,239.044919,JOR
 2015,701,Japan,550,West Bank and Gaza Strip,55.421939,PSE
 2015,701,Japan,555,Lebanon,13.446962,LBN
@@ -3003,7 +3003,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,742,Korea,266,Rwanda,13.127811,RWA
 2015,742,Korea,269,Senegal,108.484218,SEN
 2015,742,Korea,272,Sierra Leone,2.135203,SLE
-2015,742,Korea,273,Somalia,0.714088,SOM
+2015,742,Korea,273,Somalia,0.7140880000000001,SOM
 2015,742,Korea,274,Djibouti,0.080805,DJI
 2015,742,Korea,275,Namibia,0.015704,NAM
 2015,742,Korea,278,Sudan,8.189691,SDN
@@ -3066,7 +3066,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,742,Korea,625,Afghanistan,60.560259,AFG
 2015,742,Korea,630,Bhutan,0.787648,BTN
 2015,742,Korea,635,Myanmar,100.633475,MMR
-2015,742,Korea,640,Sri Lanka,27.466563999999998,LKA
+2015,742,Korea,640,Sri Lanka,27.466564,LKA
 2015,742,Korea,645,India,0.233748,IND
 2015,742,Korea,655,Maldives,0.085166,MDV
 2015,742,Korea,660,Nepal,28.914772,NPL
@@ -3703,7 +3703,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,918,EU Institutions,625,Afghanistan,304.611481,AFG
 2015,918,EU Institutions,630,Bhutan,2.677537,BTN
 2015,918,EU Institutions,635,Myanmar,94.366114,MMR
-2015,918,EU Institutions,640,Sri Lanka,46.195297,LKA
+2015,918,EU Institutions,640,Sri Lanka,46.195297000000004,LKA
 2015,918,EU Institutions,645,India,715.020765,IND
 2015,918,EU Institutions,655,Maldives,0.002518,MDV
 2015,918,EU Institutions,660,Nepal,167.751127,NPL
@@ -4297,7 +4297,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2015,963,UNICEF,261,Nigeria,48.966433,NGA
 2015,963,UNICEF,265,Zimbabwe,8.395496,ZWE
 2015,963,UNICEF,266,Rwanda,7.754228,RWA
-2015,963,UNICEF,268,Sao Tome and Principe,1.360877,STP
+2015,963,UNICEF,268,Sao Tome and Principe,1.3608770000000001,STP
 2015,963,UNICEF,269,Senegal,5.538744,SEN
 2015,963,UNICEF,271,Eritrea,2.973882,ERI
 2015,963,UNICEF,272,Sierra Leone,10.28753,SLE
@@ -5094,7 +5094,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,2,Belgium,666,Bangladesh,1.501366,BGD
 2016,2,Belgium,679,"South Asia, regional",0.265399,
 2016,2,Belgium,728,Cambodia,3.676818,KHM
-2016,2,Belgium,730,China (People's Republic of),1.3914279999999999,CHN
+2016,2,Belgium,730,China (People's Republic of),1.391428,CHN
 2016,2,Belgium,738,Indonesia,2.418548,IDN
 2016,2,Belgium,745,Lao People's Democratic Republic,1.442295,LAO
 2016,2,Belgium,755,Philippines,4.86109,PHL
@@ -5128,7 +5128,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,3,Denmark,241,Ghana,19.39299,GHA
 2016,3,Denmark,248,Kenya,5.920065,KEN
 2016,3,Denmark,255,Mali,0.73492,MLI
-2016,3,Denmark,259,Mozambique,27.638553,MOZ
+2016,3,Denmark,259,Mozambique,27.638552999999998,MOZ
 2016,3,Denmark,260,Niger,0.447513,NER
 2016,3,Denmark,261,Nigeria,3.253575,NGA
 2016,3,Denmark,265,Zimbabwe,3.71427,ZWE
@@ -5159,6 +5159,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,3,Denmark,635,Myanmar,43.90351,MMR
 2016,3,Denmark,645,India,4.28131,IND
 2016,3,Denmark,660,Nepal,0.683425,NPL
+2016,3,Denmark,665,Pakistan,0.0,PAK
 2016,3,Denmark,666,Bangladesh,32.039815,BGD
 2016,3,Denmark,689,"South & Central Asia, regional",0.0156,
 2016,3,Denmark,730,China (People's Republic of),18.799642,CHN
@@ -5270,7 +5271,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,4,France,498,"America, regional",0.006635,
 2016,4,France,540,Iran,11.683156,IRN
 2016,4,France,543,Iraq,10.3695,IRQ
-2016,4,France,549,Jordan,152.520516,JOR
+2016,4,France,549,Jordan,152.52051600000001,JOR
 2016,4,France,550,West Bank and Gaza Strip,40.634865,PSE
 2016,4,France,555,Lebanon,45.046639,LBN
 2016,4,France,573,Syrian Arab Republic,15.421384,SYR
@@ -5401,7 +5402,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,5,Germany,381,Grenada,1.721318,GRD
 2016,5,Germany,383,Saint Lucia,0.0177,LCA
 2016,5,Germany,384,Saint Vincent and the Grenadines,0.020869,VCT
-2016,5,Germany,389,"Caribbean & Central America, regional",89.86354299999999,
+2016,5,Germany,389,"Caribbean & Central America, regional",89.863543,
 2016,5,Germany,425,Argentina,16.565049,ARG
 2016,5,Germany,428,Bolivia,33.86115,BOL
 2016,5,Germany,431,Brazil,122.323782,BRA
@@ -5409,7 +5410,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,5,Germany,437,Colombia,202.547315,COL
 2016,5,Germany,440,Ecuador,28.459586,ECU
 2016,5,Germany,446,Guyana,0.051908,GUY
-2016,5,Germany,451,Paraguay,7.861653,PRY
+2016,5,Germany,451,Paraguay,7.8616530000000004,PRY
 2016,5,Germany,454,Peru,311.598237,PER
 2016,5,Germany,457,Suriname,0.069732,SUR
 2016,5,Germany,460,Uruguay,2.626241,URY
@@ -5477,7 +5478,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,6,Italy,66,North Macedonia,0.044354,MKD
 2016,6,Italy,71,Albania,3.363487,ALB
 2016,6,Italy,85,Ukraine,9.471487,UKR
-2016,6,Italy,86,Belarus,0.49497599999999997,BLR
+2016,6,Italy,86,Belarus,0.494976,BLR
 2016,6,Italy,88,States Ex-Yugoslavia unspecified,0.348335,
 2016,6,Italy,89,"Europe, regional",0.783748,
 2016,6,Italy,93,Moldova,0.259892,MDA
@@ -5518,7 +5519,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,6,Italy,266,Rwanda,1.310382,RWA
 2016,6,Italy,269,Senegal,23.606767,SEN
 2016,6,Italy,271,Eritrea,0.735812,ERI
-2016,6,Italy,272,Sierra Leone,1.188446,SLE
+2016,6,Italy,272,Sierra Leone,1.1884460000000001,SLE
 2016,6,Italy,273,Somalia,13.155549,SOM
 2016,6,Italy,274,Djibouti,0.114413,DJI
 2016,6,Italy,275,Namibia,0.038704,NAM
@@ -5577,7 +5578,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,6,Italy,635,Myanmar,2.445029,MMR
 2016,6,Italy,640,Sri Lanka,2.137736,LKA
 2016,6,Italy,645,India,13.606678,IND
-2016,6,Italy,660,Nepal,1.7902689999999999,NPL
+2016,6,Italy,660,Nepal,1.790269,NPL
 2016,6,Italy,665,Pakistan,0.439278,PAK
 2016,6,Italy,666,Bangladesh,0.271036,BGD
 2016,6,Italy,728,Cambodia,1.125523,KHM
@@ -5645,7 +5646,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,7,Netherlands,451,Paraguay,0.031757,PRY
 2016,7,Netherlands,457,Suriname,0.451007,SUR
 2016,7,Netherlands,498,"America, regional",6.635593,
-2016,7,Netherlands,543,Iraq,46.588513999999996,IRQ
+2016,7,Netherlands,543,Iraq,46.588514,IRQ
 2016,7,Netherlands,549,Jordan,36.510829,JOR
 2016,7,Netherlands,550,West Bank and Gaza Strip,15.246405,PSE
 2016,7,Netherlands,555,Lebanon,80.225877,LBN
@@ -5866,7 +5867,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,10,Sweden,63,Serbia,29.983428,SRB
 2016,10,Sweden,64,Bosnia and Herzegovina,17.095351,BIH
 2016,10,Sweden,65,Montenegro,0.046,MNE
-2016,10,Sweden,66,North Macedonia,0.240051,MKD
+2016,10,Sweden,66,North Macedonia,0.24005100000000001,MKD
 2016,10,Sweden,71,Albania,13.305285,ALB
 2016,10,Sweden,85,Ukraine,13.715158,UKR
 2016,10,Sweden,86,Belarus,9.974038,BLR
@@ -6238,11 +6239,11 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,12,United Kingdom,798,"Asia, regional",66.961304,
 2016,12,United Kingdom,832,Fiji,0.261872,FJI
 2016,12,United Kingdom,836,Kiribati,0.015998,KIR
-2016,12,United Kingdom,854,Vanuatu,0.135088,VUT
+2016,12,United Kingdom,854,Vanuatu,0.13508799999999999,VUT
 2016,12,United Kingdom,862,Papua New Guinea,1.058802,PNG
 2016,12,United Kingdom,866,Solomon Islands,0.151179,SLB
 2016,12,United Kingdom,889,"Oceania, regional",3.984444,
-2016,12,United Kingdom,1031,"Caribbean, regional",77.45868899999999,
+2016,12,United Kingdom,1031,"Caribbean, regional",77.458689,
 2016,12,United Kingdom,9998,"Bilateral, unspecified",2646.683686,
 2016,18,Finland,55,TÃ¼rkiye,9.042186,TUR
 2016,18,Finland,57,Kosovo,2.167759,XKX
@@ -6384,7 +6385,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,21,Ireland,231,Central African Republic,6.703861,CAF
 2016,21,Ireland,232,Chad,1.461002,TCD
 2016,21,Ireland,234,Congo,0.002893,COG
-2016,21,Ireland,235,Democratic Republic of the Congo,7.125899,COD
+2016,21,Ireland,235,Democratic Republic of the Congo,7.1258989999999995,COD
 2016,21,Ireland,236,Benin,0.024098,BEN
 2016,21,Ireland,238,Ethiopia,39.226048,ETH
 2016,21,Ireland,239,Gabon,0.007372,GAB
@@ -6398,14 +6399,14 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,21,Ireland,251,Liberia,3.708804,LBR
 2016,21,Ireland,252,Madagascar,0.139799,MDG
 2016,21,Ireland,253,Malawi,21.589091,MWI
-2016,21,Ireland,255,Mali,0.838613,MLI
+2016,21,Ireland,255,Mali,0.8386129999999999,MLI
 2016,21,Ireland,256,Mauritania,0.215771,MRT
 2016,21,Ireland,259,Mozambique,30.100005,MOZ
 2016,21,Ireland,260,Niger,3.422512,NER
 2016,21,Ireland,261,Nigeria,3.570844,NGA
 2016,21,Ireland,265,Zimbabwe,6.966257,ZWE
 2016,21,Ireland,266,Rwanda,2.063616,RWA
-2016,21,Ireland,269,Senegal,0.24168800000000001,SEN
+2016,21,Ireland,269,Senegal,0.241688,SEN
 2016,21,Ireland,271,Eritrea,1.372312,ERI
 2016,21,Ireland,272,Sierra Leone,11.909449,SLE
 2016,21,Ireland,273,Somalia,7.170955,SOM
@@ -6416,7 +6417,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,21,Ireland,280,Eswatini,0.043187,SWZ
 2016,21,Ireland,282,Tanzania,28.07554,TZA
 2016,21,Ireland,283,Togo,0.012901,TGO
-2016,21,Ireland,285,Uganda,26.390249999999998,UGA
+2016,21,Ireland,285,Uganda,26.39025,UGA
 2016,21,Ireland,287,Burkina Faso,0.395096,BFA
 2016,21,Ireland,288,Zambia,12.470593000000001,ZMB
 2016,21,Ireland,289,"South of Sahara, regional",0.612308,
@@ -6515,7 +6516,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,22,Luxembourg,338,Cuba,0.185604,CUB
 2016,22,Luxembourg,340,Dominican Republic,0.038704,DOM
 2016,22,Luxembourg,342,El Salvador,5.071974,SLV
-2016,22,Luxembourg,347,Guatemala,0.42489899999999997,GTM
+2016,22,Luxembourg,347,Guatemala,0.424899,GTM
 2016,22,Luxembourg,349,Haiti,2.312815,HTI
 2016,22,Luxembourg,351,Honduras,0.167762,HND
 2016,22,Luxembourg,364,Nicaragua,9.396251,NIC
@@ -6675,7 +6676,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,50,Spain,285,Uganda,0.775767,UGA
 2016,50,Spain,287,Burkina Faso,2.283641,BFA
 2016,50,Spain,288,Zambia,0.009141,ZMB
-2016,50,Spain,289,"South of Sahara, regional",1.757046,
+2016,50,Spain,289,"South of Sahara, regional",1.7570459999999999,
 2016,50,Spain,298,"Africa, regional",0.571227,
 2016,50,Spain,336,Costa Rica,1.359105,CRI
 2016,50,Spain,338,Cuba,2116.051629,CUB
@@ -6718,7 +6719,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,50,Spain,613,Kazakhstan,0.121169,KAZ
 2016,50,Spain,614,Kyrgyzstan,0.057779,KGZ
 2016,50,Spain,617,Uzbekistan,0.063225,UZB
-2016,50,Spain,619,"Central Asia, regional",2.2191170000000002,
+2016,50,Spain,619,"Central Asia, regional",2.219117,
 2016,50,Spain,625,Afghanistan,0.544635,AFG
 2016,50,Spain,635,Myanmar,0.007295,MMR
 2016,50,Spain,640,Sri Lanka,0.228734,LKA
@@ -6774,10 +6775,10 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,61,Slovenia,9998,"Bilateral, unspecified",11.815106,
 2016,68,Czechia,55,TÃ¼rkiye,0.42739900000000003,TUR
 2016,68,Czechia,57,Kosovo,1.527896,XKX
-2016,68,Czechia,63,Serbia,2.227603,SRB
+2016,68,Czechia,63,Serbia,2.2276029999999998,SRB
 2016,68,Czechia,64,Bosnia and Herzegovina,3.297001,BIH
 2016,68,Czechia,65,Montenegro,0.100895,MNE
-2016,68,Czechia,66,North Macedonia,1.0884179999999999,MKD
+2016,68,Czechia,66,North Macedonia,1.088418,MKD
 2016,68,Czechia,71,Albania,0.163097,ALB
 2016,68,Czechia,85,Ukraine,2.756939,UKR
 2016,68,Czechia,86,Belarus,0.636779,BLR
@@ -7039,7 +7040,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,76,Poland,225,Angola,5.929151,AGO
 2016,76,Poland,230,Cabo Verde,0.006479,CPV
 2016,76,Poland,235,Democratic Republic of the Congo,0.006846,COD
-2016,76,Poland,238,Ethiopia,42.3064,ETH
+2016,76,Poland,238,Ethiopia,42.306400000000004,ETH
 2016,76,Poland,240,Gambia,0.004564,GMB
 2016,76,Poland,241,Ghana,0.02254,GHA
 2016,76,Poland,243,Guinea,0.004564,GIN
@@ -7061,7 +7062,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,76,Poland,378,Dominica,0.002282,DMA
 2016,76,Poland,425,Argentina,0.004564,ARG
 2016,76,Poland,428,Bolivia,0.025055,BOL
-2016,76,Poland,431,Brazil,0.081407,BRA
+2016,76,Poland,431,Brazil,0.08140700000000001,BRA
 2016,76,Poland,434,Chile,0.002282,CHL
 2016,76,Poland,437,Colombia,0.099221,COL
 2016,76,Poland,440,Ecuador,0.002282,ECU
@@ -7203,7 +7204,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,82,Estonia,550,West Bank and Gaza Strip,0.230012,PSE
 2016,82,Estonia,573,Syrian Arab Republic,0.8348990000000001,SYR
 2016,82,Estonia,589,"Middle East, regional",0.43459,
-2016,82,Estonia,612,Georgia,1.758266,GEO
+2016,82,Estonia,612,Georgia,1.7582659999999999,GEO
 2016,82,Estonia,613,Kazakhstan,0.005529,KAZ
 2016,82,Estonia,614,Kyrgyzstan,0.405838,KGZ
 2016,82,Estonia,615,Tajikistan,0.181355,TJK
@@ -7337,7 +7338,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,301,Canada,280,Eswatini,0.328021,SWZ
 2016,301,Canada,282,Tanzania,148.786167,TZA
 2016,301,Canada,283,Togo,4.91078,TGO
-2016,301,Canada,285,Uganda,7.545226,UGA
+2016,301,Canada,285,Uganda,7.5452259999999995,UGA
 2016,301,Canada,287,Burkina Faso,26.287426,BFA
 2016,301,Canada,288,Zambia,5.136201,ZMB
 2016,301,Canada,289,"South of Sahara, regional",384.113919,
@@ -7389,7 +7390,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,301,Canada,630,Bhutan,0.090237,BTN
 2016,301,Canada,635,Myanmar,24.618098,MMR
 2016,301,Canada,640,Sri Lanka,17.221008,LKA
-2016,301,Canada,645,India,4.695611,IND
+2016,301,Canada,645,India,4.6956109999999995,IND
 2016,301,Canada,655,Maldives,0.081002,MDV
 2016,301,Canada,660,Nepal,20.017606,NPL
 2016,301,Canada,665,Pakistan,55.430502,PAK
@@ -7405,7 +7406,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,301,Canada,753,Mongolia,0.392305,MNG
 2016,301,Canada,755,Philippines,9.117572,PHL
 2016,301,Canada,764,Thailand,0.102354,THA
-2016,301,Canada,765,Timor-Leste,0.17499699999999999,TLS
+2016,301,Canada,765,Timor-Leste,0.174997,TLS
 2016,301,Canada,769,Viet Nam,4.63743,VNM
 2016,301,Canada,789,"Far East Asia, regional",5.868513,
 2016,301,Canada,798,"Asia, regional",232.953722,
@@ -7464,7 +7465,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,302,United States,256,Mauritania,15.479507,MRT
 2016,302,United States,257,Mauritius,0.044369,MUS
 2016,302,United States,259,Mozambique,495.992895,MOZ
-2016,302,United States,260,Niger,150.91043200000001,NER
+2016,302,United States,260,Niger,150.910432,NER
 2016,302,United States,261,Nigeria,728.548218,NGA
 2016,302,United States,265,Zimbabwe,266.426586,ZWE
 2016,302,United States,266,Rwanda,203.152585,RWA
@@ -7709,7 +7710,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,701,Japan,425,Argentina,3.949717,ARG
 2016,701,Japan,428,Bolivia,9.221665,BOL
 2016,701,Japan,431,Brazil,21.278834,BRA
-2016,701,Japan,434,Chile,3.263123,CHL
+2016,701,Japan,434,Chile,3.2631229999999998,CHL
 2016,701,Japan,437,Colombia,13.232039,COL
 2016,701,Japan,440,Ecuador,14.525025,ECU
 2016,701,Japan,446,Guyana,0.665283,GUY
@@ -7964,10 +7965,10 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,801,Australia,260,Niger,0.258455,NER
 2016,801,Australia,261,Nigeria,1.682347,NGA
 2016,801,Australia,265,Zimbabwe,3.234054,ZWE
-2016,801,Australia,266,Rwanda,0.6609389999999999,RWA
+2016,801,Australia,266,Rwanda,0.660939,RWA
 2016,801,Australia,268,Sao Tome and Principe,0.011833,STP
 2016,801,Australia,269,Senegal,0.128603,SEN
-2016,801,Australia,270,Seychelles,0.270371,SYC
+2016,801,Australia,270,Seychelles,0.27037100000000003,SYC
 2016,801,Australia,271,Eritrea,0.026738,ERI
 2016,801,Australia,272,Sierra Leone,0.169597,SLE
 2016,801,Australia,273,Somalia,5.232601,SOM
@@ -8187,7 +8188,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,820,New Zealand,285,Uganda,0.053156,UGA
 2016,820,New Zealand,288,Zambia,5.580603,ZMB
 2016,820,New Zealand,289,"South of Sahara, regional",0.852051,
-2016,820,New Zealand,298,"Africa, regional",0.23424999999999999,
+2016,820,New Zealand,298,"Africa, regional",0.23425,
 2016,820,New Zealand,336,Costa Rica,0.002785,CRI
 2016,820,New Zealand,347,Guatemala,0.13157,GTM
 2016,820,New Zealand,349,Haiti,0.370344,HTI
@@ -8237,7 +8238,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,820,New Zealand,798,"Asia, regional",2.280344,
 2016,820,New Zealand,831,Cook Islands,15.453668,COK
 2016,820,New Zealand,832,Fiji,32.629692,FJI
-2016,820,New Zealand,836,Kiribati,11.797396,KIR
+2016,820,New Zealand,836,Kiribati,11.797395999999999,KIR
 2016,820,New Zealand,845,Nauru,0.432997,NRU
 2016,820,New Zealand,854,Vanuatu,11.192309,VUT
 2016,820,New Zealand,856,Niue,10.752256,NIU
@@ -8594,7 +8595,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,921,Arab Fund (AFESD),549,Jordan,0.661879,JOR
 2016,921,Arab Fund (AFESD),555,Lebanon,0.661879,LBN
 2016,921,Arab Fund (AFESD),580,Yemen,6.122382,YEM
-2016,921,Arab Fund (AFESD),9998,"Bilateral, unspecified",6.8669970000000005,
+2016,921,Arab Fund (AFESD),9998,"Bilateral, unspecified",6.866997,
 2016,923,UN Peacebuilding Fund,133,Libya,2.973102,LBY
 2016,923,UN Peacebuilding Fund,228,Burundi,6.759576,BDI
 2016,923,UN Peacebuilding Fund,231,Central African Republic,0.2675,CAF
@@ -8693,7 +8694,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,928,World Health Organisation,612,Georgia,0.446847,GEO
 2016,928,World Health Organisation,613,Kazakhstan,0.78251,KAZ
 2016,928,World Health Organisation,614,Kyrgyzstan,0.997366,KGZ
-2016,928,World Health Organisation,615,Tajikistan,1.066882,TJK
+2016,928,World Health Organisation,615,Tajikistan,1.0668819999999999,TJK
 2016,928,World Health Organisation,616,Turkmenistan,0.807042,TKM
 2016,928,World Health Organisation,617,Uzbekistan,0.782356,UZB
 2016,928,World Health Organisation,625,Afghanistan,2.430479,AFG
@@ -8703,7 +8704,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,928,World Health Organisation,645,India,8.019296,IND
 2016,928,World Health Organisation,655,Maldives,1.549076,MDV
 2016,928,World Health Organisation,660,Nepal,3.266064,NPL
-2016,928,World Health Organisation,665,Pakistan,2.144169,PAK
+2016,928,World Health Organisation,665,Pakistan,2.1441689999999998,PAK
 2016,928,World Health Organisation,666,Bangladesh,7.749348,BGD
 2016,928,World Health Organisation,679,"South Asia, regional",22.677647,
 2016,928,World Health Organisation,728,Cambodia,1.47123,KHM
@@ -8752,15 +8753,15 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,940,International Labour Organisation,189,"North of Sahara, regional",0.72368,
 2016,940,International Labour Organisation,218,South Africa,1.15823,ZAF
 2016,940,International Labour Organisation,225,Angola,0.48471,AGO
-2016,940,International Labour Organisation,227,Botswana,0.48371,BWA
+2016,940,International Labour Organisation,227,Botswana,0.48371000000000003,BWA
 2016,940,International Labour Organisation,228,Burundi,0.14296,BDI
 2016,940,International Labour Organisation,229,Cameroon,1.09232,CMR
 2016,940,International Labour Organisation,230,Cabo Verde,0.27722,CPV
-2016,940,International Labour Organisation,231,Central African Republic,0.24165999999999999,CAF
+2016,940,International Labour Organisation,231,Central African Republic,0.24166,CAF
 2016,940,International Labour Organisation,232,Chad,0.20449,TCD
-2016,940,International Labour Organisation,233,Comoros,0.24735000000000001,COM
+2016,940,International Labour Organisation,233,Comoros,0.24735,COM
 2016,940,International Labour Organisation,234,Congo,0.19464,COG
-2016,940,International Labour Organisation,235,Democratic Republic of the Congo,0.5398,COD
+2016,940,International Labour Organisation,235,Democratic Republic of the Congo,0.5398000000000001,COD
 2016,940,International Labour Organisation,236,Benin,0.23848,BEN
 2016,940,International Labour Organisation,238,Ethiopia,0.47012,ETH
 2016,940,International Labour Organisation,239,Gabon,0.18156,GAB
@@ -9094,7 +9095,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,959,UNDP,9998,"Bilateral, unspecified",42.077813,
 2016,963,UNICEF,55,TÃ¼rkiye,0.869154,TUR
 2016,963,UNICEF,57,Kosovo,0.7481140000000001,XKX
-2016,963,UNICEF,63,Serbia,0.70676,SRB
+2016,963,UNICEF,63,Serbia,0.7067599999999999,SRB
 2016,963,UNICEF,64,Bosnia and Herzegovina,0.847468,BIH
 2016,963,UNICEF,65,Montenegro,0.961073,MNE
 2016,963,UNICEF,66,North Macedonia,0.641826,MKD
@@ -9145,10 +9146,10 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,963,UNICEF,272,Sierra Leone,9.879305,SLE
 2016,963,UNICEF,273,Somalia,18.419928,SOM
 2016,963,UNICEF,274,Djibouti,1.086005,DJI
-2016,963,UNICEF,275,Namibia,1.2741500000000001,NAM
+2016,963,UNICEF,275,Namibia,1.27415,NAM
 2016,963,UNICEF,278,Sudan,14.415157,SDN
 2016,963,UNICEF,279,South Sudan,10.702072,SSD
-2016,963,UNICEF,280,Eswatini,1.4081919999999999,SWZ
+2016,963,UNICEF,280,Eswatini,1.408192,SWZ
 2016,963,UNICEF,282,Tanzania,19.59086,TZA
 2016,963,UNICEF,283,Togo,4.580309,TGO
 2016,963,UNICEF,285,Uganda,21.817069,UGA
@@ -9208,7 +9209,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,963,UNICEF,728,Cambodia,5.485541,KHM
 2016,963,UNICEF,730,China (People's Republic of),7.065375,CHN
 2016,963,UNICEF,738,Indonesia,4.920343,IDN
-2016,963,UNICEF,740,Democratic People's Republic of Korea,2.5633529999999998,PRK
+2016,963,UNICEF,740,Democratic People's Republic of Korea,2.563353,PRK
 2016,963,UNICEF,745,Lao People's Democratic Republic,2.688849,LAO
 2016,963,UNICEF,751,Malaysia,0.792855,MYS
 2016,963,UNICEF,753,Mongolia,1.455749,MNG
@@ -9299,7 +9300,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,971,UNAIDS,235,Democratic Republic of the Congo,1.737255,COD
 2016,971,UNAIDS,236,Benin,0.480905,BEN
 2016,971,UNAIDS,238,Ethiopia,0.820571,ETH
-2016,971,UNAIDS,239,Gabon,0.46866800000000003,GAB
+2016,971,UNAIDS,239,Gabon,0.468668,GAB
 2016,971,UNAIDS,240,Gambia,0.076204,GMB
 2016,971,UNAIDS,241,Ghana,0.791979,GHA
 2016,971,UNAIDS,243,Guinea,0.388785,GIN
@@ -9311,7 +9312,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,971,UNAIDS,251,Liberia,0.607227,LBR
 2016,971,UNAIDS,252,Madagascar,0.536205,MDG
 2016,971,UNAIDS,253,Malawi,1.023541,MWI
-2016,971,UNAIDS,255,Mali,0.42112700000000003,MLI
+2016,971,UNAIDS,255,Mali,0.421127,MLI
 2016,971,UNAIDS,256,Mauritania,0.13536,MRT
 2016,971,UNAIDS,259,Mozambique,1.196224,MOZ
 2016,971,UNAIDS,260,Niger,0.391196,NER
@@ -9360,7 +9361,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2016,971,UNAIDS,580,Yemen,0.133137,YEM
 2016,971,UNAIDS,589,"Middle East, regional",1.431885,
 2016,971,UNAIDS,613,Kazakhstan,0.785367,KAZ
-2016,971,UNAIDS,614,Kyrgyzstan,0.014258999999999999,KGZ
+2016,971,UNAIDS,614,Kyrgyzstan,0.014259,KGZ
 2016,971,UNAIDS,615,Tajikistan,0.057006,TJK
 2016,971,UNAIDS,617,Uzbekistan,0.162861,UZB
 2016,971,UNAIDS,630,Bhutan,0.001898,BTN
@@ -12099,7 +12100,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2017,301,Canada,71,Albania,0.110546,ALB
 2017,301,Canada,85,Ukraine,15.575668,UKR
 2017,301,Canada,86,Belarus,0.094214,BLR
-2017,301,Canada,89,"Europe, regional",40.078239,
+2017,301,Canada,89,"Europe, regional",40.078238999999996,
 2017,301,Canada,93,Moldova,0.096295,MDA
 2017,301,Canada,130,Algeria,0.510367,DZA
 2017,301,Canada,133,Libya,4.360432,LBY
@@ -12211,7 +12212,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2017,301,Canada,655,Maldives,0.007259,MDV
 2017,301,Canada,660,Nepal,8.73581,NPL
 2017,301,Canada,665,Pakistan,9.749545,PAK
-2017,301,Canada,666,Bangladesh,33.622567,BGD
+2017,301,Canada,666,Bangladesh,33.622567000000004,BGD
 2017,301,Canada,679,"South Asia, regional",0.881434,
 2017,301,Canada,689,"South & Central Asia, regional",0.993911,
 2017,301,Canada,728,Cambodia,0.927161,KHM
@@ -12774,7 +12775,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2017,801,Australia,236,Benin,0.005855,BEN
 2017,801,Australia,238,Ethiopia,3.648431,ETH
 2017,801,Australia,240,Gambia,0.412414,GMB
-2017,801,Australia,241,Ghana,2.409756,GHA
+2017,801,Australia,241,Ghana,2.4097560000000002,GHA
 2017,801,Australia,243,Guinea,0.012139,GIN
 2017,801,Australia,244,Guinea-Bissau,0.00646,GNB
 2017,801,Australia,245,Equatorial Guinea,0.018185,GNQ
@@ -12829,7 +12830,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2017,801,Australia,384,Saint Vincent and the Grenadines,2.11545,VCT
 2017,801,Australia,425,Argentina,0.455229,ARG
 2017,801,Australia,428,Bolivia,0.058127,BOL
-2017,801,Australia,431,Brazil,0.19145500000000001,BRA
+2017,801,Australia,431,Brazil,0.191455,BRA
 2017,801,Australia,434,Chile,0.252801,CHL
 2017,801,Australia,437,Colombia,0.184619,COL
 2017,801,Australia,440,Ecuador,0.018462,ECU
@@ -12869,7 +12870,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2017,801,Australia,751,Malaysia,1.04445,MYS
 2017,801,Australia,753,Mongolia,8.049552,MNG
 2017,801,Australia,755,Philippines,53.93395,PHL
-2017,801,Australia,764,Thailand,4.57565,THA
+2017,801,Australia,764,Thailand,4.5756499999999996,THA
 2017,801,Australia,765,Timor-Leste,69.062113,TLS
 2017,801,Australia,769,Viet Nam,39.091977,VNM
 2017,801,Australia,789,"Far East Asia, regional",8.98557,
@@ -15209,7 +15210,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2018,6,Italy,85,Ukraine,13.597267,UKR
 2018,6,Italy,86,Belarus,0.365343,BLR
 2018,6,Italy,88,States Ex-Yugoslavia unspecified,0.316562,
-2018,6,Italy,89,"Europe, regional",1.171288,
+2018,6,Italy,89,"Europe, regional",1.1712879999999999,
 2018,6,Italy,93,Moldova,0.631891,MDA
 2018,6,Italy,130,Algeria,1.474021,DZA
 2018,6,Italy,133,Libya,24.618725,LBY
@@ -15315,7 +15316,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2018,6,Italy,679,"South Asia, regional",0.029564,
 2018,6,Italy,689,"South & Central Asia, regional",0.015736,
 2018,6,Italy,728,Cambodia,0.461001,KHM
-2018,6,Italy,730,China (People's Republic of),2.239533,CHN
+2018,6,Italy,730,China (People's Republic of),2.2395329999999998,CHN
 2018,6,Italy,738,Indonesia,2.7869639999999998,IDN
 2018,6,Italy,740,Democratic People's Republic of Korea,0.111301,PRK
 2018,6,Italy,751,Malaysia,0.086858,MYS
@@ -16234,7 +16235,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2018,22,Luxembourg,228,Burundi,0.795202,BDI
 2018,22,Luxembourg,229,Cameroon,0.419008,CMR
 2018,22,Luxembourg,230,Cabo Verde,14.733116,CPV
-2018,22,Luxembourg,231,Central African Republic,1.401061,CAF
+2018,22,Luxembourg,231,Central African Republic,1.4010610000000001,CAF
 2018,22,Luxembourg,232,Chad,0.483512,TCD
 2018,22,Luxembourg,235,Democratic Republic of the Congo,4.157128,COD
 2018,22,Luxembourg,236,Benin,1.419173,BEN
@@ -16295,7 +16296,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2018,22,Luxembourg,635,Myanmar,6.430367,MMR
 2018,22,Luxembourg,640,Sri Lanka,0.217843,LKA
 2018,22,Luxembourg,645,India,1.461759,IND
-2018,22,Luxembourg,660,Nepal,3.503382,NPL
+2018,22,Luxembourg,660,Nepal,3.5033819999999998,NPL
 2018,22,Luxembourg,665,Pakistan,0.290755,PAK
 2018,22,Luxembourg,666,Bangladesh,3.141382,BGD
 2018,22,Luxembourg,679,"South Asia, regional",0.012615,
@@ -16741,7 +16742,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2018,69,Slovak Republic,85,Ukraine,1.09601,UKR
 2018,69,Slovak Republic,86,Belarus,0.16685,BLR
 2018,69,Slovak Republic,89,"Europe, regional",0.0658,
-2018,69,Slovak Republic,93,Moldova,0.97591,MDA
+2018,69,Slovak Republic,93,Moldova,0.9759099999999999,MDA
 2018,69,Slovak Republic,142,Egypt,0.00826,EGY
 2018,69,Slovak Republic,225,Angola,0.00858,AGO
 2018,69,Slovak Republic,228,Burundi,0.00528,BDI
@@ -19634,7 +19635,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,1,Austria,229,Cameroon,2.881584,CMR
 2019,1,Austria,230,Cabo Verde,0.010265,CPV
 2019,1,Austria,231,Central African Republic,0.018509,CAF
-2019,1,Austria,235,Democratic Republic of the Congo,0.28080700000000003,COD
+2019,1,Austria,235,Democratic Republic of the Congo,0.280807,COD
 2019,1,Austria,236,Benin,0.022389,BEN
 2019,1,Austria,238,Ethiopia,11.882971,ETH
 2019,1,Austria,239,Gabon,0.313445,GAB
@@ -19683,7 +19684,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,1,Austria,384,Saint Vincent and the Grenadines,0.039371,VCT
 2019,1,Austria,389,"Caribbean & Central America, regional",0.02765,
 2019,1,Austria,425,Argentina,0.329238,ARG
-2019,1,Austria,428,Bolivia,0.331012,BOL
+2019,1,Austria,428,Bolivia,0.33101200000000003,BOL
 2019,1,Austria,431,Brazil,2.049375,BRA
 2019,1,Austria,437,Colombia,2.340229,COL
 2019,1,Austria,440,Ecuador,0.30803,ECU
@@ -20712,7 +20713,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,10,Sweden,769,Viet Nam,0.642489,VNM
 2019,10,Sweden,798,"Asia, regional",2.832382,
 2019,10,Sweden,866,Solomon Islands,0.157213,SLB
-2019,10,Sweden,9998,"Bilateral, unspecified",1370.996031,
+2019,10,Sweden,9998,"Bilateral, unspecified",1370.363507,
 2019,11,Switzerland,55,TÃ¼rkiye,3.279049,TUR
 2019,11,Switzerland,57,Kosovo,29.671782,XKX
 2019,11,Switzerland,63,Serbia,33.476704,SRB
@@ -22914,7 +22915,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,742,Korea,349,Haiti,0.249897,HTI
 2019,742,Korea,351,Honduras,38.177047,HND
 2019,742,Korea,352,Belize,0.055074,BLZ
-2019,742,Korea,354,Jamaica,0.24795999999999999,JAM
+2019,742,Korea,354,Jamaica,0.24796,JAM
 2019,742,Korea,358,Mexico,1.428391,MEX
 2019,742,Korea,364,Nicaragua,1.000714,NIC
 2019,742,Korea,366,Panama,0.356908,PAN
@@ -22926,7 +22927,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,742,Korea,428,Bolivia,86.45844,BOL
 2019,742,Korea,431,Brazil,1.372991,BRA
 2019,742,Korea,437,Colombia,23.089485,COL
-2019,742,Korea,440,Ecuador,11.064419000000001,ECU
+2019,742,Korea,440,Ecuador,11.064419,ECU
 2019,742,Korea,451,Paraguay,71.890443,PRY
 2019,742,Korea,454,Peru,10.490398,PER
 2019,742,Korea,463,Venezuela,1.270839,VEN
@@ -23106,7 +23107,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,801,Australia,765,Timor-Leste,52.642404,TLS
 2019,801,Australia,769,Viet Nam,48.714508,VNM
 2019,801,Australia,789,"Far East Asia, regional",6.605479,
-2019,801,Australia,798,"Asia, regional",30.413,
+2019,801,Australia,798,"Asia, regional",27.180916,
 2019,801,Australia,831,Cook Islands,3.182005,COK
 2019,801,Australia,832,Fiji,41.541301,FJI
 2019,801,Australia,836,Kiribati,20.497012,KIR
@@ -23761,7 +23762,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,928,World Health Organisation,265,Zimbabwe,1.736138,ZWE
 2019,928,World Health Organisation,266,Rwanda,1.132116,RWA
 2019,928,World Health Organisation,268,Sao Tome and Principe,0.763514,STP
-2019,928,World Health Organisation,269,Senegal,0.9158270000000001,SEN
+2019,928,World Health Organisation,269,Senegal,0.915827,SEN
 2019,928,World Health Organisation,271,Eritrea,1.068175,ERI
 2019,928,World Health Organisation,272,Sierra Leone,1.322887,SLE
 2019,928,World Health Organisation,273,Somalia,5.460384,SOM
@@ -23817,7 +23818,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,928,World Health Organisation,612,Georgia,0.629685,GEO
 2019,928,World Health Organisation,613,Kazakhstan,0.642635,KAZ
 2019,928,World Health Organisation,614,Kyrgyzstan,0.910245,KGZ
-2019,928,World Health Organisation,615,Tajikistan,0.719609,TJK
+2019,928,World Health Organisation,615,Tajikistan,0.7196089999999999,TJK
 2019,928,World Health Organisation,616,Turkmenistan,0.233955,TKM
 2019,928,World Health Organisation,617,Uzbekistan,0.647995,UZB
 2019,928,World Health Organisation,625,Afghanistan,3.815149,AFG
@@ -23835,13 +23836,13 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,928,World Health Organisation,740,Democratic People's Republic of Korea,2.285428,PRK
 2019,928,World Health Organisation,745,Lao People's Democratic Republic,2.835299,LAO
 2019,928,World Health Organisation,751,Malaysia,0.857489,MYS
-2019,928,World Health Organisation,753,Mongolia,1.990317,MNG
+2019,928,World Health Organisation,753,Mongolia,1.9903170000000001,MNG
 2019,928,World Health Organisation,755,Philippines,2.716249,PHL
 2019,928,World Health Organisation,764,Thailand,2.423814,THA
 2019,928,World Health Organisation,765,Timor-Leste,2.140559,TLS
 2019,928,World Health Organisation,769,Viet Nam,4.618979,VNM
 2019,928,World Health Organisation,789,"Far East Asia, regional",24.817494,
-2019,928,World Health Organisation,831,Cook Islands,0.247461,COK
+2019,928,World Health Organisation,831,Cook Islands,0.24746100000000001,COK
 2019,928,World Health Organisation,832,Fiji,1.110241,FJI
 2019,928,World Health Organisation,836,Kiribati,0.329671,KIR
 2019,928,World Health Organisation,845,Nauru,0.062949,NRU
@@ -23976,7 +23977,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,932,Food and Agriculture Organisation,665,Pakistan,0.754808,PAK
 2019,932,Food and Agriculture Organisation,666,Bangladesh,1.428821,BGD
 2019,932,Food and Agriculture Organisation,728,Cambodia,0.544072,KHM
-2019,932,Food and Agriculture Organisation,730,China (People's Republic of),0.180881,CHN
+2019,932,Food and Agriculture Organisation,730,China (People's Republic of),0.18088100000000001,CHN
 2019,932,Food and Agriculture Organisation,738,Indonesia,0.510901,IDN
 2019,932,Food and Agriculture Organisation,740,Democratic People's Republic of Korea,0.859113,PRK
 2019,932,Food and Agriculture Organisation,745,Lao People's Democratic Republic,0.256979,LAO
@@ -24104,7 +24105,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,940,International Labour Organisation,550,West Bank and Gaza Strip,1.557923,PSE
 2019,940,International Labour Organisation,555,Lebanon,1.103021,LBN
 2019,940,International Labour Organisation,573,Syrian Arab Republic,0.458031,SYR
-2019,940,International Labour Organisation,580,Yemen,0.96786,YEM
+2019,940,International Labour Organisation,580,Yemen,0.9678599999999999,YEM
 2019,940,International Labour Organisation,589,"Middle East, regional",3.146684,
 2019,940,International Labour Organisation,610,Armenia,0.57316,ARM
 2019,940,International Labour Organisation,611,Azerbaijan,0.73437,AZE
@@ -24428,16 +24429,16 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,963,UNICEF,287,Burkina Faso,19.289,BFA
 2019,963,UNICEF,288,Zambia,9.08,ZMB
 2019,963,UNICEF,289,"South of Sahara, regional",6.852,
-2019,963,UNICEF,336,Costa Rica,0.813,CRI
+2019,963,UNICEF,336,Costa Rica,0.8130000000000001,CRI
 2019,963,UNICEF,338,Cuba,0.815,CUB
 2019,963,UNICEF,340,Dominican Republic,1.251,DOM
 2019,963,UNICEF,342,El Salvador,1.449,SLV
 2019,963,UNICEF,347,Guatemala,2.257,GTM
 2019,963,UNICEF,349,Haiti,7.602,HTI
 2019,963,UNICEF,351,Honduras,2.026,HND
-2019,963,UNICEF,352,Belize,1.247,BLZ
+2019,963,UNICEF,352,Belize,1.2469999999999999,BLZ
 2019,963,UNICEF,354,Jamaica,1.054,JAM
-2019,963,UNICEF,358,Mexico,1.2449999999999999,MEX
+2019,963,UNICEF,358,Mexico,1.245,MEX
 2019,963,UNICEF,364,Nicaragua,1.311,NIC
 2019,963,UNICEF,366,Panama,1.18,PAN
 2019,963,UNICEF,425,Argentina,0.963,ARG
@@ -24449,7 +24450,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,963,UNICEF,451,Paraguay,0.926,PRY
 2019,963,UNICEF,454,Peru,1.345,PER
 2019,963,UNICEF,463,Venezuela,11.9,VEN
-2019,963,UNICEF,489,"South America, regional",3.3649999999999998,
+2019,963,UNICEF,489,"South America, regional",3.365,
 2019,963,UNICEF,540,Iran,1.212,IRN
 2019,963,UNICEF,543,Iraq,2.902,IRQ
 2019,963,UNICEF,549,Jordan,3.247,JOR
@@ -24783,7 +24784,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,974,UNFPA,266,Rwanda,1.921576,RWA
 2019,974,UNFPA,268,Sao Tome and Principe,0.612786,STP
 2019,974,UNFPA,269,Senegal,2.512915,SEN
-2019,974,UNFPA,271,Eritrea,1.4412989999999999,ERI
+2019,974,UNFPA,271,Eritrea,1.441299,ERI
 2019,974,UNFPA,272,Sierra Leone,2.223373,SLE
 2019,974,UNFPA,273,Somalia,3.236369,SOM
 2019,974,UNFPA,274,Djibouti,0.855045,DJI
@@ -24842,7 +24843,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,974,UNFPA,665,Pakistan,5.386213,PAK
 2019,974,UNFPA,666,Bangladesh,5.410361,BGD
 2019,974,UNFPA,728,Cambodia,2.278101,KHM
-2019,974,UNFPA,730,China (People's Republic of),2.6297260000000002,CHN
+2019,974,UNFPA,730,China (People's Republic of),2.629726,CHN
 2019,974,UNFPA,738,Indonesia,3.365805,IDN
 2019,974,UNFPA,740,Democratic People's Republic of Korea,1.382759,PRK
 2019,974,UNFPA,745,Lao People's Democratic Republic,1.864052,LAO
@@ -25170,6 +25171,130 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,1025,Center of Excellence in Finance,93,Moldova,0.064368,MDA
 2019,1025,Center of Excellence in Finance,9998,"Bilateral, unspecified",0.6045,
 2019,1038,UN Institute for Disarmament Research,9998,"Bilateral, unspecified",0.184049,
+2019,1057,UN Development Coordination Office,55,TÃ¼rkiye,1.17326,TUR
+2019,1057,UN Development Coordination Office,57,Kosovo,1.048134,XKX
+2019,1057,UN Development Coordination Office,63,Serbia,0.530669,SRB
+2019,1057,UN Development Coordination Office,64,Bosnia and Herzegovina,0.924184,BIH
+2019,1057,UN Development Coordination Office,65,Montenegro,0.744384,MNE
+2019,1057,UN Development Coordination Office,66,North Macedonia,0.751235,MKD
+2019,1057,UN Development Coordination Office,71,Albania,1.060899,ALB
+2019,1057,UN Development Coordination Office,85,Ukraine,1.053482,UKR
+2019,1057,UN Development Coordination Office,86,Belarus,1.147798,BLR
+2019,1057,UN Development Coordination Office,93,Moldova,0.549533,MDA
+2019,1057,UN Development Coordination Office,130,Algeria,0.994681,DZA
+2019,1057,UN Development Coordination Office,133,Libya,0.517931,LBY
+2019,1057,UN Development Coordination Office,136,Morocco,1.004574,MAR
+2019,1057,UN Development Coordination Office,139,Tunisia,0.91849,TUN
+2019,1057,UN Development Coordination Office,142,Egypt,1.191681,EGY
+2019,1057,UN Development Coordination Office,218,South Africa,1.033804,ZAF
+2019,1057,UN Development Coordination Office,225,Angola,1.785639,AGO
+2019,1057,UN Development Coordination Office,227,Botswana,0.320856,BWA
+2019,1057,UN Development Coordination Office,228,Burundi,1.366024,BDI
+2019,1057,UN Development Coordination Office,229,Cameroon,1.413625,CMR
+2019,1057,UN Development Coordination Office,230,Cabo Verde,0.980991,CPV
+2019,1057,UN Development Coordination Office,231,Central African Republic,1.002155,CAF
+2019,1057,UN Development Coordination Office,232,Chad,1.386961,TCD
+2019,1057,UN Development Coordination Office,233,Comoros,0.934852,COM
+2019,1057,UN Development Coordination Office,234,Congo,0.876086,COG
+2019,1057,UN Development Coordination Office,235,Democratic Republic of the Congo,1.19266,COD
+2019,1057,UN Development Coordination Office,236,Benin,1.035092,BEN
+2019,1057,UN Development Coordination Office,238,Ethiopia,0.807717,ETH
+2019,1057,UN Development Coordination Office,239,Gabon,1.117586,GAB
+2019,1057,UN Development Coordination Office,240,Gambia,0.901161,GMB
+2019,1057,UN Development Coordination Office,241,Ghana,0.434005,GHA
+2019,1057,UN Development Coordination Office,243,Guinea,0.693125,GIN
+2019,1057,UN Development Coordination Office,244,Guinea-Bissau,0.692632,GNB
+2019,1057,UN Development Coordination Office,245,Equatorial Guinea,0.312564,GNQ
+2019,1057,UN Development Coordination Office,247,Côte d'Ivoire,1.237595,CIV
+2019,1057,UN Development Coordination Office,248,Kenya,1.20809,KEN
+2019,1057,UN Development Coordination Office,249,Lesotho,0.992034,LSO
+2019,1057,UN Development Coordination Office,251,Liberia,1.353724,LBR
+2019,1057,UN Development Coordination Office,252,Madagascar,0.807863,MDG
+2019,1057,UN Development Coordination Office,253,Malawi,1.033883,MWI
+2019,1057,UN Development Coordination Office,255,Mali,0.911969,MLI
+2019,1057,UN Development Coordination Office,256,Mauritania,0.752826,MRT
+2019,1057,UN Development Coordination Office,257,Mauritius,0.943321,MUS
+2019,1057,UN Development Coordination Office,259,Mozambique,1.034608,MOZ
+2019,1057,UN Development Coordination Office,260,Niger,1.253947,NER
+2019,1057,UN Development Coordination Office,261,Nigeria,1.212982,NGA
+2019,1057,UN Development Coordination Office,265,Zimbabwe,1.32402,ZWE
+2019,1057,UN Development Coordination Office,266,Rwanda,0.801441,RWA
+2019,1057,UN Development Coordination Office,268,Sao Tome and Principe,0.996807,STP
+2019,1057,UN Development Coordination Office,269,Senegal,1.156205,SEN
+2019,1057,UN Development Coordination Office,271,Eritrea,0.725032,ERI
+2019,1057,UN Development Coordination Office,272,Sierra Leone,0.84522,SLE
+2019,1057,UN Development Coordination Office,273,Somalia,0.803367,SOM
+2019,1057,UN Development Coordination Office,274,Djibouti,1.223233,DJI
+2019,1057,UN Development Coordination Office,275,Namibia,0.549474,NAM
+2019,1057,UN Development Coordination Office,278,Sudan,1.371812,SDN
+2019,1057,UN Development Coordination Office,279,South Sudan,1.362262,SSD
+2019,1057,UN Development Coordination Office,280,Eswatini,1.047605,SWZ
+2019,1057,UN Development Coordination Office,282,Tanzania,1.048991,TZA
+2019,1057,UN Development Coordination Office,283,Togo,0.966646,TGO
+2019,1057,UN Development Coordination Office,285,Uganda,1.355365,UGA
+2019,1057,UN Development Coordination Office,287,Burkina Faso,0.881516,BFA
+2019,1057,UN Development Coordination Office,288,Zambia,0.833975,ZMB
+2019,1057,UN Development Coordination Office,336,Costa Rica,1.35394,CRI
+2019,1057,UN Development Coordination Office,338,Cuba,0.857509,CUB
+2019,1057,UN Development Coordination Office,340,Dominican Republic,0.750981,DOM
+2019,1057,UN Development Coordination Office,342,El Salvador,0.75239,SLV
+2019,1057,UN Development Coordination Office,347,Guatemala,1.161014,GTM
+2019,1057,UN Development Coordination Office,349,Haiti,1.098252,HTI
+2019,1057,UN Development Coordination Office,351,Honduras,1.14278,HND
+2019,1057,UN Development Coordination Office,352,Belize,0.328199,BLZ
+2019,1057,UN Development Coordination Office,354,Jamaica,0.760835,JAM
+2019,1057,UN Development Coordination Office,358,Mexico,1.21721,MEX
+2019,1057,UN Development Coordination Office,364,Nicaragua,0.03509,NIC
+2019,1057,UN Development Coordination Office,366,Panama,1.156127,PAN
+2019,1057,UN Development Coordination Office,425,Argentina,0.60492,ARG
+2019,1057,UN Development Coordination Office,428,Bolivia,1.105271,BOL
+2019,1057,UN Development Coordination Office,431,Brazil,1.065529,BRA
+2019,1057,UN Development Coordination Office,437,Colombia,0.951308,COL
+2019,1057,UN Development Coordination Office,440,Ecuador,1.286508,ECU
+2019,1057,UN Development Coordination Office,446,Guyana,0.99199,GUY
+2019,1057,UN Development Coordination Office,451,Paraguay,0.723317,PRY
+2019,1057,UN Development Coordination Office,454,Peru,0.810895,PER
+2019,1057,UN Development Coordination Office,457,Suriname,0.224728,SUR
+2019,1057,UN Development Coordination Office,463,Venezuela,1.38136,VEN
+2019,1057,UN Development Coordination Office,540,Iran,1.139531,IRN
+2019,1057,UN Development Coordination Office,543,Iraq,0.638711,IRQ
+2019,1057,UN Development Coordination Office,549,Jordan,1.374353,JOR
+2019,1057,UN Development Coordination Office,550,West Bank and Gaza Strip,0.678971,PSE
+2019,1057,UN Development Coordination Office,555,Lebanon,1.189783,LBN
+2019,1057,UN Development Coordination Office,573,Syrian Arab Republic,0.933118,SYR
+2019,1057,UN Development Coordination Office,580,Yemen,1.966404,YEM
+2019,1057,UN Development Coordination Office,610,Armenia,0.917092,ARM
+2019,1057,UN Development Coordination Office,611,Azerbaijan,1.231115,AZE
+2019,1057,UN Development Coordination Office,612,Georgia,0.925457,GEO
+2019,1057,UN Development Coordination Office,613,Kazakhstan,1.013094,KAZ
+2019,1057,UN Development Coordination Office,614,Kyrgyzstan,1.180228,KGZ
+2019,1057,UN Development Coordination Office,615,Tajikistan,0.321111,TJK
+2019,1057,UN Development Coordination Office,616,Turkmenistan,1.001594,TKM
+2019,1057,UN Development Coordination Office,617,Uzbekistan,1.287893,UZB
+2019,1057,UN Development Coordination Office,625,Afghanistan,0.61721,AFG
+2019,1057,UN Development Coordination Office,630,Bhutan,1.017077,BTN
+2019,1057,UN Development Coordination Office,635,Myanmar,1.18734,MMR
+2019,1057,UN Development Coordination Office,640,Sri Lanka,1.254639,LKA
+2019,1057,UN Development Coordination Office,645,India,1.081017,IND
+2019,1057,UN Development Coordination Office,655,Maldives,0.506235,MDV
+2019,1057,UN Development Coordination Office,660,Nepal,0.887323,NPL
+2019,1057,UN Development Coordination Office,665,Pakistan,1.013176,PAK
+2019,1057,UN Development Coordination Office,666,Bangladesh,1.188683,BGD
+2019,1057,UN Development Coordination Office,728,Cambodia,1.08751,KHM
+2019,1057,UN Development Coordination Office,730,China (People's Republic of),1.571476,CHN
+2019,1057,UN Development Coordination Office,738,Indonesia,1.160051,IDN
+2019,1057,UN Development Coordination Office,740,Democratic People's Republic of Korea,0.652259,PRK
+2019,1057,UN Development Coordination Office,745,Lao People's Democratic Republic,1.035318,LAO
+2019,1057,UN Development Coordination Office,751,Malaysia,0.979129,MYS
+2019,1057,UN Development Coordination Office,753,Mongolia,0.592549,MNG
+2019,1057,UN Development Coordination Office,755,Philippines,0.803278,PHL
+2019,1057,UN Development Coordination Office,764,Thailand,0.976027,THA
+2019,1057,UN Development Coordination Office,765,Timor-Leste,0.834858,TLS
+2019,1057,UN Development Coordination Office,769,Viet Nam,1.193604,VNM
+2019,1057,UN Development Coordination Office,832,Fiji,1.510449,FJI
+2019,1057,UN Development Coordination Office,862,Papua New Guinea,1.420495,PNG
+2019,1057,UN Development Coordination Office,880,Samoa,1.157088,WSM
+2019,1057,UN Development Coordination Office,9998,"Bilateral, unspecified",18.744974,
 2019,1312,Global Fund,57,Kosovo,1.274308,XKX
 2019,1312,Global Fund,63,Serbia,0.625665,SRB
 2019,1312,Global Fund,65,Montenegro,0.452396,MNE
@@ -25273,7 +25398,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2019,1312,Global Fund,753,Mongolia,1.559695,MNG
 2019,1312,Global Fund,755,Philippines,51.801301,PHL
 2019,1312,Global Fund,764,Thailand,10.847611,THA
-2019,1312,Global Fund,765,Timor-Leste,4.3005700000000004,TLS
+2019,1312,Global Fund,765,Timor-Leste,4.30057,TLS
 2019,1312,Global Fund,769,Viet Nam,29.882293,VNM
 2019,1312,Global Fund,789,"Far East Asia, regional",84.03658300000001,
 2019,1312,Global Fund,798,"Asia, regional",0.710108,
@@ -25665,7 +25790,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,4,France,252,Madagascar,119.85247,MDG
 2020,4,France,253,Malawi,0.256109,MWI
 2020,4,France,255,Mali,265.800642,MLI
-2020,4,France,256,Mauritania,45.713513999999996,MRT
+2020,4,France,256,Mauritania,45.713514,MRT
 2020,4,France,257,Mauritius,380.146852,MUS
 2020,4,France,259,Mozambique,20.318048,MOZ
 2020,4,France,260,Niger,184.04996,NER
@@ -26088,7 +26213,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,7,Netherlands,261,Nigeria,8.650262,NGA
 2020,7,Netherlands,265,Zimbabwe,0.395911,ZWE
 2020,7,Netherlands,266,Rwanda,1.552233,RWA
-2020,7,Netherlands,269,Senegal,0.175857,SEN
+2020,7,Netherlands,269,Senegal,0.17585699999999999,SEN
 2020,7,Netherlands,273,Somalia,35.512725,SOM
 2020,7,Netherlands,278,Sudan,10.067743,SDN
 2020,7,Netherlands,279,South Sudan,35.475264,SSD
@@ -26438,7 +26563,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,10,Sweden,1029,"Southern Africa, regional",4.34455,
 2020,10,Sweden,1030,"Western Africa, regional",5.429058,
 2020,10,Sweden,1032,"Central America, regional",0.542906,
-2020,10,Sweden,9998,"Bilateral, unspecified",1159.584757,
+2020,10,Sweden,9998,"Bilateral, unspecified",1157.552741,
 2020,11,Switzerland,55,TÃ¼rkiye,3.809811,TUR
 2020,11,Switzerland,57,Kosovo,26.788155,XKX
 2020,11,Switzerland,63,Serbia,22.102269,SRB
@@ -27454,7 +27579,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,69,Slovak Republic,89,"Europe, regional",0.00251,
 2020,69,Slovak Republic,93,Moldova,1.0389,MDA
 2020,69,Slovak Republic,228,Burundi,0.00226,BDI
-2020,69,Slovak Republic,238,Ethiopia,0.5460699999999999,ETH
+2020,69,Slovak Republic,238,Ethiopia,0.54607,ETH
 2020,69,Slovak Republic,248,Kenya,1.05569,KEN
 2020,69,Slovak Republic,249,Lesotho,0.03168,LSO
 2020,69,Slovak Republic,266,Rwanda,0.14233,RWA
@@ -28919,7 +29044,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,801,Australia,764,Thailand,5.848171,THA
 2020,801,Australia,765,Timor-Leste,85.453674,TLS
 2020,801,Australia,769,Viet Nam,47.07794,VNM
-2020,801,Australia,789,"Far East Asia, regional",7.437897,
+2020,801,Australia,789,"Far East Asia, regional",7.4378969999999995,
 2020,801,Australia,798,"Asia, regional",211.278945,
 2020,801,Australia,832,Fiji,51.399351,FJI
 2020,801,Australia,836,Kiribati,19.460336,KIR
@@ -29706,7 +29831,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,928,World Health Organisation,860,Micronesia,0.446994,FSM
 2020,928,World Health Organisation,861,Palau,0.045853,PLW
 2020,928,World Health Organisation,862,Papua New Guinea,1.974007,PNG
-2020,928,World Health Organisation,866,Solomon Islands,0.860817,SLB
+2020,928,World Health Organisation,866,Solomon Islands,0.8608169999999999,SLB
 2020,928,World Health Organisation,868,Tokelau,0.024418,TKL
 2020,928,World Health Organisation,870,Tonga,0.349358,TON
 2020,928,World Health Organisation,880,Samoa,0.64123,WSM
@@ -30936,6 +31061,130 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2020,1039,UN Capital Development Fund,764,Thailand,0.577858,THA
 2020,1039,UN Capital Development Fund,9998,"Bilateral, unspecified",9.985072,
 2020,1045,North American Development Bank,358,Mexico,1.0,MEX
+2020,1057,UN Development Coordination Office,55,TÃ¼rkiye,1.225122,TUR
+2020,1057,UN Development Coordination Office,57,Kosovo,1.046495,XKX
+2020,1057,UN Development Coordination Office,63,Serbia,0.998249,SRB
+2020,1057,UN Development Coordination Office,64,Bosnia and Herzegovina,1.300979,BIH
+2020,1057,UN Development Coordination Office,65,Montenegro,0.935862,MNE
+2020,1057,UN Development Coordination Office,66,North Macedonia,1.275485,MKD
+2020,1057,UN Development Coordination Office,71,Albania,1.014881,ALB
+2020,1057,UN Development Coordination Office,85,Ukraine,1.403567,UKR
+2020,1057,UN Development Coordination Office,86,Belarus,1.163942,BLR
+2020,1057,UN Development Coordination Office,93,Moldova,0.977856,MDA
+2020,1057,UN Development Coordination Office,130,Algeria,1.237618,DZA
+2020,1057,UN Development Coordination Office,133,Libya,0.536399,LBY
+2020,1057,UN Development Coordination Office,136,Morocco,0.902858,MAR
+2020,1057,UN Development Coordination Office,139,Tunisia,0.740616,TUN
+2020,1057,UN Development Coordination Office,142,Egypt,1.437402,EGY
+2020,1057,UN Development Coordination Office,218,South Africa,1.436672,ZAF
+2020,1057,UN Development Coordination Office,225,Angola,1.517618,AGO
+2020,1057,UN Development Coordination Office,227,Botswana,1.24762,BWA
+2020,1057,UN Development Coordination Office,228,Burundi,1.156813,BDI
+2020,1057,UN Development Coordination Office,229,Cameroon,1.523348,CMR
+2020,1057,UN Development Coordination Office,230,Cabo Verde,1.124988,CPV
+2020,1057,UN Development Coordination Office,231,Central African Republic,1.202488,CAF
+2020,1057,UN Development Coordination Office,232,Chad,1.591276,TCD
+2020,1057,UN Development Coordination Office,233,Comoros,1.331445,COM
+2020,1057,UN Development Coordination Office,234,Congo,1.297584,COG
+2020,1057,UN Development Coordination Office,235,Democratic Republic of the Congo,1.157609,COD
+2020,1057,UN Development Coordination Office,236,Benin,1.048976,BEN
+2020,1057,UN Development Coordination Office,238,Ethiopia,1.195998,ETH
+2020,1057,UN Development Coordination Office,239,Gabon,1.280733,GAB
+2020,1057,UN Development Coordination Office,240,Gambia,1.127833,GMB
+2020,1057,UN Development Coordination Office,241,Ghana,0.882056,GHA
+2020,1057,UN Development Coordination Office,243,Guinea,1.401584,GIN
+2020,1057,UN Development Coordination Office,244,Guinea-Bissau,1.161925,GNB
+2020,1057,UN Development Coordination Office,245,Equatorial Guinea,1.30825,GNQ
+2020,1057,UN Development Coordination Office,247,Côte d'Ivoire,2.124579,CIV
+2020,1057,UN Development Coordination Office,248,Kenya,1.390066,KEN
+2020,1057,UN Development Coordination Office,249,Lesotho,1.142905,LSO
+2020,1057,UN Development Coordination Office,251,Liberia,0.980748,LBR
+2020,1057,UN Development Coordination Office,252,Madagascar,1.093616,MDG
+2020,1057,UN Development Coordination Office,253,Malawi,1.258606,MWI
+2020,1057,UN Development Coordination Office,255,Mali,1.205236,MLI
+2020,1057,UN Development Coordination Office,256,Mauritania,1.103068,MRT
+2020,1057,UN Development Coordination Office,257,Mauritius,1.612263,MUS
+2020,1057,UN Development Coordination Office,259,Mozambique,1.362423,MOZ
+2020,1057,UN Development Coordination Office,260,Niger,1.142193,NER
+2020,1057,UN Development Coordination Office,261,Nigeria,1.408051,NGA
+2020,1057,UN Development Coordination Office,265,Zimbabwe,1.261792,ZWE
+2020,1057,UN Development Coordination Office,266,Rwanda,1.361312,RWA
+2020,1057,UN Development Coordination Office,268,Sao Tome and Principe,1.001123,STP
+2020,1057,UN Development Coordination Office,269,Senegal,1.262967,SEN
+2020,1057,UN Development Coordination Office,271,Eritrea,1.224041,ERI
+2020,1057,UN Development Coordination Office,272,Sierra Leone,1.413055,SLE
+2020,1057,UN Development Coordination Office,273,Somalia,0.919328,SOM
+2020,1057,UN Development Coordination Office,274,Djibouti,1.412794,DJI
+2020,1057,UN Development Coordination Office,275,Namibia,1.180085,NAM
+2020,1057,UN Development Coordination Office,278,Sudan,1.401821,SDN
+2020,1057,UN Development Coordination Office,279,South Sudan,1.588552,SSD
+2020,1057,UN Development Coordination Office,280,Eswatini,1.083613,SWZ
+2020,1057,UN Development Coordination Office,282,Tanzania,1.317205,TZA
+2020,1057,UN Development Coordination Office,283,Togo,1.207484,TGO
+2020,1057,UN Development Coordination Office,285,Uganda,1.74361,UGA
+2020,1057,UN Development Coordination Office,287,Burkina Faso,1.094709,BFA
+2020,1057,UN Development Coordination Office,288,Zambia,0.927332,ZMB
+2020,1057,UN Development Coordination Office,336,Costa Rica,1.475469,CRI
+2020,1057,UN Development Coordination Office,338,Cuba,0.973797,CUB
+2020,1057,UN Development Coordination Office,340,Dominican Republic,1.009674,DOM
+2020,1057,UN Development Coordination Office,342,El Salvador,1.291218,SLV
+2020,1057,UN Development Coordination Office,347,Guatemala,1.600741,GTM
+2020,1057,UN Development Coordination Office,349,Haiti,1.038652,HTI
+2020,1057,UN Development Coordination Office,351,Honduras,0.958358,HND
+2020,1057,UN Development Coordination Office,352,Belize,0.553367,BLZ
+2020,1057,UN Development Coordination Office,354,Jamaica,0.977296,JAM
+2020,1057,UN Development Coordination Office,358,Mexico,1.009304,MEX
+2020,1057,UN Development Coordination Office,364,Nicaragua,0.171453,NIC
+2020,1057,UN Development Coordination Office,366,Panama,1.204483,PAN
+2020,1057,UN Development Coordination Office,425,Argentina,1.3508,ARG
+2020,1057,UN Development Coordination Office,428,Bolivia,1.450116,BOL
+2020,1057,UN Development Coordination Office,431,Brazil,1.14396,BRA
+2020,1057,UN Development Coordination Office,437,Colombia,1.002417,COL
+2020,1057,UN Development Coordination Office,440,Ecuador,1.640804,ECU
+2020,1057,UN Development Coordination Office,446,Guyana,1.031605,GUY
+2020,1057,UN Development Coordination Office,451,Paraguay,1.012529,PRY
+2020,1057,UN Development Coordination Office,454,Peru,1.188303,PER
+2020,1057,UN Development Coordination Office,457,Suriname,0.304098,SUR
+2020,1057,UN Development Coordination Office,463,Venezuela,1.435671,VEN
+2020,1057,UN Development Coordination Office,540,Iran,1.108888,IRN
+2020,1057,UN Development Coordination Office,543,Iraq,0.909799,IRQ
+2020,1057,UN Development Coordination Office,549,Jordan,1.573059,JOR
+2020,1057,UN Development Coordination Office,550,West Bank and Gaza Strip,1.123087,PSE
+2020,1057,UN Development Coordination Office,555,Lebanon,1.127778,LBN
+2020,1057,UN Development Coordination Office,573,Syrian Arab Republic,1.380347,SYR
+2020,1057,UN Development Coordination Office,580,Yemen,2.501495,YEM
+2020,1057,UN Development Coordination Office,610,Armenia,1.00049,ARM
+2020,1057,UN Development Coordination Office,611,Azerbaijan,1.143871,AZE
+2020,1057,UN Development Coordination Office,612,Georgia,0.882524,GEO
+2020,1057,UN Development Coordination Office,613,Kazakhstan,1.122411,KAZ
+2020,1057,UN Development Coordination Office,614,Kyrgyzstan,1.200287,KGZ
+2020,1057,UN Development Coordination Office,615,Tajikistan,1.044183,TJK
+2020,1057,UN Development Coordination Office,616,Turkmenistan,1.096443,TKM
+2020,1057,UN Development Coordination Office,617,Uzbekistan,1.196634,UZB
+2020,1057,UN Development Coordination Office,625,Afghanistan,1.414419,AFG
+2020,1057,UN Development Coordination Office,630,Bhutan,0.959912,BTN
+2020,1057,UN Development Coordination Office,635,Myanmar,1.017896,MMR
+2020,1057,UN Development Coordination Office,640,Sri Lanka,1.2798,LKA
+2020,1057,UN Development Coordination Office,645,India,1.193954,IND
+2020,1057,UN Development Coordination Office,655,Maldives,0.887396,MDV
+2020,1057,UN Development Coordination Office,660,Nepal,0.925913,NPL
+2020,1057,UN Development Coordination Office,665,Pakistan,1.154394,PAK
+2020,1057,UN Development Coordination Office,666,Bangladesh,1.440543,BGD
+2020,1057,UN Development Coordination Office,728,Cambodia,1.217368,KHM
+2020,1057,UN Development Coordination Office,730,China (People's Republic of),1.88283,CHN
+2020,1057,UN Development Coordination Office,738,Indonesia,1.160397,IDN
+2020,1057,UN Development Coordination Office,740,Democratic People's Republic of Korea,0.665821,PRK
+2020,1057,UN Development Coordination Office,745,Lao People's Democratic Republic,1.430459,LAO
+2020,1057,UN Development Coordination Office,751,Malaysia,0.93002,MYS
+2020,1057,UN Development Coordination Office,753,Mongolia,1.030078,MNG
+2020,1057,UN Development Coordination Office,755,Philippines,0.994454,PHL
+2020,1057,UN Development Coordination Office,764,Thailand,1.496823,THA
+2020,1057,UN Development Coordination Office,765,Timor-Leste,1.334371,TLS
+2020,1057,UN Development Coordination Office,769,Viet Nam,1.44934,VNM
+2020,1057,UN Development Coordination Office,832,Fiji,2.609616,FJI
+2020,1057,UN Development Coordination Office,862,Papua New Guinea,1.712641,PNG
+2020,1057,UN Development Coordination Office,880,Samoa,1.372023,WSM
+2020,1057,UN Development Coordination Office,9998,"Bilateral, unspecified",30.6609,
 2020,1312,Global Fund,57,Kosovo,1.370446,XKX
 2020,1312,Global Fund,63,Serbia,0.39449,SRB
 2020,1312,Global Fund,65,Montenegro,0.366182,MNE
@@ -32088,7 +32337,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2021,8,Norway,1027,"Eastern Africa, regional",15.073124,
 2021,8,Norway,1028,"Middle Africa, regional",93.115288,
 2021,8,Norway,1030,"Western Africa, regional",10.487587,
-2021,8,Norway,9998,"Bilateral, unspecified",2688.747122,
+2021,8,Norway,9998,"Bilateral, unspecified",2688.7471219999998,
 2021,9,Portugal,55,TÃ¼rkiye,2.560305,TUR
 2021,9,Portugal,57,Kosovo,0.005247,XKX
 2021,9,Portugal,63,Serbia,0.052838,SRB
@@ -34021,7 +34270,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2021,301,Canada,765,Timor-Leste,0.19141,TLS
 2021,301,Canada,769,Viet Nam,5.779799,VNM
 2021,301,Canada,789,"Far East Asia, regional",35.180272,
-2021,301,Canada,798,"Asia, regional",413.073588,
+2021,301,Canada,798,"Asia, regional",413.07358800000003,
 2021,301,Canada,832,Fiji,0.809454,FJI
 2021,301,Canada,836,Kiribati,0.781811,KIR
 2021,301,Canada,845,Nauru,0.749925,NRU
@@ -34783,7 +35032,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2021,801,Australia,765,Timor-Leste,104.139073,TLS
 2021,801,Australia,769,Viet Nam,88.061269,VNM
 2021,801,Australia,789,"Far East Asia, regional",57.440435,
-2021,801,Australia,798,"Asia, regional",66.667966,
+2021,801,Australia,798,"Asia, regional",65.916933,
 2021,801,Australia,832,Fiji,194.024884,FJI
 2021,801,Australia,836,Kiribati,30.196684,KIR
 2021,801,Australia,845,Nauru,20.47046,NRU
@@ -36979,6 +37228,131 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2021,1052,International Centre for Genetic Engineering and Biotechnology,769,Viet Nam,0.026845,VNM
 2021,1052,International Centre for Genetic Engineering and Biotechnology,9998,"Bilateral, unspecified",0.163552,
 2021,1054,World Organisation for Animal Health,9998,"Bilateral, unspecified",8.304247,
+2021,1057,UN Development Coordination Office,55,TÃ¼rkiye,1.097893,TUR
+2021,1057,UN Development Coordination Office,57,Kosovo,1.096172,XKX
+2021,1057,UN Development Coordination Office,63,Serbia,0.992024,SRB
+2021,1057,UN Development Coordination Office,64,Bosnia and Herzegovina,1.092111,BIH
+2021,1057,UN Development Coordination Office,65,Montenegro,0.96367,MNE
+2021,1057,UN Development Coordination Office,66,North Macedonia,0.98132,MKD
+2021,1057,UN Development Coordination Office,71,Albania,1.008282,ALB
+2021,1057,UN Development Coordination Office,85,Ukraine,1.368065,UKR
+2021,1057,UN Development Coordination Office,86,Belarus,1.337966,BLR
+2021,1057,UN Development Coordination Office,93,Moldova,0.986384,MDA
+2021,1057,UN Development Coordination Office,130,Algeria,1.261922,DZA
+2021,1057,UN Development Coordination Office,133,Libya,0.921818,LBY
+2021,1057,UN Development Coordination Office,136,Morocco,1.317994,MAR
+2021,1057,UN Development Coordination Office,139,Tunisia,0.796657,TUN
+2021,1057,UN Development Coordination Office,142,Egypt,1.429424,EGY
+2021,1057,UN Development Coordination Office,218,South Africa,1.306057,ZAF
+2021,1057,UN Development Coordination Office,225,Angola,1.863733,AGO
+2021,1057,UN Development Coordination Office,227,Botswana,1.218939,BWA
+2021,1057,UN Development Coordination Office,228,Burundi,1.662977,BDI
+2021,1057,UN Development Coordination Office,229,Cameroon,1.32323,CMR
+2021,1057,UN Development Coordination Office,230,Cabo Verde,1.215146,CPV
+2021,1057,UN Development Coordination Office,231,Central African Republic,0.992272,CAF
+2021,1057,UN Development Coordination Office,232,Chad,1.722159,TCD
+2021,1057,UN Development Coordination Office,233,Comoros,1.500609,COM
+2021,1057,UN Development Coordination Office,234,Congo,1.537763,COG
+2021,1057,UN Development Coordination Office,235,Democratic Republic of the Congo,1.363231,COD
+2021,1057,UN Development Coordination Office,236,Benin,1.022356,BEN
+2021,1057,UN Development Coordination Office,238,Ethiopia,1.156695,ETH
+2021,1057,UN Development Coordination Office,239,Gabon,1.358151,GAB
+2021,1057,UN Development Coordination Office,240,Gambia,1.140924,GMB
+2021,1057,UN Development Coordination Office,241,Ghana,1.21765,GHA
+2021,1057,UN Development Coordination Office,243,Guinea,1.652544,GIN
+2021,1057,UN Development Coordination Office,244,Guinea-Bissau,1.523261,GNB
+2021,1057,UN Development Coordination Office,245,Equatorial Guinea,1.489207,GNQ
+2021,1057,UN Development Coordination Office,247,Côte d'Ivoire,1.363872,CIV
+2021,1057,UN Development Coordination Office,248,Kenya,1.430612,KEN
+2021,1057,UN Development Coordination Office,249,Lesotho,1.129284,LSO
+2021,1057,UN Development Coordination Office,251,Liberia,1.542742,LBR
+2021,1057,UN Development Coordination Office,252,Madagascar,1.136667,MDG
+2021,1057,UN Development Coordination Office,253,Malawi,1.188822,MWI
+2021,1057,UN Development Coordination Office,255,Mali,1.066364,MLI
+2021,1057,UN Development Coordination Office,256,Mauritania,1.118578,MRT
+2021,1057,UN Development Coordination Office,257,Mauritius,1.477938,MUS
+2021,1057,UN Development Coordination Office,259,Mozambique,1.468996,MOZ
+2021,1057,UN Development Coordination Office,260,Niger,1.51304,NER
+2021,1057,UN Development Coordination Office,261,Nigeria,1.583079,NGA
+2021,1057,UN Development Coordination Office,265,Zimbabwe,1.603796,ZWE
+2021,1057,UN Development Coordination Office,266,Rwanda,1.168901,RWA
+2021,1057,UN Development Coordination Office,268,Sao Tome and Principe,0.821815,STP
+2021,1057,UN Development Coordination Office,269,Senegal,1.280933,SEN
+2021,1057,UN Development Coordination Office,271,Eritrea,1.385644,ERI
+2021,1057,UN Development Coordination Office,272,Sierra Leone,1.470181,SLE
+2021,1057,UN Development Coordination Office,273,Somalia,0.520827,SOM
+2021,1057,UN Development Coordination Office,274,Djibouti,1.457368,DJI
+2021,1057,UN Development Coordination Office,275,Namibia,1.108668,NAM
+2021,1057,UN Development Coordination Office,278,Sudan,1.232953,SDN
+2021,1057,UN Development Coordination Office,279,South Sudan,1.476324,SSD
+2021,1057,UN Development Coordination Office,280,Eswatini,1.040237,SWZ
+2021,1057,UN Development Coordination Office,282,Tanzania,1.721602,TZA
+2021,1057,UN Development Coordination Office,283,Togo,1.257551,TGO
+2021,1057,UN Development Coordination Office,285,Uganda,1.36663,UGA
+2021,1057,UN Development Coordination Office,287,Burkina Faso,1.111771,BFA
+2021,1057,UN Development Coordination Office,288,Zambia,1.134234,ZMB
+2021,1057,UN Development Coordination Office,336,Costa Rica,1.331001,CRI
+2021,1057,UN Development Coordination Office,338,Cuba,0.735902,CUB
+2021,1057,UN Development Coordination Office,340,Dominican Republic,0.988174,DOM
+2021,1057,UN Development Coordination Office,342,El Salvador,1.199513,SLV
+2021,1057,UN Development Coordination Office,347,Guatemala,1.731509,GTM
+2021,1057,UN Development Coordination Office,349,Haiti,1.561228,HTI
+2021,1057,UN Development Coordination Office,351,Honduras,1.380047,HND
+2021,1057,UN Development Coordination Office,352,Belize,0.623981,BLZ
+2021,1057,UN Development Coordination Office,354,Jamaica,1.374138,JAM
+2021,1057,UN Development Coordination Office,358,Mexico,1.163377,MEX
+2021,1057,UN Development Coordination Office,364,Nicaragua,0.09215,NIC
+2021,1057,UN Development Coordination Office,366,Panama,1.169353,PAN
+2021,1057,UN Development Coordination Office,425,Argentina,1.299654,ARG
+2021,1057,UN Development Coordination Office,428,Bolivia,1.148008,BOL
+2021,1057,UN Development Coordination Office,431,Brazil,1.095946,BRA
+2021,1057,UN Development Coordination Office,437,Colombia,1.128518,COL
+2021,1057,UN Development Coordination Office,440,Ecuador,1.326512,ECU
+2021,1057,UN Development Coordination Office,446,Guyana,1.092725,GUY
+2021,1057,UN Development Coordination Office,451,Paraguay,1.269389,PRY
+2021,1057,UN Development Coordination Office,454,Peru,1.188319,PER
+2021,1057,UN Development Coordination Office,457,Suriname,0.394666,SUR
+2021,1057,UN Development Coordination Office,463,Venezuela,1.342944,VEN
+2021,1057,UN Development Coordination Office,540,Iran,1.113818,IRN
+2021,1057,UN Development Coordination Office,543,Iraq,1.065782,IRQ
+2021,1057,UN Development Coordination Office,549,Jordan,1.544786,JOR
+2021,1057,UN Development Coordination Office,550,West Bank and Gaza Strip,1.013537,PSE
+2021,1057,UN Development Coordination Office,555,Lebanon,1.233567,LBN
+2021,1057,UN Development Coordination Office,573,Syrian Arab Republic,1.346349,SYR
+2021,1057,UN Development Coordination Office,580,Yemen,1.958466,YEM
+2021,1057,UN Development Coordination Office,610,Armenia,0.845161,ARM
+2021,1057,UN Development Coordination Office,611,Azerbaijan,1.041051,AZE
+2021,1057,UN Development Coordination Office,612,Georgia,0.814093,GEO
+2021,1057,UN Development Coordination Office,613,Kazakhstan,0.978588,KAZ
+2021,1057,UN Development Coordination Office,614,Kyrgyzstan,1.215762,KGZ
+2021,1057,UN Development Coordination Office,615,Tajikistan,1.444306,TJK
+2021,1057,UN Development Coordination Office,616,Turkmenistan,1.089378,TKM
+2021,1057,UN Development Coordination Office,617,Uzbekistan,1.092771,UZB
+2021,1057,UN Development Coordination Office,625,Afghanistan,1.187368,AFG
+2021,1057,UN Development Coordination Office,630,Bhutan,0.987544,BTN
+2021,1057,UN Development Coordination Office,635,Myanmar,1.162398,MMR
+2021,1057,UN Development Coordination Office,640,Sri Lanka,1.23466,LKA
+2021,1057,UN Development Coordination Office,645,India,1.47351,IND
+2021,1057,UN Development Coordination Office,655,Maldives,1.070008,MDV
+2021,1057,UN Development Coordination Office,660,Nepal,1.127128,NPL
+2021,1057,UN Development Coordination Office,665,Pakistan,1.398986,PAK
+2021,1057,UN Development Coordination Office,666,Bangladesh,1.499715,BGD
+2021,1057,UN Development Coordination Office,728,Cambodia,1.273926,KHM
+2021,1057,UN Development Coordination Office,730,China (People's Republic of),2.220104,CHN
+2021,1057,UN Development Coordination Office,738,Indonesia,1.089235,IDN
+2021,1057,UN Development Coordination Office,740,Democratic People's Republic of Korea,0.829079,PRK
+2021,1057,UN Development Coordination Office,745,Lao People's Democratic Republic,1.274202,LAO
+2021,1057,UN Development Coordination Office,751,Malaysia,1.085524,MYS
+2021,1057,UN Development Coordination Office,753,Mongolia,1.366296,MNG
+2021,1057,UN Development Coordination Office,755,Philippines,1.10564,PHL
+2021,1057,UN Development Coordination Office,764,Thailand,1.454369,THA
+2021,1057,UN Development Coordination Office,765,Timor-Leste,1.211016,TLS
+2021,1057,UN Development Coordination Office,769,Viet Nam,1.160711,VNM
+2021,1057,UN Development Coordination Office,832,Fiji,2.876612,FJI
+2021,1057,UN Development Coordination Office,860,Micronesia,0.494465,FSM
+2021,1057,UN Development Coordination Office,862,Papua New Guinea,1.246152,PNG
+2021,1057,UN Development Coordination Office,880,Samoa,1.502789,WSM
+2021,1057,UN Development Coordination Office,9998,"Bilateral, unspecified",40.006742,
 2021,1312,Global Fund,57,Kosovo,0.7235240000000001,XKX
 2021,1312,Global Fund,63,Serbia,1.031878,SRB
 2021,1312,Global Fund,65,Montenegro,0.069873,MNE
@@ -37649,11 +38023,11 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,4,France,1032,"Central America, regional",0.51313,
 2022,4,France,9998,"Bilateral, unspecified",3551.775404,
 2022,5,Germany,55,TÃ¼rkiye,265.3611,TUR
-2022,5,Germany,57,Kosovo,121.33688599999999,XKX
+2022,5,Germany,57,Kosovo,121.336886,XKX
 2022,5,Germany,63,Serbia,121.663546,SRB
 2022,5,Germany,64,Bosnia and Herzegovina,22.322729,BIH
 2022,5,Germany,65,Montenegro,1.989412,MNE
-2022,5,Germany,66,North Macedonia,7.032454,MKD
+2022,5,Germany,66,North Macedonia,7.0324539999999995,MKD
 2022,5,Germany,71,Albania,142.509062,ALB
 2022,5,Germany,85,Ukraine,2072.528217,UKR
 2022,5,Germany,86,Belarus,11.483287,BLR
@@ -37723,7 +38097,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,5,Germany,351,Honduras,7.346273,HND
 2022,5,Germany,352,Belize,0.017596,BLZ
 2022,5,Germany,354,Jamaica,0.340286,JAM
-2022,5,Germany,358,Mexico,113.64442700000001,MEX
+2022,5,Germany,358,Mexico,113.644427,MEX
 2022,5,Germany,364,Nicaragua,2.007143,NIC
 2022,5,Germany,366,Panama,0.746872,PAN
 2022,5,Germany,378,Dominica,0.152211,DMA
@@ -37742,13 +38116,13 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,5,Germany,457,Suriname,0.062496,SUR
 2022,5,Germany,463,Venezuela,10.200974,VEN
 2022,5,Germany,489,"South America, regional",139.034061,
-2022,5,Germany,498,"America, regional",175.10882900000001,
+2022,5,Germany,498,"America, regional",175.108829,
 2022,5,Germany,540,Iran,106.351261,IRN
 2022,5,Germany,543,Iraq,302.965453,IRQ
 2022,5,Germany,549,Jordan,470.063577,JOR
 2022,5,Germany,550,West Bank and Gaza Strip,261.622331,PSE
 2022,5,Germany,555,Lebanon,369.109271,LBN
-2022,5,Germany,573,Syrian Arab Republic,684.348852,SYR
+2022,5,Germany,573,Syrian Arab Republic,684.320244,SYR
 2022,5,Germany,580,Yemen,464.736597,YEM
 2022,5,Germany,589,"Middle East, regional",112.688634,
 2022,5,Germany,610,Armenia,9.268364,ARM
@@ -37773,7 +38147,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,5,Germany,689,"South & Central Asia, regional",16.484142,
 2022,5,Germany,728,Cambodia,47.589999,KHM
 2022,5,Germany,730,China (People's Republic of),769.076577,CHN
-2022,5,Germany,738,Indonesia,488.01890099999997,IDN
+2022,5,Germany,738,Indonesia,488.018901,IDN
 2022,5,Germany,740,Democratic People's Republic of Korea,2.782333,PRK
 2022,5,Germany,745,Lao People's Democratic Republic,15.717259,LAO
 2022,5,Germany,751,Malaysia,11.803978,MYS
@@ -37815,14 +38189,14 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,6,Italy,89,"Europe, regional",32.604438,
 2022,6,Italy,93,Moldova,22.021615,MDA
 2022,6,Italy,130,Algeria,3.910288,DZA
-2022,6,Italy,133,Libya,38.609647,LBY
+2022,6,Italy,133,Libya,38.607544,LBY
 2022,6,Italy,136,Morocco,2.976328,MAR
-2022,6,Italy,139,Tunisia,39.379160999999996,TUN
+2022,6,Italy,139,Tunisia,26.759538,TUN
 2022,6,Italy,142,Egypt,3.419089,EGY
 2022,6,Italy,189,"North of Sahara, regional",0.042884,
 2022,6,Italy,218,South Africa,0.747218,ZAF
 2022,6,Italy,225,Angola,1.595491,AGO
-2022,6,Italy,228,Burundi,1.516494,BDI
+2022,6,Italy,228,Burundi,1.515442,BDI
 2022,6,Italy,229,Cameroon,12.236837,CMR
 2022,6,Italy,230,Cabo Verde,0.446421,CPV
 2022,6,Italy,231,Central African Republic,3.757488,CAF
@@ -37855,8 +38229,8 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,6,Italy,269,Senegal,24.012134,SEN
 2022,6,Italy,271,Eritrea,3.394184,ERI
 2022,6,Italy,272,Sierra Leone,6.69907,SLE
-2022,6,Italy,273,Somalia,13.717694,SOM
-2022,6,Italy,274,Djibouti,1.510533,DJI
+2022,6,Italy,273,Somalia,13.683516000000001,SOM
+2022,6,Italy,274,Djibouti,1.494804,DJI
 2022,6,Italy,275,Namibia,0.030713,NAM
 2022,6,Italy,278,Sudan,43.376516,SDN
 2022,6,Italy,279,South Sudan,12.74101,SSD
@@ -37869,7 +38243,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,6,Italy,298,"Africa, regional",131.346058,
 2022,6,Italy,336,Costa Rica,0.501999,CRI
 2022,6,Italy,338,Cuba,5.058825,CUB
-2022,6,Italy,340,Dominican Republic,0.078104,DOM
+2022,6,Italy,340,Dominican Republic,0.062329,DOM
 2022,6,Italy,342,El Salvador,17.368643,SLV
 2022,6,Italy,347,Guatemala,0.62907,GTM
 2022,6,Italy,349,Haiti,0.687782,HTI
@@ -37881,7 +38255,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,6,Italy,366,Panama,0.001577,PAN
 2022,6,Italy,378,Dominica,0.004009,DMA
 2022,6,Italy,383,Saint Lucia,2.282048,LCA
-2022,6,Italy,425,Argentina,0.870081,ARG
+2022,6,Italy,425,Argentina,0.834746,ARG
 2022,6,Italy,428,Bolivia,4.581047,BOL
 2022,6,Italy,431,Brazil,10.541441,BRA
 2022,6,Italy,437,Colombia,22.076305,COL
@@ -37892,15 +38266,15 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,6,Italy,489,"South America, regional",0.441687,
 2022,6,Italy,498,"America, regional",2.730045,
 2022,6,Italy,540,Iran,32.472734,IRN
-2022,6,Italy,543,Iraq,21.898771,IRQ
+2022,6,Italy,543,Iraq,21.877738,IRQ
 2022,6,Italy,549,Jordan,18.868867,JOR
 2022,6,Italy,550,West Bank and Gaza Strip,26.290666,PSE
 2022,6,Italy,555,Lebanon,62.221815,LBN
 2022,6,Italy,573,Syrian Arab Republic,34.42622,SYR
 2022,6,Italy,580,Yemen,1.159683,YEM
-2022,6,Italy,589,"Middle East, regional",3.410258,
+2022,6,Italy,589,"Middle East, regional",3.370822,
 2022,6,Italy,610,Armenia,0.398443,ARM
-2022,6,Italy,611,Azerbaijan,1.023025,AZE
+2022,6,Italy,611,Azerbaijan,1.012509,AZE
 2022,6,Italy,612,Georgia,0.617121,GEO
 2022,6,Italy,613,Kazakhstan,3.458437,KAZ
 2022,6,Italy,614,Kyrgyzstan,1.164876,KGZ
@@ -37939,7 +38313,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,6,Italy,1031,"Caribbean, regional",52.657483,
 2022,6,Italy,1032,"Central America, regional",0.266738,
 2022,6,Italy,1034,"Micronesia, regional",0.002308,
-2022,6,Italy,9998,"Bilateral, unspecified",1956.307833,
+2022,6,Italy,9998,"Bilateral, unspecified",1955.58796,
 2022,7,Netherlands,55,TÃ¼rkiye,1.045133,TUR
 2022,7,Netherlands,63,Serbia,0.452767,SRB
 2022,7,Netherlands,64,Bosnia and Herzegovina,0.22013,BIH
@@ -38445,7 +38819,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,11,Switzerland,645,India,6.644854,IND
 2022,11,Switzerland,660,Nepal,42.683486,NPL
 2022,11,Switzerland,665,Pakistan,11.052818,PAK
-2022,11,Switzerland,666,Bangladesh,45.174519000000004,BGD
+2022,11,Switzerland,666,Bangladesh,45.174519,BGD
 2022,11,Switzerland,679,"South Asia, regional",3.365738,
 2022,11,Switzerland,689,"South & Central Asia, regional",1.762665,
 2022,11,Switzerland,728,Cambodia,16.307126,KHM
@@ -39075,7 +39449,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,50,Spain,236,Benin,0.396753,BEN
 2022,50,Spain,238,Ethiopia,13.265071,ETH
 2022,50,Spain,239,Gabon,0.055349999999999996,GAB
-2022,50,Spain,240,Gambia,0.586756,GMB
+2022,50,Spain,240,Gambia,0.5867559999999999,GMB
 2022,50,Spain,241,Ghana,0.098878,GHA
 2022,50,Spain,243,Guinea,1.003417,GIN
 2022,50,Spain,244,Guinea-Bissau,1.424785,GNB
@@ -39933,7 +40307,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,83,Latvia,753,Mongolia,0.005258,MNG
 2022,83,Latvia,769,Viet Nam,0.010301,VNM
 2022,83,Latvia,870,Tonga,0.052582,TON
-2022,83,Latvia,9998,"Bilateral, unspecified",7.787689,
+2022,83,Latvia,9998,"Bilateral, unspecified",68.493523,
 2022,84,Lithuania,55,TÃ¼rkiye,0.560879,TUR
 2022,84,Lithuania,57,Kosovo,0.001609,XKX
 2022,84,Lithuania,64,Bosnia and Herzegovina,0.000946,BIH
@@ -40058,7 +40432,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,301,Canada,261,Nigeria,85.7249,NGA
 2022,301,Canada,265,Zimbabwe,0.448169,ZWE
 2022,301,Canada,266,Rwanda,4.268493,RWA
-2022,301,Canada,268,Sao Tome and Principe,0.11341999999999999,STP
+2022,301,Canada,268,Sao Tome and Principe,0.11342,STP
 2022,301,Canada,269,Senegal,30.459132,SEN
 2022,301,Canada,271,Eritrea,0.530407,ERI
 2022,301,Canada,272,Sierra Leone,0.962076,SLE
@@ -40094,7 +40468,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,301,Canada,389,"Caribbean & Central America, regional",19.364208,
 2022,301,Canada,425,Argentina,1.949466,ARG
 2022,301,Canada,428,Bolivia,15.926521,BOL
-2022,301,Canada,431,Brazil,2.3654830000000002,BRA
+2022,301,Canada,431,Brazil,2.365483,BRA
 2022,301,Canada,437,Colombia,44.374656,COL
 2022,301,Canada,440,Ecuador,15.128661,ECU
 2022,301,Canada,446,Guyana,11.490207,GUY
@@ -41026,7 +41400,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,801,Australia,765,Timor-Leste,72.23574,TLS
 2022,801,Australia,769,Viet Nam,65.228747,VNM
 2022,801,Australia,789,"Far East Asia, regional",79.239985,
-2022,801,Australia,798,"Asia, regional",44.467733,
+2022,801,Australia,798,"Asia, regional",39.56414,
 2022,801,Australia,832,Fiji,57.703638,FJI
 2022,801,Australia,836,Kiribati,27.113412,KIR
 2022,801,Australia,845,Nauru,20.368198,NRU
@@ -42560,7 +42934,7 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,971,UNAIDS,93,Moldova,0.017386,MDA
 2022,971,UNAIDS,130,Algeria,0.014476,DZA
 2022,971,UNAIDS,133,Libya,0.027,LBY
-2022,971,UNAIDS,136,Morocco,0.030048,MAR
+2022,971,UNAIDS,136,Morocco,0.030048000000000002,MAR
 2022,971,UNAIDS,139,Tunisia,0.000857,TUN
 2022,971,UNAIDS,142,Egypt,0.082465,EGY
 2022,971,UNAIDS,218,South Africa,0.190507,ZAF
@@ -43371,6 +43745,131 @@ year,donor_code,donor_name,recipient_code,recipient_name,value,recipient_iso_cod
 2022,1053,Asian Forest Cooperation Organisation,769,Viet Nam,0.557,VNM
 2022,1054,World Organisation for Animal Health,9998,"Bilateral, unspecified",7.471733,
 2022,1055,CGIAR,9998,"Bilateral, unspecified",110.532,
+2022,1057,UN Development Coordination Office,55,TÃ¼rkiye,1.162495,TUR
+2022,1057,UN Development Coordination Office,57,Kosovo,1.072589,XKX
+2022,1057,UN Development Coordination Office,63,Serbia,1.286113,SRB
+2022,1057,UN Development Coordination Office,64,Bosnia and Herzegovina,1.166503,BIH
+2022,1057,UN Development Coordination Office,65,Montenegro,0.958833,MNE
+2022,1057,UN Development Coordination Office,66,North Macedonia,1.069412,MKD
+2022,1057,UN Development Coordination Office,71,Albania,1.23482,ALB
+2022,1057,UN Development Coordination Office,85,Ukraine,2.097082,UKR
+2022,1057,UN Development Coordination Office,86,Belarus,1.22927,BLR
+2022,1057,UN Development Coordination Office,93,Moldova,1.080585,MDA
+2022,1057,UN Development Coordination Office,130,Algeria,1.224913,DZA
+2022,1057,UN Development Coordination Office,133,Libya,0.982174,LBY
+2022,1057,UN Development Coordination Office,136,Morocco,1.041227,MAR
+2022,1057,UN Development Coordination Office,139,Tunisia,0.862236,TUN
+2022,1057,UN Development Coordination Office,142,Egypt,1.550216,EGY
+2022,1057,UN Development Coordination Office,218,South Africa,1.310804,ZAF
+2022,1057,UN Development Coordination Office,225,Angola,2.008195,AGO
+2022,1057,UN Development Coordination Office,227,Botswana,1.240232,BWA
+2022,1057,UN Development Coordination Office,228,Burundi,1.793406,BDI
+2022,1057,UN Development Coordination Office,229,Cameroon,1.281121,CMR
+2022,1057,UN Development Coordination Office,230,Cabo Verde,1.33365,CPV
+2022,1057,UN Development Coordination Office,231,Central African Republic,1.274421,CAF
+2022,1057,UN Development Coordination Office,232,Chad,1.924577,TCD
+2022,1057,UN Development Coordination Office,233,Comoros,1.199268,COM
+2022,1057,UN Development Coordination Office,234,Congo,1.145306,COG
+2022,1057,UN Development Coordination Office,235,Democratic Republic of the Congo,1.287006,COD
+2022,1057,UN Development Coordination Office,236,Benin,1.060018,BEN
+2022,1057,UN Development Coordination Office,238,Ethiopia,1.395774,ETH
+2022,1057,UN Development Coordination Office,239,Gabon,1.521997,GAB
+2022,1057,UN Development Coordination Office,240,Gambia,1.259519,GMB
+2022,1057,UN Development Coordination Office,241,Ghana,1.20032,GHA
+2022,1057,UN Development Coordination Office,243,Guinea,1.681464,GIN
+2022,1057,UN Development Coordination Office,244,Guinea-Bissau,1.521052,GNB
+2022,1057,UN Development Coordination Office,245,Equatorial Guinea,1.23353,GNQ
+2022,1057,UN Development Coordination Office,247,Côte d'Ivoire,1.485059,CIV
+2022,1057,UN Development Coordination Office,248,Kenya,1.566871,KEN
+2022,1057,UN Development Coordination Office,249,Lesotho,1.392994,LSO
+2022,1057,UN Development Coordination Office,251,Liberia,1.889912,LBR
+2022,1057,UN Development Coordination Office,252,Madagascar,1.359743,MDG
+2022,1057,UN Development Coordination Office,253,Malawi,1.132336,MWI
+2022,1057,UN Development Coordination Office,255,Mali,1.102914,MLI
+2022,1057,UN Development Coordination Office,256,Mauritania,0.958006,MRT
+2022,1057,UN Development Coordination Office,257,Mauritius,1.660006,MUS
+2022,1057,UN Development Coordination Office,259,Mozambique,1.454074,MOZ
+2022,1057,UN Development Coordination Office,260,Niger,1.743123,NER
+2022,1057,UN Development Coordination Office,261,Nigeria,1.39888,NGA
+2022,1057,UN Development Coordination Office,265,Zimbabwe,1.492563,ZWE
+2022,1057,UN Development Coordination Office,266,Rwanda,1.550466,RWA
+2022,1057,UN Development Coordination Office,268,Sao Tome and Principe,1.482706,STP
+2022,1057,UN Development Coordination Office,269,Senegal,1.238995,SEN
+2022,1057,UN Development Coordination Office,271,Eritrea,1.40212,ERI
+2022,1057,UN Development Coordination Office,272,Sierra Leone,1.477981,SLE
+2022,1057,UN Development Coordination Office,273,Somalia,1.226814,SOM
+2022,1057,UN Development Coordination Office,274,Djibouti,1.776144,DJI
+2022,1057,UN Development Coordination Office,275,Namibia,1.30369,NAM
+2022,1057,UN Development Coordination Office,278,Sudan,1.649142,SDN
+2022,1057,UN Development Coordination Office,279,South Sudan,1.540496,SSD
+2022,1057,UN Development Coordination Office,280,Eswatini,1.007333,SWZ
+2022,1057,UN Development Coordination Office,282,Tanzania,1.5358,TZA
+2022,1057,UN Development Coordination Office,283,Togo,1.115502,TGO
+2022,1057,UN Development Coordination Office,285,Uganda,1.57234,UGA
+2022,1057,UN Development Coordination Office,287,Burkina Faso,1.311308,BFA
+2022,1057,UN Development Coordination Office,288,Zambia,1.531415,ZMB
+2022,1057,UN Development Coordination Office,336,Costa Rica,1.409272,CRI
+2022,1057,UN Development Coordination Office,338,Cuba,0.971342,CUB
+2022,1057,UN Development Coordination Office,340,Dominican Republic,1.22928,DOM
+2022,1057,UN Development Coordination Office,342,El Salvador,1.251262,SLV
+2022,1057,UN Development Coordination Office,347,Guatemala,1.601252,GTM
+2022,1057,UN Development Coordination Office,349,Haiti,1.732773,HTI
+2022,1057,UN Development Coordination Office,351,Honduras,1.593466,HND
+2022,1057,UN Development Coordination Office,352,Belize,0.634964,BLZ
+2022,1057,UN Development Coordination Office,354,Jamaica,1.482989,JAM
+2022,1057,UN Development Coordination Office,358,Mexico,1.207316,MEX
+2022,1057,UN Development Coordination Office,364,Nicaragua,0.109989,NIC
+2022,1057,UN Development Coordination Office,366,Panama,1.263344,PAN
+2022,1057,UN Development Coordination Office,425,Argentina,1.281298,ARG
+2022,1057,UN Development Coordination Office,428,Bolivia,1.324172,BOL
+2022,1057,UN Development Coordination Office,431,Brazil,1.399716,BRA
+2022,1057,UN Development Coordination Office,437,Colombia,1.139015,COL
+2022,1057,UN Development Coordination Office,440,Ecuador,1.40343,ECU
+2022,1057,UN Development Coordination Office,446,Guyana,1.44331,GUY
+2022,1057,UN Development Coordination Office,451,Paraguay,1.458353,PRY
+2022,1057,UN Development Coordination Office,454,Peru,1.215924,PER
+2022,1057,UN Development Coordination Office,457,Suriname,0.413931,SUR
+2022,1057,UN Development Coordination Office,463,Venezuela,1.314172,VEN
+2022,1057,UN Development Coordination Office,540,Iran,1.308999,IRN
+2022,1057,UN Development Coordination Office,543,Iraq,1.093811,IRQ
+2022,1057,UN Development Coordination Office,549,Jordan,1.766304,JOR
+2022,1057,UN Development Coordination Office,550,West Bank and Gaza Strip,1.280799,PSE
+2022,1057,UN Development Coordination Office,555,Lebanon,1.237766,LBN
+2022,1057,UN Development Coordination Office,573,Syrian Arab Republic,1.497079,SYR
+2022,1057,UN Development Coordination Office,580,Yemen,2.888497,YEM
+2022,1057,UN Development Coordination Office,610,Armenia,0.976352,ARM
+2022,1057,UN Development Coordination Office,611,Azerbaijan,1.274625,AZE
+2022,1057,UN Development Coordination Office,612,Georgia,0.891888,GEO
+2022,1057,UN Development Coordination Office,613,Kazakhstan,1.168533,KAZ
+2022,1057,UN Development Coordination Office,614,Kyrgyzstan,1.250902,KGZ
+2022,1057,UN Development Coordination Office,615,Tajikistan,1.433283,TJK
+2022,1057,UN Development Coordination Office,616,Turkmenistan,1.232639,TKM
+2022,1057,UN Development Coordination Office,617,Uzbekistan,1.39437,UZB
+2022,1057,UN Development Coordination Office,625,Afghanistan,1.48409,AFG
+2022,1057,UN Development Coordination Office,630,Bhutan,1.147014,BTN
+2022,1057,UN Development Coordination Office,635,Myanmar,1.215717,MMR
+2022,1057,UN Development Coordination Office,640,Sri Lanka,1.244861,LKA
+2022,1057,UN Development Coordination Office,645,India,1.46,IND
+2022,1057,UN Development Coordination Office,655,Maldives,1.168925,MDV
+2022,1057,UN Development Coordination Office,660,Nepal,1.036873,NPL
+2022,1057,UN Development Coordination Office,665,Pakistan,1.090878,PAK
+2022,1057,UN Development Coordination Office,666,Bangladesh,1.316443,BGD
+2022,1057,UN Development Coordination Office,728,Cambodia,1.14231,KHM
+2022,1057,UN Development Coordination Office,730,China (People's Republic of),1.841802,CHN
+2022,1057,UN Development Coordination Office,738,Indonesia,1.219362,IDN
+2022,1057,UN Development Coordination Office,740,Democratic People's Republic of Korea,1.108459,PRK
+2022,1057,UN Development Coordination Office,745,Lao People's Democratic Republic,1.288741,LAO
+2022,1057,UN Development Coordination Office,751,Malaysia,1.046758,MYS
+2022,1057,UN Development Coordination Office,753,Mongolia,1.1941,MNG
+2022,1057,UN Development Coordination Office,755,Philippines,1.282586,PHL
+2022,1057,UN Development Coordination Office,764,Thailand,1.437181,THA
+2022,1057,UN Development Coordination Office,765,Timor-Leste,1.487099,TLS
+2022,1057,UN Development Coordination Office,769,Viet Nam,1.249565,VNM
+2022,1057,UN Development Coordination Office,832,Fiji,2.704372,FJI
+2022,1057,UN Development Coordination Office,860,Micronesia,1.880244,FSM
+2022,1057,UN Development Coordination Office,862,Papua New Guinea,1.371216,PNG
+2022,1057,UN Development Coordination Office,880,Samoa,1.689658,WSM
+2022,1057,UN Development Coordination Office,9998,"Bilateral, unspecified",44.379319,
 2022,1312,Global Fund,57,Kosovo,0.200353,XKX
 2022,1312,Global Fund,63,Serbia,0.875775,SRB
 2022,1312,Global Fund,65,Montenegro,0.645002,MNE

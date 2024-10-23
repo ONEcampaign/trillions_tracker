@@ -34,7 +34,7 @@ def get_drm(
 ) -> pd.DataFrame:
     """DRM data for the specified indicator, as millions of USD."""
 
-    weo = WorldEconomicOutlook(year=2024, release=1)
+    weo = WorldEconomicOutlook(year=2024, release=2)
     weo.load_data(indicator=indicator)
 
     # As percent of GDP
@@ -91,7 +91,7 @@ def export_drm_oecd(
     start_year: int = 2015,
     end_year: int = 2028,
     prices: str = "constant",
-    base_year: int = 2019,
+    base_year: int | None = 2019,
     only_emde: bool = True,
 ):
     suffix = f"constant_{base_year}" if prices == "constant" else "current"

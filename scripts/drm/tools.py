@@ -15,7 +15,7 @@ set_pydeflate_path(config.Paths.raw_data)
 
 
 def get_usd_gdp() -> pd.DataFrame:
-    weo = WorldEconomicOutlook(year=2024, release=1)
+    weo = WorldEconomicOutlook(year=2024, release=2)
     weo.load_data(indicator=["NGDPD"])
     data = (
         weo.get_data().rename(columns={"value": "gdp_usd"}).drop(columns=["indicator"])
